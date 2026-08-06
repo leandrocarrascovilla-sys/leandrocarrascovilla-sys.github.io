@@ -4,9 +4,9 @@ Para su creación se utilizaron los sueños de 3 niños, cada uno incapaz de lle
 
 Para el sueño de la Plenitud, se junto a los siguientes sujetos:
 
-- [[El Niño - Nycto]], con un sueño de
-- [[La Niña - Nisba]]
-- [[El Niño - Noos]]
+- [[Nycto]], con un sueño de
+- [[Nisba]]
+- [[Noos]]
 
 
 

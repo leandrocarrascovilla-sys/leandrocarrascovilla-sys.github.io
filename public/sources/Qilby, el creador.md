@@ -2,4 +2,4 @@ En un personaje relacionado con los acontecimientos, seguramente el encargado de
 
 Como un científico o un mago capaz de lograrlo. 
 
-Tecnicamente 
+Técnicamente
