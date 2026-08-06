@@ -6,8 +6,7 @@ Clase: Paladín
 Alineamiento: Neutral
 Edad: "27"
 Procedencia: "[[Lugar de Origen]]"
-Deidad Original: "[[Nombre de la Deidad]]"
-Faccion_o_Gremio: "[[Nombre de la Faccion]]"
+Faccion_o_Gremio: "[[-Los 7 Grandes Sueños-]]"
 Personalidad:
   - 
   - 
@@ -19,16 +18,13 @@ Estado: Vivo
 Grupo: "[[Nombre del Grupo]]"
 ---
 
-# [[Nombre del Personaje]]
-
-> [!quote] Frase célebre o cita representativa del personaje.
+> [!quote] 
 
 ## Historia y Biografía
-Escribe aquí el trasfondo detallado del personaje...
+
 
 ## Aspecto Físico
 - **Altura/Peso:** 
-- **Ojos/Pelo:** 
 - **Marcas distintivas:** 
 
 ## Relaciones Importantes
