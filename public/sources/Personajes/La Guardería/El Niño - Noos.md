@@ -1,4 +1,4 @@
-Uno de los niños pertenecientes a [[La Guardería]].
+Uno de los niños pertenecientes a [[-La Guardería-]].
 
 Posibles Nombres: 
 - Nesciencia
