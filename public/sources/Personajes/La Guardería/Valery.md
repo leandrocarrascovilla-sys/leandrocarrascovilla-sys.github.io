@@ -1,59 +1,15 @@
 ---
 tags:
-  - pj
-  - dnd35
-nombre: ""
-clase: ""
-raza: ""
+  - Orfanato
+nombre: Valery Straud
+raza: Humana
 ---
 
-# ⚔️ {{title}}
+## Imagen
+### Diario de Noos
 
-## 📋 Ficha de Identidad
+"Valery es la tipica persona callada, pero fuerte. Es alguien muy popular en nuestro orfanato, muy a su pesar, ya que lo único que quería era vivir su vida tranquilamente junto a su mejor amigo, [[Alain]]. Valery también es quien tiene más maestría con la espada de todo nuestro grupo. Si había algo que nosotros no podíamos hacer en combate, ella sin duda podía sacarlo adelante. Es una persona verdaderamente admirable.
 
-* **Nombre completo:** 
-* **Concepto / Arquetipo:** 
-* **Clase / Raza:** 
-* **Alineamiento:** 
-* **Deidad:** 
-* **Apariencia física:** 
+No compartimos esa intimidad tan profunda  que tengo con ellos dos, pero contar en el grupo con alguien tan capaz, sereno y leal es algo que siempre he valorado muchísimo."
 
----
 
-## 🎭 Personalidad y Motivaciones
-
-* **Rasgos de personalidad:** 
-* **Motivación principal:** *(¿Por qué sale de aventura?)*
-* **Ideales:** 
-* **Vínculos:** *(Amigos, familia, gremios, aliados)*
-* **Enemigos / Rivalidades:** 
-* **Miedos o debilidades:** 
-
----
-
-## 📜 Capacidades y Habilidades Clave
-
-> *Anota aquí de forma descriptiva lo que mejor sabe hacer tu personaje o sus capacidades únicas según la 3.5 (sin entrar en números de hoja de personaje).*
-
-* **Especialidades:** *(Ej: Experto en diplomacia, rastreador nocturno, maestro en venenos...)*
-* **Capacidades especiales de clase/raza:** 
-
----
-
-## 📖 Trasfondo (Backstory)
-
-*Escribe aquí la historia de tu personaje antes de comenzar la aventura...*
-
----
-
-## 🗒️ Notas de Campaña
-
-- [ ] **Objetivo actual:** 
-- [ ] **Contactos importantes:** 
-- [ ] **Misterios / Pistas a investigar:** 
-
-### Diarios o reflexiones de sesión
-> [!quote] Sesión 1
-> *Reflexiones o acontecimientos importantes escritos desde la perspectiva del personaje...*
-
-![[Valery.jpg]]

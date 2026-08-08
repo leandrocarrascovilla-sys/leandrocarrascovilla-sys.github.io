@@ -20,7 +20,7 @@ Grupo: "[[Nombre del Grupo]]"
 
 > [!quote] 
 
-## Historia y Biografía
+# Historia y Biografía
 
 
 ## Aspecto Físico
