@@ -9,7 +9,7 @@ El golpeteo de la lluvia contra el cristal era el único sonido que llenaba el s
 
 —Es una ilusión —replicó ella, dando un golpe sordo sobre la mesa de madera—. Tienes que despertar y aceptar la realidad. Aferrarte a nuestro sueño no te va a salvar, solo te va a destruir.
 
-Clara esbozó una sonrisa melancólica. Con lentitud, rozó el borde de su taza de café y, con una voz suave que parecía resonar desde mucho más lejos que aquella pequeña habitación, pronunció sus últimas palabras:
+[[Qilby]] esbozó una sonrisa melancólica. Con lentitud, rozó el borde de su taza de café y, con una voz suave que parecía resonar desde mucho más lejos que aquella pequeña habitación, pronunció sus últimas palabras: ==/Corregir/==
 
 —¿Qué valor tiene un sueño para ti? Para mí, lo es absolutamente todo. Hay quienes aseguran que son meras quimeras infantiles, ecos de una época ingenua que se desvanecen bajo el peso del mundo. Sin embargo, ¿qué ocurriría si tomáramos la fuerza de ese sueño y lo forzáramos a cumplir su destino? Todo el mundo sabe que el hilo de nuestra vida tiene un propósito —en esta, en las pasadas y en las venideras—, un destino ineludible que, irónicamente, casi nunca se parece a lo que soñábamos cuando éramos niños...
 
