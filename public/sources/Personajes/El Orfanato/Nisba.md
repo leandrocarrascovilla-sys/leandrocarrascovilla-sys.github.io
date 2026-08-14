@@ -9,7 +9,7 @@ nombre:
 
 
 
-Uno de los niños pertenecientes a [[-La Guardería-]].
+Uno de los niños pertenecientes a [[La Casa de los Ecos]].
 
 Características: 
 - Proveniente de Yefra

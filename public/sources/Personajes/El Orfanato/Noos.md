@@ -1,4 +1,4 @@
-Uno de los niños pertenecientes a [[-La Guardería-]].
+Uno de los niños pertenecientes a [[La Casa de los Ecos]].
 
 Posibles Nombres: 
 - Nesciencia

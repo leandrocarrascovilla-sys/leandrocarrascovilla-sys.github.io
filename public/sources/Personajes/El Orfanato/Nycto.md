@@ -1,7 +1,7 @@
 La niña del fuego del desierto.
 
 
-Uno de los niños pertenecientes a [[-La Guardería-]].
+Uno de los niños pertenecientes a [[La Casa de los Ecos]].
 
 Características: 
 - Proveniente de Bonetsi
