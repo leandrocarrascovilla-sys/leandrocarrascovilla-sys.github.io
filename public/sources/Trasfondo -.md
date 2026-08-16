@@ -201,7 +201,7 @@ Fue entonces cuando [[Nycto]] apareció junto a ellos, saliendo de la penumbra c
 
 —¿Cómo sabes eso? —preguntó [[Noos]].
 
-—Subo ahí cuando quiero tocar el piano sin que nadie se queje —respondió [[Nycto]], con una sequedad que no dejaba traslucir ninguna emoción, aunque la mano que sostenía el candil apretaba el asa con más fuerza de la necesaria—. Es el único sitio de esta casa donde nadie sube nunca.
+—Subo ahí cuando necesito que nadie me encuentre —respondió [[Nycto]], con una sequedad que no dejaba traslucir ninguna emoción, aunque la mano que sostenía el candil apretaba el asa con más fuerza de la necesaria—. Es el único sitio de esta casa donde nadie sube nunca.
 
 Los cuatro se miraron durante un segundo que pareció más largo de lo que fue. Y sin necesidad de decir nada más, echaron a andar juntos hacia el ala este, esquivando a los demás niños y a los cuidadores que iban y venían con velas y mantas, mientras la tormenta seguía descargando su furia contra los cristales.
 
