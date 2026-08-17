@@ -1,21 +1,21 @@
 ---
-nombre:
+tags:
+  - Orfanato
+nombre: Nisba
+raza: Humana
+Edad: "17"
+ASIR: "[[Noos, el soñador de la Plenitud]]"
 ---
-
-
-
-
-
-
-
-
-Uno de los niños pertenecientes a [[La Casa de los Ecos]].
-
 Características: 
 - Proveniente de Yefra
+### Imagen
+
+![[Valery.jpg]]
 
 
-### Recuerdo de Noos
+---
+
+### Diario de Noos
 
 "Nisba, [[Nycto]] y yo siempre hemos sido inseparables, un trío de amigos increíblemente cercanos que compartían absolutamente todo. De hecho, ella era la clase de chica que, sin pensarlo dos veces, dejaba todo lo que estaba haciendo con tal de tenderte una mano. No importaba el problema ni la hora; cada vez que me sentía perdido y necesitaba un consejo, ella siempre tenía la respuesta perfecta.
 

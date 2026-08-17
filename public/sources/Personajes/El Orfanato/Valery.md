@@ -4,6 +4,7 @@ tags:
 nombre: Valery Straud
 raza: Humana
 Edad: "17"
+ASIR: "[[Imperia, la soñadora del Poder]]"
 ---
 
 ### Imagen
@@ -19,4 +20,4 @@ Edad: "17"
 
 No compartimos esa intimidad tan profunda  que tengo con ellos dos, pero contar en el grupo con alguien tan capaz, sereno y leal es algo que siempre he valorado muchísimo."
 
-
+_Entrada del diario de Noos sobre Valery._

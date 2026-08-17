@@ -1,10 +1,20 @@
-La niña del fuego del desierto.
-
-
-Uno de los niños pertenecientes a [[La Casa de los Ecos]].
+---
+tags:
+  - Orfanato
+nombre: Nycto
+raza:
+Edad: "17"
+ASIR: "[[Noos, el soñador de la Plenitud]]"
+---
 
 Características: 
 - Proveniente de Bonetsi
+### Imagen
+
+![[Valery.jpg]]
+
+
+---
 
 ### Diario de Noos
 
@@ -13,5 +23,4 @@ Características:
 A decir verdad, no sabría qué hacer sin él ni sin Nisba. Los tres formamos un equipo extraño pero perfecto, un pequeño refugio donde podemos ser nosotros mismos. Nisba es siempre nuestro ancla, la que pone orden y calma las aguas cuando el caos estalla (especialmente con los "incidentes" de Nycto), mientras que yo siempre intento actuar de mediador en esas situaciones sociales que tanto le fastidian y que siempre está a punto de arruinar con su hostilidad. Nos complementamos maravillosamente. Y aunque a veces mi propia mente me traicione y me consuman los celos al ver esa conexión tan íntima que comparten ellos dos, cuando estamos los tres juntos me doy cuenta de lo mucho que los necesito. Son mis mejores amigos, mi familia elegida, mi sueño. Por encima de cualquier inseguridad o dolor interno, sé que daría lo que fuera por protegernos y mantener esta amistad inquebrantable."
 
 — _Entrada del diario de Noos sobre Nycto._
-
 

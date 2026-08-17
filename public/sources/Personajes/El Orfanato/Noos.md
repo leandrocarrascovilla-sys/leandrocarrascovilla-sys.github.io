@@ -1,6 +1,19 @@
-Uno de los niños pertenecientes a [[La Casa de los Ecos]].
+---
+tags:
+  - Orfanato
+nombre: Noos
+raza:
+Edad: "17"
+ASIR: "[[Noos, el soñador de la Plenitud]]"
+---
 
-Posibles Nombres: 
-- Nesciencia
-- Noos !!! ==> [[Concepto de Noos y los Sueños]]
--
+### Imagen
+
+![[Noos.jpg]]
+
+
+---
+
+### Diario de Noos
+
+

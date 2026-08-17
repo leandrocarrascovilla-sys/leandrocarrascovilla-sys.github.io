@@ -35,7 +35,7 @@ Extendió una mano temblorosa y alisó uno de los planos principales, trazando c
 
 —Bien —concedió finalmente—. Si vamos a tomar nuestros sueños y usarlos para reescribir el destino... más nos vale no cometer ni un solo error. ¿Por dónde empezamos?
 
-#### Capítulo 1 - Uno de muchos
+#### Capítulo 1 - Uno de muchos.
 [[Noos]] nació en un pueblo tan pequeño que no aparecía en la mayoría de los mapas, uno de esos lugares donde el tiempo parecía transcurrir más despacio, marcado únicamente por las estaciones y las campanas de la única iglesia. Su padre trabajaba la tierra desde antes del amanecer; su madre tejía y remendaba ropa para las familias del pueblo, sentada junto a la ventana mientras el pequeño [[Noos]] jugaba a sus pies con piedras que él convertía, en su imaginación, en sus amigos.
 
 No fue una infancia de lujos, pero sí una infancia con nombre, con manos que lo peinaban antes de dormir y con una voz —la de su madre— que le cantaba canciones que él ya no recordaba del todo, solo la melodía, solo la sensación de calidez que dejaban al terminar.
@@ -85,7 +85,7 @@ Cruzaron juntos el patio cubierto de nieve. Antes de llegar a la puerta, [[Shino
 Afuera, la nieve seguía cayendo, cubriendo poco a poco las huellas del camino que [[Noos]] había recorrido hasta entonces. Dentro, mientras cruzaba por primera vez el umbral de [[La Casa de los Ecos]] de la mano de [[Shino]], sintió algo parecido a la esperanza. Y aunque todavía no lo sabía, aquel apretón de manos sería el primer hilo de una historia que apenas empezaba a tejerse.
 
 
-#### Capítulo 2 - 
+#### Capítulo 2 -  
 
 Los primeros días en [[La Casa de los Ecos]] transcurrieron para [[Noos]] entre el desconcierto y una cautela que no terminaba de disolverse. Aprendió los horarios, el camino hasta el comedor y hasta el pequeño patio trasero donde, según le pareció entender, en verano crecían fresas silvestres junto al muro.
 
@@ -119,7 +119,7 @@ Una tarde, mientras ayudaba a [[Shino]] a ordenar unos libros en la pequeña bib
 
 No añadió nada más. Pero esa noche, mientras cerraba la casa después de que los niños se hubieran acostado, [[Shino]] se quedó un momento junto a la ventana del despacho, mirando la oscuridad del patio, pensando en una promesa antigua que todavía no sabía si sería capaz de cumplir.
 
-#### Capítulo 3 - Dos hilos nuevos
+#### Capítulo 3 - Dos hilos nuevos.
 Pasaron meses antes de que [[Noos]] dejara de contar los días desde su llegada a [[La Casa de los Ecos]]. La primavera dio paso a un verano de tardes largas y fresas robadas del muro del patio, y con él llegó una costumbre nueva: la de sentirse, la mayor parte del tiempo, en un lugar al que pertenecía. No del todo, no siempre, pero sí lo suficiente como para que la vieja pregunta de [[Shino]] —¿qué quieres llegar a ser?— hubiera dejado de pesarle como una losa y empezara a parecerse, aunque fuera un poco, a una promesa.
 
 Fue en ese verano cuando llegó [[Nycto]].
@@ -159,7 +159,7 @@ El sueño que le había confesado a [[Shino]] meses atrás —pertenecer a algo,
 No se atrevió a acercarse a [[Nycto]] esa semana, ni la siguiente. Pero empezó, sin decírselo a nadie, a guardarle un sitio libre en la mesa cuando se sentaba junto a [[Nisba]], por si acaso, algún día, decidía usarlo.
 
 
-#### Capítulo 4 - La noche en que se apagaron las luces
+#### Capítulo 4 - La noche en que se apagaron las luces.
 
 El verano terminó sin que [[Noos]] llegara a cruzar más de un par de frases con [[Nycto]]. No por falta de intención —el sitio libre seguía reservándose cada mediodía, casi por costumbre ya, entre él y [[Nisba]]—, sino porque [[Nycto]] parecía haber decidido que la distancia era la única lengua en la que se sentía cómodo hablando. Contestaba con monosílabos cuando le preguntaban algo directo, se marchaba de las conversaciones en el momento exacto en que dejaban de interesarle, y solo se le veía relajado de verdad en dos sitios: frente al piano desafinado del salón de música, y en la cocina, los sábados por la tarde, cuando le dejaban ayudar con los postres de la semana.
 
