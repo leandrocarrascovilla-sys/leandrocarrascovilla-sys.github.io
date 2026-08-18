@@ -11,8 +11,8 @@ Características:
 - Proveniente de Bonetsi
 ### Imagen
 
-![[Valery.jpg]]
 
+![[Nycto.jpg]]
 
 ---
 

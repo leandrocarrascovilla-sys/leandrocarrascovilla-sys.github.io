@@ -85,7 +85,7 @@ Cruzaron juntos el patio cubierto de nieve. Antes de llegar a la puerta, [[Shino
 Afuera, la nieve seguía cayendo, cubriendo poco a poco las huellas del camino que [[Noos]] había recorrido hasta entonces. Dentro, mientras cruzaba por primera vez el umbral de [[La Casa de los Ecos]] de la mano de [[Shino]], sintió algo parecido a la esperanza. Y aunque todavía no lo sabía, aquel apretón de manos sería el primer hilo de una historia que apenas empezaba a tejerse.
 
 
-#### Capítulo 2 -  
+#### Capítulo 2 -  Dos
 
 Los primeros días en [[La Casa de los Ecos]] transcurrieron para [[Noos]] entre el desconcierto y una cautela que no terminaba de disolverse. Aprendió los horarios, el camino hasta el comedor y hasta el pequeño patio trasero donde, según le pareció entender, en verano crecían fresas silvestres junto al muro.
 

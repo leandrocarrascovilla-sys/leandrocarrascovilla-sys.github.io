@@ -10,7 +10,7 @@ ASIR: "[[Lyra, la soñadora de la Aventura]]"
 ### Imagen
 
 
-
+![[Vega.jpg]]
 
 ---
 

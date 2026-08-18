@@ -10,8 +10,8 @@ Características:
 - Proveniente de Yefra
 ### Imagen
 
-![[Valery.jpg]]
 
+![[Nisba.jpg]]
 
 ---
 

@@ -2,15 +2,15 @@
 tags:
   - Orfanato
 nombre: Gisela
-raza: Humana
+raza: Aasimar
 Edad: "17"
 ASIR: "[[Isolda, la soñadora del Amor]]"
 ---
 
 ### Imagen
 
-![[Valery.jpg]]
 
+![[Gisela.png]]
 
 ---
 
