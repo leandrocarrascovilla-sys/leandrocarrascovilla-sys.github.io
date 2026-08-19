@@ -25,7 +25,7 @@ La aspiración de ser dueño absoluto del propio tiempo, espacio y decisiones. N
 _En la práctica:_ Independencia financiera, ser tu propio jefe, o adoptar un estilo de vida sin ataduras geográficas ni horarios fijos. 
 Su sombra: la libertad puede volverse aislamiento si nunca se elige comprometerse con nada ni con nadie.
 
-4. El sueño de la Sabiduría y el Conocimiento - [[Taliesin, el soñador del Conocimiento]]
+4. El sueño de la Sabiduría y el Conocimiento - [[Kariel, el soñador del Conocimiento]]
 
 El motor es la curiosidad que nunca se satisface del todo: entender cómo funciona el mundo, la mente o el universo, no como acumulación de datos sino como búsqueda de sentido detrás de las cosas.
 

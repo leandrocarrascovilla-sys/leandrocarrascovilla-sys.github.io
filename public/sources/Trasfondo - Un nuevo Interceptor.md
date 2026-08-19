@@ -1,4 +1,5 @@
 #### Capítulo 0 - Un recuerdo...
+
 "¿Qué son los sueños en verdad?"
 
 [[Qilby]] llevaba tiempo dándole vueltas a esa pregunta, mucho antes de que la lluvia empezara a golpear el cristal aquella noche, mucho antes de que los planos terminaran cubriendo la mesa entre él y Shino. Pero fue esa noche, con la tormenta desdibujando las luces de la ciudad al otro lado de la ventana, cuando por fin encontró el valor —o la desesperación— para responderla en voz alta.
@@ -36,6 +37,7 @@ Extendió una mano temblorosa y alisó uno de los planos principales, trazando c
 —Bien —concedió finalmente—. Si vamos a tomar nuestros sueños y usarlos para reescribir el destino... más nos vale no cometer ni un solo error. ¿Por dónde empezamos?
 
 #### Capítulo 1 - Uno de muchos.
+
 [[Noos]] nació en un pueblo tan pequeño que no aparecía en la mayoría de los mapas, uno de esos lugares donde el tiempo parecía transcurrir más despacio, marcado únicamente por las estaciones y las campanas de la única iglesia. Su padre trabajaba la tierra desde antes del amanecer; su madre tejía y remendaba ropa para las familias del pueblo, sentada junto a la ventana mientras el pequeño [[Noos]] jugaba a sus pies con piedras que él convertía, en su imaginación, en sus amigos.
 
 No fue una infancia de lujos, pero sí una infancia con nombre, con manos que lo peinaban antes de dormir y con una voz —la de su madre— que le cantaba canciones que él ya no recordaba del todo, solo la melodía, solo la sensación de calidez que dejaban al terminar.
@@ -120,6 +122,7 @@ Una tarde, mientras ayudaba a [[Shino]] a ordenar unos libros en la pequeña bib
 No añadió nada más. Pero esa noche, mientras cerraba la casa después de que los niños se hubieran acostado, [[Shino]] se quedó un momento junto a la ventana del despacho, mirando la oscuridad del patio, pensando en una promesa antigua que todavía no sabía si sería capaz de cumplir.
 
 #### Capítulo 3 - Dos hilos nuevos.
+
 Pasaron meses antes de que [[Noos]] dejara de contar los días desde su llegada a [[La Casa de los Ecos]]. La primavera dio paso a un verano de tardes largas y fresas robadas del muro del patio, y con él llegó una costumbre nueva: la de sentirse, la mayor parte del tiempo, en un lugar al que pertenecía. No del todo, no siempre, pero sí lo suficiente como para que la vieja pregunta de [[Shino]] —¿qué quieres llegar a ser?— hubiera dejado de pesarle como una losa y empezara a parecerse, aunque fuera un poco, a una promesa.
 
 Fue en ese verano cuando llegó [[Nycto]].
