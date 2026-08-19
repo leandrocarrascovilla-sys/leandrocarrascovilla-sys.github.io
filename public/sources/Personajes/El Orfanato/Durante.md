@@ -9,8 +9,8 @@ ASIR: "[[Dante, el soñador del Legado]]"
 
 ### Imagen
 
-![[Valery.jpg]]
 
+![[Durante.jpg]]
 
 ---
 
