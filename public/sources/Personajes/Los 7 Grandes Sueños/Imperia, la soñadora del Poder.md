@@ -17,19 +17,3 @@ Temores:
 Estado: Vivo
 Grupo: "[[Nombre del Grupo]]"
 ---
-
-> [!quote] 
-
-# Historia y Biografía
-
-
-## Aspecto Físico
-- **Altura/Peso:** 
-- **Marcas distintivas:** 
-
-## Relaciones Importantes
-- **[[Nombre de Aliado]]**: Relación o vínculo.
-- **[[Nombre de Enemigo]]**: Motivo de la enemistad.
-
-## Notas de Sesión y Progresión
--
