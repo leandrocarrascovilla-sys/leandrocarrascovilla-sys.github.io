@@ -9,8 +9,8 @@ ASIR: "[[Zéfiro, el soñador de la Libertad]]"
 
 ### Imagen
 
+![[Eizen.jpg]]
 
-![[Durante.jpg]]
 
 ---
 
