@@ -2,7 +2,7 @@
 tags:
   - Orfanato
 nombre: Kanon
-raza: Humano
+raza: Cambiante
 Edad: "15"
 ASIR: "[[Kariel, el soñador del Conocimiento]]"
 ---
