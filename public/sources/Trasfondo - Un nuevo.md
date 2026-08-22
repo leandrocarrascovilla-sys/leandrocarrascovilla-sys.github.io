@@ -245,3 +245,91 @@ Esa noche, ya de vuelta en su cama, con la tormenta reducida a una lluvia mansa 
 Se preguntó, sin poder evitarlo, qué se sentiría al tener eso: alguien con quien discutir y reconciliarse en el mismo aliento, alguien que llevara ahí desde siempre, dándolo por hecho como se da por hecho el aire. Él nunca lo había tenido, y hasta esa noche no se había parado a pensar en lo que se había perdido. No supo qué hacer con ese pensamiento, así que, por esa noche, se limitó a dejarlo estar.
 
 Por primera vez desde la muerte de su madre, [[Noos]] se durmió sin necesidad de esperar nada. Ya tenía, esa noche, algo que sostener entre las manos.
+
+#### Capítulo 5 - El que nadie escucha y la que nadie olvida.
+
+El invierno volvió a [[La Casa de los Ecos]] con la misma puntualidad de siempre, aunque aquel año trajo consigo dos caras nuevas que el resto de los niños tardaría en aprender a mirar sin recelo.
+
+[[Kanon]] llegó un martes cualquiera, sin tormenta ni nieve que anunciara nada especial, y desde el primer minuto dejó claro que no pensaba pasar desapercibido. Antes de que [[Shino]] terminara de mostrarle su habitación, ya le había preguntado por qué las tejas del tejado eran de ese color y no de otro, cuántos niños vivían exactamente en la casa, si era cierto que en invierno se podían ver las estrellas mejor que en verano, y —sin pausa para respirar entre una pregunta y la siguiente— si alguien le podía explicar por qué el fuego era amarillo y no verde, porque él había leído en un libro que dependía de algo llamado "combustión" y quería saber más.
+
+—Todo a su tiempo, [[Kanon]] —había respondido [[Shino]], con una paciencia que no dejaba traslucir cuánto le divertía aquella avalancha de curiosidad—. Aquí vas a tener tiempo de sobra para hacer todas las preguntas que quieras.
+
+Lo que [[Shino]] no dijo, porque no era su lugar decirlo todavía, era que tener tiempo de sobra para preguntar no era lo mismo que tener a alguien dispuesto a escuchar la respuesta.
+
+[[Noos]] lo comprobó por sí mismo apenas dos días después, sentado en el comedor junto a [[Nisba]] y [[Nycto]], cuando [[Kanon]] se acercó a su mesa con el entusiasmo de quien no ha aprendido todavía que no todo el mundo comparte su curiosidad.
+
+—¿Sabíais que los pulpos tienen tres corazones? —preguntó, dejándose caer en el banco sin que nadie lo invitara, con una sonrisa que no pedía permiso para existir—. Dos bombean sangre a las branquias y uno al resto del cuerpo. Y cuando nadan, el corazón que va al resto del cuerpo deja de latir. Por eso prefieren arrastrarse en vez de nadar, para no cansarse tanto.
+
+—Qué interesante —dijo [[Nisba]], con una sonrisa educada, antes de volver a la conversación que tenía con [[Nycto]] sobre una receta de pan.
+
+[[Kanon]] no pareció desanimarse. Se quedó allí sentado, picoteando de su plato, esperando el momento de encontrar otro hueco por el que colarse en la charla. Lo encontró un par de minutos después, cuando [[Nycto]] mencionó de pasada que el horno de la cocina tardaba demasiado en calentarse.
+
+—Eso es porque el calor tarda en distribuirse de manera uniforme —intervino, con los ojos brillantes—. Depende del material del horno. Si fuera de hierro fundido en vez de chapa, conservaría mejor el calor, aunque tardaría más al principio en...
+
+—[[Kanon]] —cortó [[Nisba]], sin mala intención, pero sin darle importancia tampoco—, estábamos hablando de otra cosa.
+
+—Ah. Vale.
+
+Lo dijo sin resentimiento aparente, casi como si ya lo esperara. Se levantó con su bandeja, murmuró algo sobre ir a ver si necesitaban ayuda en la cocina, y se marchó. [[Noos]], que llevaba un rato observando la escena en silencio, sintió una punzada de reconocimiento incómodo: no era la primera vez que veía a alguien intentar ocupar un espacio que nadie le estaba reservando.
+
+—Habla mucho —comentó [[Nycto]], sin levantar la vista del plato, en un tono que no era del todo una crítica.
+
+—Habla mucho porque nadie le deja terminar de decir nada —respondió [[Noos]], sorprendido de la firmeza con la que le salió la frase.
+
+[[Nisba]] lo miró un momento, pensativa, pero no dijo nada más. Y aunque nadie en la mesa volvió a mencionarlo esa tarde, [[Noos]] no consiguió quitarse de la cabeza la imagen de [[Kanon]] alejándose con la bandeja, con esa sonrisa que no había llegado a apagarse del todo, como si estuviera acostumbrado a que las cosas terminaran así y hubiera decidido, de todos modos, que no valía la pena dejar de intentarlo.
+
+---
+
+[[Gisela]] llevaba en [[La Casa de los Ecos]] más de tres años cuando llegó [[Kanon]], casi desde que tenía memoria de otra casa que no fuera esa, y en ese tiempo se había ganado una reputación que pocos se molestaban en cuestionar: la de alguien a quien era mejor no molestar. No hablaba mucho, no sonreía con facilidad, y tenía una manera de mirar —fija, sin parpadear apenas— que hacía que hasta los cuidadores más veteranos midieran sus palabras cuando se dirigían a ella. Los más pequeños contaban, entre susurros y alguna exageración de más, que una vez le había roto la nariz a un chico del pueblo el doble de grande que ella, aunque nadie recordaba ya bien por qué, ni si aquello había ocurrido de verdad.
+
+Lo que sí era cierto, porque [[Durante]] y [[Vega]] podían dar fe de ello, era lo que había pasado dos inviernos atrás, antes de que [[Noos]] llegara a la casa.
+
+==Un grupo de chicos mayores, de los que salían al pueblo con más libertad que el resto==, se habían dedicado durante semanas a hacerle la vida imposible a [[Vega]] por algo tan pequeño y tan cruel como su forma de hablar cuando se ponía nerviosa. Le escondían sus cosas, la imitaban en voz alta cuando pasaba, se reían hasta que ella dejaba de intentar defenderse y se limitaba a bajar la cabeza y seguir caminando, algo tan impropio de ella que hasta [[Durante]], que solía burlarse de su hermana con cariño por cualquier cosa, había empezado a notar que algo iba mal mucho antes de que ella se lo contara.
+
+Nadie supo con exactitud qué le dijo [[Gisela]] a aquellos chicos el día que decidió intervenir. Lo único que se sabía, porque hubo testigos suficientes como para que la historia sobreviviera dos años sin apenas deformarse, era que se plantó frente al que parecía liderar el grupo, más pequeña que él en al menos una cabeza, y le habló en voz tan baja que nadie llegó a escuchar las palabras exactas. Lo que sí vieron todos fue la cara del chico al terminar de escucharla: pálida, muy quieta, como si acabara de entender algo que preferiría no haber entendido nunca. Nadie volvió a molestar a [[Vega]] después de aquello. Ni una sola vez más.
+
+—No necesitaba que nadie me defendiera —le había dicho [[Vega]] a [[Gisela]] al día siguiente, con el orgullo herido de quien prefiere pelear sus propias batallas—. Lo tenía controlado.
+
+—Ya lo sé —había respondido [[Gisela]], sin necesidad de discutir el punto, sin darle mayor importancia de la que parecía merecer para ella—. Pero no tenías por qué seguir teniéndolo controlado tú sola.
+
+Desde entonces, aunque [[Vega]] jamás lo admitiría en voz alta delante de nadie, guardaba por [[Gisela]] una lealtad silenciosa que se notaba en pequeños gestos: le guardaba sitio en las excursiones, defendía su mal genio delante de quien se atreviera a criticarlo, y una vez, cuando alguien comentó que daba miedo, había respondido con una sequedad que sorprendió a todos los presentes: "Solo da miedo si le importas lo bastante poco como para hacerte daño. Si le importas de verdad, da lo contrario."
+
+---
+
+[[Noos]] no llegó a presenciar aquella historia —solo la conocería meses después, contada por [[Vega]] con una mezcla de reticencia y cariño que dejaba claro cuánto pesaba todavía—, pero sí presenció, esa misma semana en que [[Kanon]] llegó a la casa, algo que le hizo entender de golpe por qué nadie se atrevía a llevarle la contraria a [[Gisela]].
+
+Ocurrió una tarde de lluvia fina, de las que no dejan jugar fuera pero tampoco parecen justificar quedarse encerrado en la habitación. Un grupo de chicos algo mayores que [[Noos]] se había reunido en la sala común, y entre ellos estaba un chico llamado Bram, conocido en la casa por su lengua afilada y su costumbre de buscar el punto débil de cualquiera con una precisión casi quirúrgica.
+
+[[Kanon]] cometió el error —si es que podía llamarse así— de acercarse a preguntar si alguien quería jugar a un juego que acababa de aprender, algo sobre adivinar animales a partir de tres pistas. Iker lo dejó terminar de explicarlo, con una paciencia que [[Noos]], que observaba desde una esquina con un libro que ya había dejado de leer, reconoció enseguida como el preludio de algo desagradable.
+
+—¿Sabes qué animal me recuerdas tú? —dijo Iker, cuando [[Kanon]] terminó—. Un perico. De esos que no paran de hablar aunque nadie les haga ni caso. Toda la casa lo dice, por si no te habías enterado. "Ahí viene el perico otra vez."
+
+Las risas que siguieron no fueron generales —varios niños se removieron incómodos en sus asientos, sin reírse pero sin decir nada tampoco—, pero fueron suficientes. [[Kanon]] se quedó quieto un segundo, con la sonrisa todavía puesta a medias en la cara, como si su cuerpo no hubiera tenido tiempo de avisarle de que debía borrarla.
+
+—Ya —dijo, con una voz mucho más pequeña que la que había usado un minuto antes—. Vale. No pasa nada.
+
+Se dio la vuelta para marcharse, y fue justo entonces cuando [[Gisela]] entró en la sala, atraída quizás por el ruido de las risas, o quizás —[[Noos]] nunca llegó a saberlo con certeza— por algún instinto que parecía tener siempre encendido para este tipo de cosas. Se detuvo en el umbral, evaluó la escena en menos de dos segundos, y caminó directamente hacia Bram con una calma que resultaba, de algún modo, mucho más inquietante que si hubiera llegado gritando.
+
+—¿Perico? —repitió, sin levantar apenas la voz.
+
+—Solo estábamos bromeando —empezó Bram, pero se detuvo en cuanto [[Gisela]] llegó a quedar frente a él, demasiado cerca para resultar cómodo, con esa mirada fija que hacía que hasta los cuidadores midieran sus palabras.
+
+—Un perico repite lo que oye —dijo ella, en el mismo tono bajo y sin prisa que [[Vega]] describiría, dos años después, con un escalofrío todavía presente en la voz—. Kanon no repite nada. Sabe cosas. Las cuenta porque le gusta compartirlas, no porque sea tonto. Y tú, en cambio, no has dicho nada interesante en tu vida, así que si de los dos alguien se parece a un pájaro que solo hace ruido sin decir nada de valor, no es precisamente él.
+
+El silencio que siguió fue absoluto. Bram abrió la boca para responder, la cerró de nuevo, y finalmente se limitó a apartar la mirada, murmurando algo ininteligible antes de encontrar una excusa para marcharse de la sala con la dignidad que le quedaba. Nadie volvió a llamar "perico" a [[Kanon]] después de aquella tarde. Ni una sola vez.
+
+[[Gisela]] no pareció darle mayor importancia al asunto. Se dio la vuelta, encontró a [[Kanon]] todavía parado junto a la puerta, y le habló con una sequedad que contrastaba, de forma casi cómica, con lo que acababa de hacer por él.
+
+—Lo del juego de los animales. Explícamelo otra vez. No lo he entendido bien la primera vez.
+
+[[Kanon]] parpadeó, sin saber muy bien si aquello era compasión disfrazada o un interés genuino, y tardó un segundo en reaccionar.
+
+—Vale —dijo, y la sonrisa, la misma que había estado a punto de desaparecer minutos antes, volvió a su sitio, un poco insegura todavía, pero volvió—. Vale, es fácil. Yo pienso en un animal y os doy tres pistas...
+
+[[Noos]], que seguía observando desde su esquina con el libro cerrado ya sobre las rodillas, sintió que algo se acomodaba en su pecho, algo parecido a lo que había sentido meses atrás viendo a [[Durante]] cuidar el tobillo de su hermana mientras la regañaba al mismo tiempo. No sabría explicar por qué, pero tuvo la certeza silenciosa de que aquellas dos personas —el chico que hablaba demasiado y la chica que casi nunca hablaba— acababan de convertirse, sin que nadie lo hubiera planeado, en otro hilo más de la misma trama que él llevaba tejiendo, sin saberlo del todo, desde la primera noche que pasó en [[La Casa de los Ecos]].
+
+Esa noche, cuando [[Nisba]] le preguntó qué tal el día, [[Noos]] tardó un momento en responder, buscando la manera de resumir lo que había visto sin que sonara a poco.
+
+—Creo que hoy he visto a alguien defender a otra persona sin que se lo pidieran —dijo finalmente—. Y creo que quiero acordarme de cómo se hace eso.
+
+[[Nisba]] sonrió, sin necesitar más explicación, y por primera vez desde que [[Kanon]] había llegado a la casa, [[Noos]] pensó que tal vez, con el tiempo, alguien más aprendería a escucharlo hasta el final.
