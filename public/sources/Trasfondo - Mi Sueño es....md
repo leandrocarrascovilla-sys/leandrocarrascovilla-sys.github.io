@@ -284,7 +284,7 @@ Lo dijo sin resentimiento aparente, casi como si ya lo esperara. Se levantó con
 
 Lo que sí era cierto, porque [[Durante]] y [[Vega]] podían dar fe de ello, era lo que había pasado dos inviernos atrás, antes de que [[Noos]] llegara a la casa.
 
-==Un grupo de chicos mayores, de los que salían al pueblo con más libertad que el resto==, se habían dedicado durante semanas a hacerle la vida imposible a [[Vega]] por algo tan pequeño y tan cruel como su forma de hablar cuando se ponía nerviosa. Le escondían sus cosas, la imitaban en voz alta cuando pasaba, se reían hasta que ella dejaba de intentar defenderse y se limitaba a bajar la cabeza y seguir caminando, algo tan impropio de ella que hasta [[Durante]], que solía burlarse de su hermana con cariño por cualquier cosa, había empezado a notar que algo iba mal mucho antes de que ella se lo contara.
+Un grupo de chicos mayores, se habían dedicado durante semanas a hacerle la vida imposible a [[Vega]] por algo tan pequeño y tan cruel como su forma de hablar cuando se ponía nerviosa. Le escondían sus cosas, la imitaban en voz alta cuando pasaba, se reían hasta que ella dejaba de intentar defenderse y se limitaba a bajar la cabeza y seguir caminando, algo tan impropio de ella que hasta [[Durante]], que solía burlarse de su hermana con cariño por cualquier cosa, había empezado a notar que algo iba mal mucho antes de que ella se lo contara.
 
 Nadie supo con exactitud qué le dijo [[Gisela]] a aquellos chicos el día que decidió intervenir. Lo único que se sabía, porque hubo testigos suficientes como para que la historia sobreviviera dos años sin apenas deformarse, era que se plantó frente al que parecía liderar el grupo, más pequeña que él en al menos una cabeza, y le habló en voz tan baja que nadie llegó a escuchar las palabras exactas. Lo que sí vieron todos fue la cara del chico al terminar de escucharla: pálida, muy quieta, como si acabara de entender algo que preferiría no haber entendido nunca. Nadie volvió a molestar a [[Vega]] después de aquello. Ni una sola vez más.
 
@@ -333,3 +333,93 @@ Esa noche, cuando [[Nisba]] le preguntó qué tal el día, [[Noos]] tardó un mo
 —Creo que hoy he visto a alguien defender a otra persona sin que se lo pidieran —dijo finalmente—. Y creo que quiero acordarme de cómo se hace eso.
 
 [[Nisba]] sonrió, sin necesitar más explicación, y por primera vez desde que [[Kanon]] había llegado a la casa, [[Noos]] pensó que tal vez, con el tiempo, alguien más aprendería a escucharlo hasta el final.
+
+#### Capítulo 6 - La que no elige el aplauso y el que no elige atarse.
+
+La primavera trajo, aquel año, una novedad que cambió las tardes de [[La Casa de los Ecos]] casi tanto como había cambiado sus mañanas la llegada de [[Kanon]]: un aventurero retirado, de esos que llevan más cicatrices que años de servicio y una forma de mirar el mundo como si en cualquier momento fuera a atacar por la espalda, empezó a presentarse dos veces por semana en el patio trasero para enseñar los rudimentos del combate cuerpo a cuerpo con espada de madera. [[Shino]] lo había contratado tras meses de insistencia por parte de los niños más mayores, muchos de los cuales soñaban, como soñaba media infancia de un mundo donde hacerse aventurero era una salida tan común como aprender un oficio, con ganarse la vida algún día explorando ruinas olvidadas o cazando criaturas por encargo. Nadie preguntó demasiado más allá de eso, y [[Shino]] tampoco se molestó en dar muchas explicaciones adicionales, salvo una frase que repitió más de una vez, siempre con la misma calma inalterable: "Nunca está de más saber defenderse. Ahí fuera, lo que hay no siempre tiene la decencia de anunciarse antes de atacar."
+
+[[Noos]] descubrió pronto que tenía más entusiasmo que talento, lo cual no le impidió presentarse religiosamente a cada clase, espada de madera en mano, dispuesto a que le devolvieran al suelo una y otra vez si hacía falta. [[Nisba]] se apuntó por curiosidad y se quedó por diversión, más interesada en la coreografía de los movimientos que en ganar nada. [[Nycto]] fue una vez, decidió que las clases interrumpían su horario de piano, y no volvió a aparecer.
+
+Ninguno de los tres, sin embargo, se acercaba siquiera a lo que hacía [[Valery]].
+
+La primera vez que [[Noos]] la vio pelear de verdad fue un martes de mayo, durante una de esas pruebas que el aventurero organizaba de cuando en cuando para que los más avanzados demostraran lo aprendido frente al resto. [[Valery]] llevaba apenas un año más de clases que la mayoría, pero en cuanto el maestro trazó un símbolo en el aire y pronunció una palabra en una lengua que a [[Noos]] le sonó tan antigua como incomprensible, un maniquí de entrenamiento —una armadura vacía rellena de paja y algo de magia menor, capaz de replicar los movimientos básicos de un adversario real— se irguió con un crujido metálico y avanzó hacia ella con la espada en alto, quedó claro para todos los presentes que aquello no iba a ser un combate equilibrado, aunque no en el sentido que cualquiera habría esperado.
+
+No hubo gritos, ni fanfarronería, ni ninguno de los gestos que solían acompañar a los combates entre los chicos mayores. [[Valery]] se movía con una economía de esfuerzo que parecía casi aburrida, anticipando cada ataque un instante antes de que llegara, desviándolo con lo justo y necesario, sin un solo movimiento de más. Cuando terminó, con la punta de su espada de madera clavada suavemente en la juntura del hombro del maniquí —lo justo para que la magia menor que lo animaba se desvaneciera y la armadura vacía se desplomara con un estrépito hueco—, el patio entero estalló en un aplauso que ella no pareció recibir con ningún placer especial. Se limitó a hacer una inclinación breve, casi mecánica, y a retirarse hacia el borde del patio tan rápido como las normas de cortesía se lo permitieron.
+
+—Es buenísima —le susurró [[Noos]] a [[Nisba]], todavía con la boca un poco abierta.
+
+—Es la mejor de todos, con diferencia —confirmó [[Nisba]], sin ningún atisbo de envidia en la voz, solo admiración pura—. Y odia que se lo digan.
+
+Aquello resultó ser más cierto de lo que [[Noos]] habría imaginado. En los días siguientes, comprobó que [[Valery]] —cuyo nombre empezaba ya a repetirse por toda la casa, entre susurros admirados de los más pequeños y comentarios envidiosos de algunos mayores que no llevaban bien que los superara una chica con menos años de práctica que ellos— parecía hacer todo lo posible por pasar desapercibida fuera del patio de entrenamiento. Comía rápido y en silencio, evitaba los corrillos que se formaban después de las clases para comentar los combates, y desaparecía en cuanto alguien intentaba felicitarla con demasiado entusiasmo.
+
+Casi siempre desaparecía en la misma dirección: hacia el muro este del jardín, donde solía esperarla, apoyado con los brazos cruzados y la mirada perdida en algún punto más allá de la tapia, un chico callado al que [[Noos]] tardó una semana entera en oír pronunciar más de tres palabras seguidas.
+
+—Se llama [[Eizen]] —le explicó [[Nisba]], una tarde en que ambos observaban desde lejos cómo [[Valery]] se sentaba junto a él sin decir nada, como si las palabras entre ellos dos fueran, la mayor parte del tiempo, un lujo innecesario—. Llegaron juntos, hace años, de la misma zona. Son inseparables, aunque no te lo parezca por lo poco que habla.
+
+—¿Por qué nunca viene a clase de esgrima?
+
+—Nadie lo sabe. Se lo he preguntado un par de veces —dijo [[Nisba]], encogiéndose de hombros—. Contesta lo justo para que dejes de preguntar, y ni una palabra más.
+
+[[Noos]] comprobó aquello por sí mismo pocos días después, cuando el azar —o quizás la insistencia tranquila de [[Nisba]], que llevaba semanas repitiendo que había que "ampliar la mesa"— los sentó a los cuatro juntos por primera vez durante la comida. [[Valery]] se mostró educada, incluso amable a su manera reservada, respondiendo con frases cortas y precisas a las preguntas de [[Nisba]] sobre el entrenamiento. [[Eizen]], en cambio, se limitó a comer en silencio, con la mirada fija en algún punto indefinido más allá de la ventana, como si su cuerpo estuviera en aquella mesa por pura cortesía mientras el resto de él permanecía en otro sitio.
+
+—¿Y tú qué? —le preguntó [[Noos]] al fin, decidido a no dejarlo escapar tan fácil como parecía haber escapado de todos los demás—. ¿Nunca te ha interesado la esgrima?
+
+[[Eizen]] tardó un momento en responder, como si sopesara si la pregunta merecía siquiera el esfuerzo de una respuesta completa.
+
+—No mucho —dijo finalmente.
+
+—¿Por qué no?
+
+—Porque hay que seguir reglas de otro. Posturas de otro. Un ritmo de otro —respondió, con una economía de palabras que recordó a [[Noos]], sin poder evitarlo, a la forma de pelear de [[Valery]]—. Prefiero moverme a mi manera.
+
+—¿Y cuál es tu manera?
+
+Por primera vez desde que se habían sentado, algo parecido a una sonrisa —apenas un gesto, casi imperceptible— cruzó el rostro de [[Eizen]].
+
+—Todavía no lo sé del todo —dijo—. Por eso prefiero no atarme a la de nadie más mientras lo averiguo.
+
+[[Valery]], que hasta entonces había seguido la conversación sin intervenir, dejó escapar algo parecido a una risa breve, casi sorprendida de sí misma.
+
+—Lleva diciendo eso desde que tiene memoria —comentó, dirigiéndose a [[Noos]] y [[Nisba]] con un cariño que contradecía la sequedad de sus palabras—. Yo ya he dejado de intentar que se apunte a nada. Cuando quiere algo, lo elige él solo, a su ritmo. Cuando no, no hay quien lo mueva ni un centímetro.
+
+—¿Y a ti no te molesta? —preguntó [[Nisba]], con genuina curiosidad—. Ser tan buena en algo y tener a tu lado a alguien a quien no le interesa nada de eso.
+
+[[Valery]] pensó la respuesta con la misma calma con la que, días atrás, había desviado cada ataque de su combate de exhibición.
+
+—No —dijo—. Yo no necesito que le interese lo que a mí me interesa. Necesito que siga ahí. Y sigue ahí, pase lo que pase. Con eso me basta.
+
+[[Eizen]] no dijo nada a eso, pero [[Noos]] notó, o creyó notar, que la mirada perdida que solía mantener fija en algún punto lejano se posó, por un instante, sobre [[Valery]], antes de volver a perderse en la ventana.
+
+---
+
+Fue [[Kanon]] quien, sin proponérselo, terminó de desentrañar para [[Noos]] lo que había detrás de aquella distancia deliberada de [[Eizen]]. Ocurrió una tarde de junio, cuando —fiel a su costumbre de acercarse a cualquiera dispuesto a escucharlo, sin importarle demasiado el historial de indiferencia que pudiera preceder a la persona en cuestión— se sentó junto a [[Eizen]] en el muro este del jardín y, sin previo aviso, empezó a explicarle con todo detalle cómo funcionaban las mareas.
+
+[[Noos]], que pasaba por allí de camino a la biblioteca, se detuvo a una distancia prudente, esperando ver a [[Kanon]] recibir el mismo silencio cortante que solía apartar a la mayoría. En lugar de eso, para su sorpresa, [[Eizen]] escuchó la explicación entera —sobre la luna, sobre la gravedad, sobre por qué el mar subía y bajaba dos veces al día— sin interrumpir ni una sola vez, con una atención genuina que contrastaba con su actitud habitual.
+
+—¿Por qué a él sí lo escuchas? —le preguntó [[Noos]] después, cuando [[Kanon]] se hubo marchado, exultante por haber encontrado, por fin, a alguien dispuesto a dejarle terminar una explicación entera.
+
+—Porque no me pide nada a cambio —respondió [[Eizen]], sin apartar la mirada del punto lejano que parecía ocupar siempre su atención—. No espera que yo le devuelva la conversación. No espera que me apunte a nada con él. Solo cuenta lo que sabe y se va, contento con haberlo contado. Eso no me pesa.
+
+—¿Y lo que sí te pesa? —se atrevió a preguntar [[Noos]], consciente de que quizás estaba forzando más de lo que [[Eizen]] estaba dispuesto a dar.
+
+Hubo un silencio largo, tan largo que [[Noos]] llegó a pensar que no obtendría respuesta. Pero, finalmente, [[Eizen]] habló, con una voz más baja de lo habitual, como si las palabras le costaran un esfuerzo que rara vez se permitía hacer.
+
+—Que alguien decida por mí quién tengo que ser —dijo—. Un grupo, un maestro, unas reglas... da igual el nombre que le pongas. En cuanto perteneces a algo, alguien más empieza a decidir tu camino sin que te des ni cuenta. Y para cuando quieres darte cuenta, ya no es tu camino. Es el que otro trazó por ti.
+
+[[Noos]] pensó, sin poder evitarlo, en la vieja pregunta de [[Shino]], en su propio sueño de pertenecer a algo que no quisiera desvanecerse, y comprendió, quizás por primera vez con claridad, que aquello que él perseguía con tanto anhelo era precisamente lo que [[Eizen]] llevaba toda su vida esquivando con la misma determinación.
+
+—No todo el mundo que te acepta quiere decidir por ti —dijo, con cuidado, sin saber muy bien si tenía derecho a discutirlo.
+
+—Lo sé —respondió [[Eizen]], y por primera vez lo miró directamente, con una honestidad que pareció costarle más que cualquiera de sus frases cortas anteriores—. [[Valery]] tampoco lo hace. Por eso sigue siendo la única persona a la que dejo elegir quedarse.
+
+No añadió nada más. Se levantó del muro, con esa manera suya de moverse como si siempre tuviera un pie ya puesto en otro lugar, y se marchó sin despedirse formalmente, aunque esta vez, antes de irse del todo, se giró un instante hacia [[Noos]].
+
+—Gracias por no pedirme que me apunte a nada —dijo—. Todavía.
+
+Y aunque la frase quedó abierta, como una puerta que no se cierra del todo, [[Noos]] la entendió, sin necesidad de que se la explicaran más, como lo más parecido a una invitación que [[Eizen]] era capaz de ofrecer.
+
+Esa noche, mientras le contaba a [[Nisba]] lo sucedido en el jardín, [[Noos]] se sorprendió pensando que el hilo que llevaba tejiendo desde su llegada a [[La Casa de los Ecos]] —el de pertenecer, el de no desvanecerse— acababa de cruzarse con otro completamente distinto, uno que avanzaba en la dirección opuesta sin por ello ser menos válido: el de alguien que necesitaba, por encima de todo, seguir eligiendo su propio camino, aunque eso significara caminarlo casi siempre solo.
+
+No supo, todavía, qué hacer con esa idea. Se quedó tumbado en la oscuridad, escuchando el respirar tranquilo de [[Nycto]] dos camas más allá, repasando la conversación con [[Eizen]] palabra por palabra, como quien vuelve a examinar algo desde distintos ángulos sin encontrar el que termina de encajar. Pensó en la mirada de [[Valery]] al hablar de él. Pensó en la frase final, en la puerta que quedaba abierta sin cerrarse del todo. Pensó, también, sin poder evitarlo, en lo distinto que sonaba querer pertenecer a algo cuando la persona que tenías delante llevaba toda su vida aprendiendo, con no menos esfuerzo, a no pertenecer a nada.
+
+No llegó a ninguna conclusión esa noche. Solo al sueño, que terminó por vencerlo antes de que encontrara una respuesta clara a nada de lo que le rondaba la cabeza.

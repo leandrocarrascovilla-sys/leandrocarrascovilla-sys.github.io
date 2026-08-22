@@ -6,7 +6,8 @@ raza: Humano
 Edad: "16"
 ASIR: "[[Zéfiro, el soñador de la Libertad]]"
 ---
-
+Características: 
+- Proveniente de Asturg (Junto a [[Valery]])
 ### Imagen
 
 ![[Eizen.jpg]]
