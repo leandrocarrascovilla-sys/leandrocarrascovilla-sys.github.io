@@ -423,3 +423,141 @@ Esa noche, mientras le contaba a [[Nisba]] lo sucedido en el jardín, [[Noos]] s
 No supo, todavía, qué hacer con esa idea. Se quedó tumbado en la oscuridad, escuchando el respirar tranquilo de [[Nycto]] dos camas más allá, repasando la conversación con [[Eizen]] palabra por palabra, como quien vuelve a examinar algo desde distintos ángulos sin encontrar el que termina de encajar. Pensó en la mirada de [[Valery]] al hablar de él. Pensó en la frase final, en la puerta que quedaba abierta sin cerrarse del todo. Pensó, también, sin poder evitarlo, en lo distinto que sonaba querer pertenecer a algo cuando la persona que tenías delante llevaba toda su vida aprendiendo, con no menos esfuerzo, a no pertenecer a nada.
 
 No llegó a ninguna conclusión esa noche. Solo al sueño, que terminó por vencerlo antes de que encontrara una respuesta clara a nada de lo que le rondaba la cabeza.
+
+#### Capítulo 7 - Una luz que no debía estar encendida.
+
+El verano dio paso a un otoño templado, de esos que tardan en decidirse del todo, y con él llegó para [[Nycto]] una costumbre nueva que nadie en [[La Casa de los Ecos]] llegó a cuestionar demasiado: la de bajar al salón de música pasada la medianoche, cuando el resto de la casa dormía y el piano desafinado se convertía, por unas horas, en algo que le pertenecía solo a él.
+
+Nadie sabía con certeza cuándo había empezado aquel hábito, ni siquiera [[Noos]], que llevaba ya el tiempo suficiente compartiendo mesa y confidencias con él como para considerarse, sin necesidad de decirlo en voz alta, uno de sus pocos amigos de verdad. Lo único que sabía era que, de un tiempo a esa parte, [[Nycto]] amanecía con más ojeras de lo habitual y con una calma distinta en las manos cuando tocaba, como si algo, durante la noche, se hubiera reordenado dentro de él.
+
+—¿No te da miedo que te pillen? —le había preguntado [[Nisba]] una tarde, con más curiosidad que reproche.
+
+—Nadie baja a esas horas —había respondido [[Nycto]], con la sequedad habitual que ya nadie confundía con antipatía—. Excepto yo.
+
+Aquella noche de finales de octubre, sin embargo, descubrió que su certeza tenía una excepción que no había contemplado.
+
+Bajó las escaleras como cada noche, descalzo para no hacer ruido, con el candil que había aprendido a llevar consigo desde la tormenta del desván guardado bajo el brazo, apagado todavía, reservando la luz para cuando estuviera lejos de las habitaciones donde dormían los más pequeños. El pasillo del ala oeste, el que llevaba al salón de música, discurría paralelo al despacho de [[Shino]], una puerta de madera oscura que [[Nycto]] había visto cerrada, sin excepción, cada una de las noches en que había pasado frente a ella.
+
+Aquella noche no lo estaba.
+
+Un hilo de luz se filtraba por debajo, tenue pero inconfundible, y con ella, apenas perceptible, el murmullo bajo de una conversación. [[Nycto]] se detuvo, con el candil todavía apagado en la mano, debatiéndose entre la costumbre de no involucrarse en lo que no le incumbía y una curiosidad que, para su propia sorpresa, resultó más fuerte que la costumbre.
+
+No se acercó lo suficiente para distinguir palabras completas —no habría sabido explicar, después, si fue prudencia o simple cobardía lo que lo mantuvo a varios pasos de la puerta—, pero sí alcanzó a reconocer la voz de [[Shino]], más tensa de lo que la había oído nunca, y una segunda voz, masculina, grave, que no le resultaba familiar en absoluto. De la conversación solo le llegaron fragmentos deshilachados, palabras sueltas que la puerta cerrada a medias dejaba escapar entre el resto del silencio: "...no hasta que estén listos..." "...el tiempo se acaba, Shino, no puedo seguir esperando..." "...son niños, no herramientas..." Y, justo antes de que una de las dos voces bajara todavía más, algo que a [[Nycto]] le pareció, aunque no podría haberlo jurado, un nombre.
+
+Qilby.
+
+No significaba nada para él. No tenía forma de saber que aquel nombre llevaba dormido en la memoria de la casa desde una noche de tormenta, años atrás, en un capítulo que ninguno de los niños que ahora vivían allí había llegado a presenciar. Pero algo en el tono con que se pronunció —la mezcla de urgencia y de algo parecido al dolor con que [[Shino]] lo dijo, si es que había sido ella quien lo dijo— le pareció suficiente para que se le erizara la piel, sin saber muy bien por qué.
+
+Se quedó allí, inmóvil, más tiempo del que después sabría calcular, hasta que el sonido de una silla arrastrándose al otro lado de la puerta lo devolvió de golpe a la realidad del riesgo que corría. Retrocedió por el pasillo con el mismo sigilo con el que había bajado, sin llegar a encender el candil hasta haber puesto dos puertas y un tramo de escalera entre él y el despacho, y aquella noche, por primera vez desde que había empezado su costumbre nocturna, no tocó una sola nota en el salón de música. Se limitó a sentarse frente al piano cerrado, con las manos sobre las rodillas, esperando a que el corazón dejara de latirle tan rápido antes de subir de nuevo a su habitación.
+
+---
+
+No dijo nada al día siguiente. Ni al otro. [[Noos]] fue el primero en notar que algo iba distinto en él —no un cambio dramático, nada que hubiera preocupado a nadie más, pero sí una distracción nueva, una forma de quedarse mirando a [[Shino]] durante la comida con una atención que no era la habitual.
+
+—¿Te pasa algo? —le preguntó, una tarde en que se habían quedado los dos solos ordenando partituras en el salón de música, tarea que [[Nycto]] solía aceptar sin protestar porque le permitía estar cerca del piano sin tener que dar explicaciones a nadie.
+
+[[Nycto]] tardó en responder. Colocó una partitura en su sitio, después otra, y solo cuando pareció haber decidido que no tenía sentido seguir posponiéndolo, habló.
+
+—¿Alguna vez has oído hablar de alguien llamado Qilby?
+
+—No —respondió [[Noos]], extrañado por la pregunta tan repentina—. ¿Debería?
+
+—No lo sé. —[[Nycto]] dejó la última partitura a medio colocar y se giró hacia él, con una expresión que [[Noos]] no le había visto nunca del todo, algo entre la indecisión y la necesidad de compartir un peso que ya no podía llevar solo—. Hace unas noches oí a Shino hablando con alguien en su despacho. Muy tarde. La puerta estaba abierta, solo un poco, y no debería haberme quedado a escuchar, pero...
+
+Le contó todo, con la economía de palabras que lo caracterizaba, pero sin omitir ningún detalle importante: la luz que no debía estar encendida, la voz desconocida, la tensión en el tono de Shino, las frases sueltas que había conseguido captar. Cuando terminó, [[Noos]] se quedó en silencio un momento, tratando de encajar aquello con la imagen que tenía de [[Shino]] —siempre serena, siempre con una respuesta calmada para cada pregunta, incluso para las más difíciles— y descubriendo que, por primera vez desde que la conocía, no conseguía imaginarla del todo con la voz tensa que [[Nycto]] acababa de describirle.
+
+—«No hasta que estén listos» —repitió [[Noos]], en voz baja, más para sí mismo que para su amigo—. ¿Listos para qué?
+
+—No lo sé —repitió [[Nycto]]—. Por eso te lo cuento a ti. No sabría a quién más contárselo sin que sonara a que estoy inventando cosas.
+
+[[Noos]] entendió, sin necesidad de que se lo explicara, por qué había elegido confiárselo precisamente a él y no a [[Nisba]], que probablemente habría querido investigar de inmediato, ni a nadie más del grupo todavía. Necesitaba, antes que nada, que alguien le confirmara que lo que había oído merecía preocupación, y no una simple imaginación afilada por el cansancio de una noche larga.
+
+—¿Y si no era nada? —preguntó [[Noos]], aunque incluso mientras lo decía sabía que no se lo creía del todo—. Los adultos hablan de cosas que no entendemos. No tiene por qué significar nada malo.
+
+—Puede ser —concedió [[Nycto]], sin sonar del todo convencido tampoco—. Pero nunca la había oído hablar así. Como si tuviera miedo de algo. Shino no tiene miedo de nada. Nunca.
+
+Aquella frase, dicha con la misma sencillez con la que [[Nycto]] solía constatar los hechos —el mismo tono con el que años atrás había señalado la ubicación exacta de una trampilla en un desván a oscuras—, fue la que terminó de convencer a [[Noos]] de que aquello merecía, al menos, prestarle atención. Porque si había algo que todos en la casa daban por sentado, sin necesidad siquiera de nombrarlo, era precisamente eso: que [[Shino]] no se dejaba desestabilizar por nada. Ni por una tormenta, ni por un niño perdido en un desván, ni por ninguna de las pequeñas crisis que sacudían de cuando en cuando la vida de la casa. Si algo, o alguien, había conseguido colarse por debajo de esa calma, tenía que tratarse de algo que llevaba mucho tiempo esperando el momento de salir a la luz.
+
+—No se lo digamos a nadie más todavía —dijo [[Noos]], después de un silencio largo—. Solo... prestemos atención. A ver si vuelve a pasar.
+
+[[Nycto]] asintió, visiblemente aliviado de no cargar solo con aquello, y ambos volvieron a las partituras sin decir nada más, aunque ninguno de los dos consiguió, durante el resto de la tarde, concentrarse del todo en la tarea que tenían entre manos.
+
+---
+
+Volvió a pasar once días después, aunque esta vez fue [[Kanon]] quien, sin proponérselo y sin saber nada de lo que [[Nycto]] y [[Noos]] llevaban guardando desde hacía casi dos semanas, aportó la pieza que terminaría de encender la mecha.
+
+Ocurrió durante la cena, en uno de esos momentos en que [[Kanon]] encontraba, contra todo pronóstico, un hueco por el que colarse en la conversación general.
+
+—¿Sabíais que anoche vino una visita? —preguntó, dirigiéndose a la mesa entera, aunque como de costumbre fueron pocos los que le prestaron verdadera atención—. Un hombre con una capa oscura. Lo vi desde la ventana de mi cuarto, cruzando el patio hacia la puerta de servicio, después de que todos nos hubiéramos acostado. Pensé que era raro que alguien viniera tan tarde, así que me quedé un rato mirando, pero no volví a verlo salir. A lo mejor sigue todavía aquí.
+
+La mayoría de la mesa reaccionó con la misma indiferencia amable de siempre —un "qué raro" distraído, un cambio de tema casi inmediato—, pero [[Noos]] sintió que se le helaba algo por dentro. Buscó con la mirada a [[Nycto]], al otro lado de la mesa, y encontró en sus ojos la misma certeza silenciosa que él acababa de sentir.
+
+No hacía falta decir nada más. Aquella noche, después de que la casa se hubiera quedado en silencio, [[Noos]] no se dirigió como de costumbre hacia su habitación, sino hacia la de [[Nisba]], con la firme intención de dejar de guardar aquello solo entre dos personas.
+
+#### Capítulo 8 - Nueve pares de manos.
+
+[[Nisba]] escuchó todo lo que [[Noos]] tenía que contarle sentada en el borde de su cama, con las rodillas recogidas contra el pecho y una atención que no dejó escapar ni un solo detalle, desde la puerta entreabierta del despacho hasta el hombre de la capa oscura que [[Kanon]] había visto cruzar el patio sin volver a salir.
+
+—Vale —dijo, cuando [[Noos]] terminó, con una calma que a él le pareció casi excesiva para lo que acababa de escuchar—. Entonces hay que averiguar qué es lo que Shino no nos está contando.
+
+—No sé si es buena idea —empezó [[Noos]], aunque incluso mientras lo decía sabía que ya era tarde para dar marcha atrás—. Es Shino. Si hay algo que no nos cuenta, será por algo.
+
+—Puede ser —concedió [[Nisba]], sin perder un ápice de su determinación—. O puede que lleve tiempo cargando sola con algo que no debería cargar sola. De cualquiera de las dos formas, prefiero saberlo a seguir imaginándome cosas peores.
+
+No fue difícil convencer a [[Nycto]], que llevaba casi dos semanas sin poder sacarse de la cabeza la voz tensa de [[Shino]] al otro lado de la puerta. Tampoco costó demasiado con [[Kanon]], que aceptó unirse con un entusiasmo que rozaba lo inapropiado para la gravedad del asunto, más emocionado por formar parte de un secreto que por lo que ese secreto pudiera significar. [[Gisela]] no hizo preguntas: le bastó con saber que algo podía suponer un riesgo para el grupo para decidir que, si iban a hacerlo, ella estaría presente para asegurarse de que nadie saliera herido.
+
+—Yo no voy a fingir que me interesa —dijo [[Eizen]], cuando le llegó el turno, con los brazos cruzados y esa mirada suya que siempre parecía tener un pie ya puesto en otra conversación—. Pero si vais a hacerlo igualmente, mejor con alguien que sepa moverse sin que lo oigan que sin él.
+
+Nadie discutió la lógica de aquello, y menos aún cuando [[Valery]], que había escuchado todo el plan con los brazos cruzados y el ceño fruncido de quien evalúa un riesgo táctico antes que una travesura, terminó de sentenciar el asunto.
+
+—Si vamos a hacer esto, lo hacemos bien —dijo—. Nada de improvisar sobre la marcha. Necesitamos saber cuándo Shino no está en el despacho, cuánto tiempo tenemos, y una forma de salir corriendo si algo sale mal.
+
+[[Durante]] fue el único que dudó de verdad, y no por falta de curiosidad, sino por la sombra de una tormenta de hacía años que todavía pesaba sobre él cada vez que alguien mencionaba una idea que sonara remotamente a "colarse en algún sitio a escondidas."
+
+—Como alguien salga con un tobillo torcido otra vez —advirtió, mirando a su hermana con una severidad que no engañaba a nadie—, os juro que...
+
+—No va a pasar nada, Durante —cortó [[Vega]], con los ojos ya brillantes de la misma emoción que la había llevado, tiempo atrás, hasta la claraboya del desván en mitad de una tormenta—. Y si pasa, mejor que pase estando todos juntos que yo sola otra vez.
+
+Aquel argumento, más que cualquier otro, terminó de convencerlo. Nueve niños, nueve maneras distintas de sentir miedo o entusiasmo ante lo mismo, decidieron aquella tarde que averiguarían juntos lo que fuera que [[Shino]] llevaba guardando.
+
+---
+
+La oportunidad llegó tres días después. [[Shino]] anunció durante la cena que debía ausentarse esa noche para atender "un asunto en el pueblo", sin dar más detalles, y aunque a cualquier otra noche aquello no habría llamado la atención de nadie, nueve pares de ojos se cruzaron brevemente por encima de los platos con la misma pregunta silenciosa.
+
+En cuanto el sonido de las ruedas del carruaje se perdió en el camino, el grupo se reunió en el pasillo del ala oeste, cada uno con una tarea asignada por [[Valery]] con la misma seriedad con la que habría planeado un combate: [[Gisela]] se quedaría vigilando el cruce de pasillos más cercano, lista para toser dos veces si algún cuidador se acercaba; [[Kanon]], para sorpresa de todos, resultó ser el más útil localizando la llave de repuesto del despacho, de cuya existencia solo tenía noticia porque una vez había estado presente cuando el ama de llaves se quejaba de perderla constantemente; [[Nycto]] guiaría al resto por el camino más silencioso, evitando las tres tablas del suelo que él sabía que crujían; y [[Eizen]], que insistía en no formar parte "oficial" de ningún plan, terminó de todos modos apostado junto a la puerta, atento a cualquier sonido que los demás pudieran pasar por alto, como si su ayuda fuera casualidad y no la elección deliberada que en realidad era.
+
+El despacho, a la luz de un único candil que [[Nisba]] sostenía en alto, resultó menos amenazante de lo que la imaginación de [[Noos]] había construido durante los últimos tres días: una habitación ordenada, de estanterías repletas y un escritorio de madera oscura no muy distinto, pensó sin saber por qué, al que había visto una sola vez, de pasada, en un dibujo antiguo colgado en el pasillo de la entrada, del que nadie le había contado nunca la historia.
+
+—Con cuidado —susurró [[Valery]], mientras [[Durante]] y [[Vega]] revisaban los cajones del escritorio y [[Noos]] se acercaba a las estanterías—. Todo tiene que quedar exactamente donde estaba.
+
+Fue [[Vega]], inevitablemente la primera en encontrar algo, quien rompió el silencio con un susurro urgente.
+
+—Aquí hay una carpeta cerrada con llave.
+
+No hizo falta mucho esfuerzo para abrirla: la llave, como comprobó [[Kanon]] con una satisfacción que intentó no dejar traslucir demasiado, encajaba también en el pequeño candado de latón que la mantenía cerrada. Dentro, extendidos con el mismo cuidado con que se guardan las cosas que importan de verdad, había planos.
+
+No los planos de un edificio, ni de ninguna estructura que [[Noos]] pudiera reconocer. Eran líneas que se entrelazaban entre sí como si trazaran algo mucho menos concreto que una casa o un puente: círculos concéntricos, anotaciones en los márgenes con una letra apretada y nerviosa, y, repetida varias veces a lo largo del documento, una palabra que ninguno de los ocho había visto escrita antes, aunque dos de ellos ya la habían oído pronunciar en voz baja: Qilby.
+
+Debajo de los planos había cartas, algunas con la tinta ya desvaída por el tiempo, otras tan recientes que la tinta apenas parecía seca. [[Nisba]], que fue quien se atrevió a desdoblar la primera, leyó en un susurro apenas audible una de las frases que encabezaban la hoja: "El tiempo se agota. Si no encontramos pronto suficientes con el perfil adecuado, todo lo que hemos construido no habrá servido de nada."
+
+—¿Perfil adecuado para qué? —preguntó [[Kanon]], con una curiosidad que por primera vez sonó más inquieta que entusiasta.
+
+Nadie tuvo respuesta. Pero fue [[Eizen]], desde la puerta, quien encontró lo que terminaría de cambiar el tono de toda la noche.
+
+—Hay una lista —dijo, sin levantar apenas la voz, señalando un papel aparte que había quedado medio oculto bajo la carpeta principal—. Con nombres.
+
+Los nueve se apiñaron, con el candil de [[Nisba]] temblando un poco entre tantas manos que se acercaban a la vez, para leer lo que parecía una relación de nombres escritos con la misma letra apretada de las cartas, cada uno acompañado de anotaciones breves, casi clínicas, que a [[Noos]] le costó procesar del todo la primera vez que las leyó.
+
+Sus propios nombres estaban allí. Los nueve.
+
+Junto al de [[Noos]] se leía, en una letra diminuta: "Fuerte capacidad de vínculo. Observar evolución." Junto al de [[Eizen]]: "Resistencia natural. Posible obstáculo o posible clave, aún por determinar." Junto al de [[Valery]]: "Habilidad excepcional. No forzar, dejar madurar." Y así, uno tras otro, cada nombre acompañado de una nota que sonaba menos a la descripción de un niño que a la de un experimento cuyo resultado todavía estaba por verse.
+
+El silencio que siguió fue distinto a cualquier otro que hubieran compartido hasta entonces, incluso al de la noche de la tormenta. No era miedo a lo desconocido, ni la tensión de estar haciendo algo prohibido. Era algo más frío, más difícil de nombrar: la sensación, compartida sin necesidad de palabras entre los nueve, de haber dejado de ser, aunque fuera solo un poco, quienes creían ser el minuto anterior de entrar en aquella habitación.
+
+Fue el sonido de la puerta principal de la casa, abriéndose y cerrándose dos pisos más abajo, lo que los devolvió de golpe a la urgencia del momento.
+
+—Ha vuelto pronto —susurró [[Gisela]], asomando la cabeza desde el pasillo con una tensión que no era habitual en ella—. Hay que salir. Ahora.
+
+Lo que siguió fue una sucesión de movimientos apresurados y silenciosos: la carpeta devuelta a su sitio con manos temblorosas, el candado vuelto a cerrar, la llave devuelta a su escondite, cada uno de ellos desapareciendo por el pasillo en direcciones distintas siguiendo el camino silencioso que [[Nycto]] les había enseñado apenas media hora antes. [[Noos]] fue de los últimos en salir, y al girarse un instante antes de cerrar la puerta del despacho, alcanzó a fijarse en un detalle que no había reparado antes: sobre el escritorio de [[Shino]], apoyado contra la pared, había un cuadro pequeño, tan discreto que resultaba fácil pasarlo por alto entre tantos libros y papeles. Un retrato, envejecido ya por los años, de un hombre de mirada intensa y sonrisa melancólica que [[Noos]] no reconoció, pero que algo en él, sin saber explicar el porqué, sintió que debería.
+
+Cerró la puerta sin detenerse a pensarlo más y corrió, con el corazón latiéndole con la misma fuerza que la noche de la tormenta, de vuelta hacia su habitación, sabiendo, con una certeza incómoda que no lo abandonaría en toda la noche, que a partir de esa noche nada en [[La Casa de los Ecos]] volvería a parecerle exactamente igual que antes.
