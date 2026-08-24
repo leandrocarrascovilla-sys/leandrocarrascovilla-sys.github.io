@@ -550,7 +550,13 @@ Los nueve se apiñaron, con el candil de [[Nisba]] temblando un poco entre tanta
 
 Sus propios nombres estaban allí. Los nueve.
 
-Junto al de [[Noos]] se leía, en una letra diminuta: "Fuerte capacidad de vínculo. Observar evolución." Junto al de [[Eizen]]: "Resistencia natural. Posible obstáculo o posible clave, aún por determinar." Junto al de [[Valery]]: "Habilidad excepcional. No forzar, dejar madurar." Y así, uno tras otro, cada nombre acompañado de una nota que sonaba menos a la descripción de un niño que a la de un experimento cuyo resultado todavía estaba por verse.
+No llegaron a leerla entera. El papel temblaba demasiado en las manos que se lo pasaban unos a otros, y antes de que pudieran recorrerla con calma, [[Noos]] reconoció su propio nombre a mitad de la lista, junto a una letra diminuta que decía: "Fuerte capacidad de vínculo. Todavía no manifiesta la calma esperada; posible fase previa, seguir observando."
+
+—Aquí está el mío —dijo [[Valery]], con una voz que por primera vez esa noche sonó más tensa que serena, señalando unas líneas más abajo—. "Capacidad de mando evidente, activamente rechazada por la propia sujeto. Requiere un catalizador externo."
+
+[[Eizen]], detrás de ella, encontró el suyo casi al mismo tiempo, y lo leyó en voz baja, casi para sí mismo, sin que nadie se lo pidiera: "Resistencia a cualquier atadura, muy marcada. Posible obstáculo o posible clave, aún por determinar."
+
+Nadie se atrevió a seguir buscando el resto de los nombres. No hacía falta. Con esas tres notas bastaba para entender que aquello no era una simple lista, sino algo que sonaba menos a la descripción de un niño que a la de un experimento cuyo resultado todavía estaba por verse.
 
 El silencio que siguió fue distinto a cualquier otro que hubieran compartido hasta entonces, incluso al de la noche de la tormenta. No era miedo a lo desconocido, ni la tensión de estar haciendo algo prohibido. Era algo más frío, más difícil de nombrar: la sensación, compartida sin necesidad de palabras entre los nueve, de haber dejado de ser, aunque fuera solo un poco, quienes creían ser el minuto anterior de entrar en aquella habitación.
 
@@ -560,4 +566,96 @@ Fue el sonido de la puerta principal de la casa, abriéndose y cerrándose dos p
 
 Lo que siguió fue una sucesión de movimientos apresurados y silenciosos: la carpeta devuelta a su sitio con manos temblorosas, el candado vuelto a cerrar, la llave devuelta a su escondite, cada uno de ellos desapareciendo por el pasillo en direcciones distintas siguiendo el camino silencioso que [[Nycto]] les había enseñado apenas media hora antes. [[Noos]] fue de los últimos en salir, y al girarse un instante antes de cerrar la puerta del despacho, alcanzó a fijarse en un detalle que no había reparado antes: sobre el escritorio de [[Shino]], apoyado contra la pared, había un cuadro pequeño, tan discreto que resultaba fácil pasarlo por alto entre tantos libros y papeles. Un retrato, envejecido ya por los años, de un hombre de mirada intensa y sonrisa melancólica que [[Noos]] no reconoció, pero que algo en él, sin saber explicar el porqué, sintió que debería.
 
-Cerró la puerta sin detenerse a pensarlo más y corrió, con el corazón latiéndole con la misma fuerza que la noche de la tormenta, de vuelta hacia su habitación, sabiendo, con una certeza incómoda que no lo abandonaría en toda la noche, que a partir de esa noche nada en [[La Casa de los Ecos]] volvería a parecerle exactamente igual que antes.
+Cerró la puerta sin detenerse a pensarlo más y corrió, con el corazón latiéndole con la misma fuerza que la noche de la tormenta, de vuelta hacia su habitación, sabiendo, con una certeza incómoda que no lo abandonaría en toda la noche, que a partir de esa noche nada en [[La Casa de los Ecos]] volvería a parecerle exactamente igual que antes
+
+#### Capítulo 9 - La grieta.
+
+Los días que siguieron a la noche del despacho transcurrieron para los nueve bajo una tensión que ninguno supo nombrar del todo, pero que todos reconocieron enseguida en los demás, como si de pronto compartieran un idioma nuevo hecho de miradas cruzadas y silencios que se cortaban en seco en cuanto alguien más se acercaba.
+
+[[Kanon]] fue el primero en dar señales de que aquel peso resultaba insoportable para su naturaleza. Dejó de acercarse a [[Shino]] con la misma soltura de siempre, y en dos ocasiones distintas, cuando ella le dirigió la palabra durante la comida, respondió con una brevedad tan impropia de él que hasta [[Nisba]], sentada al otro lado de la mesa, tuvo que darle una patada por debajo para que dejara de comportarse como si estuviera a punto de confesar un crimen.
+
+—Vas a hacer que sospeche —le susurró después, arrastrándolo hacia un rincón del patio—. Actúa normal.
+
+—No sé actuar normal cuando sé algo que no debería saber —protestó [[Kanon]], con una angustia sincera que resultaba casi entrañable—. Es como pedirme que deje de hablar. Físicamente no puedo.
+
+[[Gisela]], por su parte, no mostró ningún signo de nerviosismo hacia [[Shino]] —nada en su comportamiento habitual cambió lo más mínimo—, pero sí empezó a seguirla con la mirada de una forma nueva, evaluativa, como si estuviera reconsiderando desde cero a alguien a quien llevaba años dando por segura. [[Vega]] le preguntó al respecto, una tarde, con la franqueza que la caracterizaba.
+
+—¿Todavía confías en ella? —le preguntó [[Gisela]], en vez de responder.
+
+—No lo sé —admitió [[Vega]], después de pensarlo—. Pero tampoco sé desconfiar de alguien que nos ha cuidado toda la vida solo porque guarda un secreto. Todo el mundo guarda alguno.
+
+—No todos los secretos son del mismo tamaño —respondió [[Gisela]], y no añadió nada más.
+
+[[Valery]] fue quien, al cuarto día, reunió de nuevo al grupo, esta vez sin necesidad de la excusa de una ausencia de [[Shino]], sino directamente en el patio trasero, a plena luz de la tarde, con una determinación que no dejaba lugar a la discusión.
+
+—Esto no puede seguir así —dijo, mirándolos uno por uno—. Nos estamos volviendo torpes con los nervios, y como sigamos así, va a terminar dándose cuenta igualmente, solo que sin que nosotros hayamos decidido nada. Prefiero que sea al revés.
+
+—¿Qué propones? —preguntó [[Noos]], aunque ya intuía la respuesta antes de que ella terminara de formularla.
+
+—Preguntarle directamente —dijo [[Valery]]—. No a escondidas. No esperando a que se le escape algo en mitad de la noche. Ir y preguntarle qué significa esa lista, quién es Qilby, y por qué llevamos toda la vida siendo evaluados sin saberlo.
+
+El silencio que siguió no fue de desacuerdo, sino de la clase de silencio que precede a una decisión que todos saben inevitable pero que nadie quiere ser el primero en aceptar en voz alta. Fue [[Eizen]], para sorpresa de más de uno, quien terminó de inclinar la balanza.
+
+—Prefiero una respuesta incómoda a seguir sin saber quién decide cosas sobre mí sin que yo lo sepa —dijo, con una sequedad que no dejaba traslucir del todo lo mucho que aquella frase, viniendo de él, significaba—. Cuanto antes, mejor.
+
+---
+
+Encontraron a [[Shino]] esa misma tarde, en su despacho, con la puerta abierta de par en par —una normalidad tan distinta a la escena que habían presenciado días atrás que a [[Noos]] se le encogió algo por dentro nada más verla—. Ella levantó la vista de los papeles que tenía entre manos en cuanto los vio entrar a los nueve juntos, y algo en su expresión, apenas un segundo, delató que ya sospechaba de qué iba a tratarse aquello antes de que nadie dijera una sola palabra.
+
+—Cerrad la puerta —dijo, con una calma que a [[Noos]] le pareció, por primera vez, deliberadamente sostenida, como quien se aferra a algo para no perder pie—. Y sentaos, los que quepáis. Creo que ya sé de qué habéis venido a hablarme.
+
+Nadie se sentó. Se quedaron de pie, formando una media luna frente al escritorio, y fue [[Valery]] quien habló primero, sin rodeos.
+
+—Encontramos la carpeta. Los planos. Las cartas. La lista con nuestros nombres.
+
+[[Shino]] no lo negó. No se sobresaltó, ni intentó fingir que no sabía de qué le hablaban. Se limitó a dejar la pluma que tenía en la mano sobre el escritorio, con un cuidado excesivo, como si necesitara ese gesto mecánico para ordenar, aunque fuera un instante más, lo que iba a decir a continuación.
+
+—¿Qué queréis saber? —preguntó, al fin.
+
+—Todo —dijo [[Gisela]], sin dudar—. Empezando por quién es Qilby.
+
+Algo cruzó el rostro de [[Shino]] al escuchar aquel nombre pronunciado en voz alta, en su propio despacho, por boca de una de las niñas que había criado. No fue sorpresa —eso ya lo habían descartado—, sino algo más antiguo y más difícil de disimular: una tristeza que pareció envejecerla varios años en el espacio de un parpadeo.
+
+—Es alguien a quien conocí hace mucho tiempo —dijo, con la voz más baja de lo habitual—. Alguien con quien compartí un sueño, antes de que vosotros nacierais siquiera. Un sueño que él nunca dejó de perseguir, aunque el precio fuera cada vez más alto.
+
+—¿Y nosotros? —preguntó [[Noos]], incapaz de contenerse—. ¿Qué tenemos que ver con ese sueño?
+
+[[Shino]] tardó en responder. Cuando lo hizo, su voz sonó distinta a la que los nueve conocían de memoria: no la calma inquebrantable de siempre, sino algo más parecido al esfuerzo de quien camina sobre un puente que no está del todo seguro de que aguante su peso.
+
+—No puedo contaros todavía la historia entera —dijo—. No porque no confíe en vosotros, sino porque hay partes de ella que ni yo misma tengo del todo claras, y otras que no me corresponden a mí desvelar. Pero puedo deciros esto: nada de lo que habéis visto en esa lista significa que os haya querido menos, o que lo que hemos vivido aquí, día a día, haya sido falso. Podéis dudar de muchas cosas de mí a partir de hoy. De eso, no.
+
+—Eso es fácil de decir —replicó [[Eizen]], con una frialdad que sorprendió incluso a quienes lo conocían bien—. La lista decía cosas sobre nosotros. Sobre lo que podríamos llegar a ser útiles para algo. ¿Cómo se supone que no dudemos de para qué nos estáis criando en realidad?
+
+[[Shino]] lo miró directamente, sin apartar la vista, aunque en sus ojos había ahora algo húmedo que se esforzaba, sin conseguirlo del todo, por contener.
+
+—Porque os estoy criando para vosotros mismos, [[Eizen]] —dijo, con una firmeza que temblaba justo lo suficiente como para que todos notaran el esfuerzo que le costaba sostenerla—. Eso no ha cambiado, y no va a cambiar, pase lo que pase con el resto. Que exista un propósito más grande no borra el cariño que hay detrás de cada día que hemos pasado juntos. Sé que ahora mismo es difícil de creer. Pero es la verdad más honesta que puedo daros hoy.
+
+—¿Y Qilby? —insistió [[Nycto]], que hasta ese momento se había mantenido en silencio—. ¿Dónde está? ¿Fue él quien vino la otra noche?
+
+La pregunta pareció golpear a [[Shino]] con más fuerza que ninguna de las anteriores. Bajó la mirada, apenas un segundo, y cuando volvió a levantarla, algo en su rostro se había quebrado del todo, dejando ver, por primera vez desde que cualquiera de ellos la conocía, a alguien tan perdida y asustada como cualquiera de los niños que tenía delante.
+
+—Sí —dijo, casi en un susurro—. Fue él.
+
+—¿Y por qué no nos lo presentaste sin más? —preguntó [[Kanon]], con una sinceridad tan directa que en cualquier otro momento habría resultado casi cómica—. ¿Por qué tanto secreto?
+
+—Porque Qilby no viene solo a saludar, [[Kanon]] —respondió [[Shino]], recuperando, con visible esfuerzo, algo del control que había perdido momentos antes—. Y porque todavía no estoy segura de que estéis preparados para conocer la razón por la que él sigue viniendo. Ni de que yo esté preparada para veros a vosotros conocerla.
+
+Se hizo un silencio largo, cargado de todo lo que ninguno de los presentes se atrevía a decir en voz alta. Fue [[Valery]] quien, finalmente, lo rompió, con una calma que no ocultaba del todo la determinación de fondo.
+
+—No vamos a dejar de hacer preguntas —dijo—. Puedes tomarte el tiempo que necesites para contarnos el resto. Pero no vuelvas a decidir por nosotros lo que podemos o no podemos saber. Ya no.
+
+[[Shino]] la observó un instante, y en su expresión, más allá del cansancio y la tristeza que todavía no había terminado de disimular, [[Noos]] creyó reconocer algo parecido al orgullo, aunque no habría sabido decir si era orgullo por la valentía de la pregunta, o por la determinación con la que había sido formulada.
+
+—Trato hecho —dijo finalmente—. Os prometo que antes de que termine el año, sabréis todo lo que hay que saber. Pero necesito que confiéis en mí un poco más, lo último que os voy a pedir que hagáis a ciegas.
+
+Nadie respondió de inmediato. Y aunque ninguno de los nueve salió de aquel despacho con la sensación de haber obtenido las respuestas que había ido a buscar, todos salieron con algo distinto, quizás más valioso a corto plazo: la certeza de que [[Shino]], por primera vez desde que la conocían, había dejado de ser la persona serena e infalible que llevaba años sosteniendo frente a ellos, y se había mostrado, aunque fuera solo un instante, tan incierta y humana como cualquiera de los que la miraban.
+
+Esa noche, mientras la casa se sumía poco a poco en el silencio habitual, [[Noos]] se cruzó con [[Valery]] en el pasillo, ambos incapaces de conciliar el sueño.
+
+—¿Crees que va a cumplir su palabra? —le preguntó.
+
+[[Valery]] tardó un momento en responder, con la mirada perdida hacia la ventana del final del pasillo, más allá de la cual la noche se extendía tranquila, ajena por completo a todo lo que se había roto y empezado a repararse aquella tarde.
+
+—No lo sé —dijo, al fin—. Pero por primera vez, no pienso quedarme esperando a ver qué decide ella sola. Si hace falta, se lo recordaremos nosotros mismos, cada día, hasta que llegue ese plazo.
+
+[[Noos]] no dijo nada, pero mientras la veía alejarse por el pasillo con esa misma determinación tranquila que la había definido desde el primer día que la conoció, pensó que, fuera lo que fuese lo que estaba por venir, al menos ya no tendrían que enfrentarlo sin saber, cada uno de ellos, exactamente a qué lado de la balanza querían pertenecer.
