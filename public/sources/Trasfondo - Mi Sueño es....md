@@ -659,3 +659,329 @@ Esa noche, mientras la casa se sumía poco a poco en el silencio habitual, [[Noo
 —No lo sé —dijo, al fin—. Pero por primera vez, no pienso quedarme esperando a ver qué decide ella sola. Si hace falta, se lo recordaremos nosotros mismos, cada día, hasta que llegue ese plazo.
 
 [[Noos]] no dijo nada, pero mientras la veía alejarse por el pasillo con esa misma determinación tranquila que la había definido desde el primer día que la conoció, pensó que, fuera lo que fuese lo que estaba por venir, al menos ya no tendrían que enfrentarlo sin saber, cada uno de ellos, exactamente a qué lado de la balanza querían pertenecer.
+
+#### Capítulo 10 - Lo que cambia sin decirse.
+
+Nada en [[La Casa de los Ecos]] cambió de forma visible tras aquella tarde en el despacho, y sin embargo, para los nueve, todo se sentía distinto, como una habitación conocida a la que de pronto le han movido los muebles apenas unos centímetros: lo bastante para no reconocerla del todo, lo bastante poco para no poder señalar exactamente qué era diferente.
+
+[[Shino]] cumplió, al menos, la parte más pequeña de su promesa. No volvió a cerrar la puerta del despacho con la misma firmeza de antes cuando alguno de ellos pasaba cerca, y en un par de ocasiones, sin que nadie se lo pidiera, dejó caer fragmentos de información que antes jamás habría compartido: que los A.S.I.R. —una palabra que ninguno había visto escrita en la carpeta, pero que ella pronunció con la naturalidad de quien lleva años conviviendo con ella— eran el verdadero nombre de lo que Qilby llevaba construyendo, y que tenían algo que ver, aunque todavía no quiso explicar bien qué, con los sueños que cada uno de ellos llevaba dentro sin saber nombrarlos del todo.
+
+—¿Y si mi sueño no se parece al de nadie más? —había preguntado [[Nisba]], con más curiosidad que inquietud.
+
+—Entonces tendremos que averiguar entre todos qué hacer con eso —había respondido [[Shino]], con el asomo de una sonrisa que, por primera vez en semanas, no pareció del todo forzada—. No sería la primera sorpresa que me lleve con vosotros.
+
+No fue una respuesta completa, ni mucho menos la explicación entera que les había prometido, pero sirvió para que la tensión de los primeros días empezara, poco a poco, a diluirse en algo más parecido a la curiosidad que al miedo.
+
+---
+
+El primer indicio de que algo en [[Valery]] también estaba cambiando llegó de una forma tan pequeña que, si [[Noos]] no hubiera estado presente, probablemente nadie más se habría dado cuenta.
+
+Ocurrió durante un entrenamiento de combate, casi dos semanas después de la confrontación con [[Shino]]. El aventurero retirado que llevaba meses enseñándoles había propuesto, para variar la rutina, un ejercicio en parejas: uno atacaba, el otro debía defenderse solo con evasivas, sin devolver ni un solo golpe, hasta que el instructor diera la señal de cambio. Emparejó a [[Eizen]] con uno de los chicos mayores, un muchacho robusto que llevaba más tiempo de entrenamiento y que, sin mala intención pero sin demasiado cuidado tampoco, empezó a presionar con una fuerza que superaba con creces lo que el ejercicio requería.
+
+[[Valery]], que entrenaba en la pareja de al lado, no dijo nada al principio. Pero cuando el chico mayor lanzó un ataque que hizo trastabillar a [[Eizen]] contra el muro del patio con más violencia de la necesaria, ella se interpuso sin pedir permiso a nadie, deteniendo el siguiente golpe con su propia espada de madera antes de que llegara a completarse.
+
+—Ya está bien —dijo, con una autoridad que no admitía réplica—. Cambiad de pareja. Yo entreno con él el resto de la clase.
+
+El chico mayor, sorprendido, obedeció sin rechistar —nadie discutía nunca las decisiones de [[Valery]] en el patio de entrenamiento—, y el propio instructor, que llegó un instante después de que todo hubiera terminado, se limitó a asentir ante el cambio sin hacer preguntas.
+
+[[Eizen]], sin embargo, no pareció tan agradecido como cabría esperar.
+
+—Podía habérmelas arreglado solo —dijo, en voz baja, una vez que el resto de la clase había vuelto a sus ejercicios y solo [[Noos]], cerca de allí, alcanzó a escuchar el intercambio.
+
+—Ya lo sé —respondió [[Valery]], sin dejar de ajustar la posición de su espada, con la misma calma con la que solía afrontar cualquier combate—. Pero no tenía ganas de esperar a comprobarlo.
+
+—No es tu decisión tomar por mí cuándo he tenido suficiente.
+
+[[Valery]] se detuvo entonces, y por primera vez desde que [[Noos]] la conocía, la vio dudar a media frase, como si acabara de escuchar en boca de otro algo que ella misma no había terminado de formular todavía dentro de su propia cabeza.
+
+—Tienes razón —dijo finalmente, aunque el tono con que lo dijo sonaba más a constatación que a disculpa sincera—. Pero lo volvería a hacer igual.
+
+No añadió nada más, y [[Eizen]] tampoco insistió, aunque durante el resto del entrenamiento [[Noos]] los observó de reojo más de una vez, intrigado por la distancia nueva, apenas perceptible, que parecía haberse abierto entre los dos justo en el mismo instante en que [[Valery]] había intentado, con la mejor de las intenciones, acercarse a protegerlo.
+
+---
+
+[[Durante]] encontró su propia inquietud de forma menos dramática, aunque no por ello menos persistente.
+
+Llevaba semanas ayudando, casi por casualidad, a uno de los cuidadores más veteranos de la casa a reparar y catalogar los libros de la pequeña biblioteca, una tarea que había aceptado al principio solo porque le permitía pasar tiempo lejos del bullicio constante que generaba tener una hermana como [[Vega]]. Pero con el paso de las semanas, descubrió que aquel trabajo silencioso y minucioso —encuadernar de nuevo un lomo desgastado, restaurar una página rota, ordenar volúmenes que llevaban años amontonados sin criterio— le producía una satisfacción que no sabía nombrar del todo.
+
+—¿Por qué te importa tanto que quede bien hecho? —le preguntó [[Vega]] una tarde, encontrándolo absorto en la reparación de un libro de tapas descosidas que, a simple vista, no parecía merecer tanto esfuerzo—. Nadie va a fijarse si el lomo está perfecto o no.
+
+[[Durante]] tardó un momento en responder, sin apartar la vista de sus manos, ocupadas en un punto de costura preciso.
+
+—Alguien lo va a leer dentro de veinte años, o de cincuenta —dijo, al fin—. Y cuando lo haga, no va a pensar en quién arregló el libro. Pero el libro va a seguir ahí de todos modos, gracias a que alguien se tomó la molestia. Me gusta esa idea. Que algo que yo hago hoy siga existiendo cuando ya nadie se acuerde de que fui yo quien lo hizo.
+
+[[Vega]] lo miró un instante, con una expresión que mezclaba a partes iguales cariño y desconcierto, como quien descubre en un hermano de toda la vida una faceta que nunca antes se había molestado en preguntar.
+
+—Eso es raro —dijo, aunque sin ninguna intención de ofender—. Pero también es muy tú.
+
+[[Durante]] se limitó a sonreír, sin dar mayor importancia al comentario, y siguió con su costura, sin saber todavía que aquella satisfacción tranquila que sentía frente a los libros reparados era, en realidad, la primera nota audible de algo mucho más grande que llevaba dormido dentro de él desde siempre.
+
+---
+
+Fue [[Noos]], como solía ocurrirle, quien terminó de atar cabos aquella noche, tumbado en su cama, incapaz de conciliar el sueño con la misma facilidad de siempre.
+
+Pensó en la mirada de [[Eizen]] al reclamarle a [[Valery]] su derecho a decidir por sí mismo. Pensó en la satisfacción silenciosa de [[Durante]] frente a un libro que nadie más notaría jamás. Pensó en la promesa a medias de [[Shino]], en el nombre de los A.S.I.R. pronunciado con una naturalidad que todavía no terminaba de sentirse real, y en el plazo que se extendía frente a todos ellos como un camino cuyo final nadie podía ver todavía con claridad.
+
+No supo, esa noche tampoco, qué hacer con nada de lo que le rondaba la cabeza. Pero por primera vez desde la noche del despacho, la sensación no fue de miedo, sino de algo más parecido a la expectación: la certeza tranquila de que, fuera lo que fuese lo que estaba por llegar, todos ellos —cada uno a su manera, cada uno a su ritmo— ya habían empezado, sin proponérselo del todo, a moverse hacia ello.
+
+#### Capítulo 11 - Tres y dos.
+
+La distancia entre [[Valery]] y [[Eizen]] no se hizo evidente de golpe, sino con la misma lentitud paciente con la que había crecido casi todo lo importante en [[La Casa de los Ecos]]: un silencio más largo de lo habitual en la mesa, un "no hace falta que me esperes" dicho sin aspereza pero sin la calidez de siempre, una tarde en que [[Eizen]] fue al muro este del jardín solo, sin que nadie —ni siquiera él mismo, quizás— supiera bien si lo había hecho a propósito.
+
+[[Noos]] fue de los primeros en notarlo, quizás porque llevaba ya tiempo entrenando la costumbre de fijarse en los huecos que dejaban las personas cuando algo entre ellas dejaba de encajar del todo. Se lo comentó a [[Nisba]] una tarde de camino a la biblioteca, y ella, que solía tener una explicación tranquilizadora para casi todo, esta vez se limitó a fruncir el ceño.
+
+—Puede que solo necesiten tiempo —dijo, sin mucha convicción—. O puede que no sepan cómo hablar de lo que sea que haya pasado entre ellos. A veces cuesta más discutir con quien más te importa que con un extraño.
+
+Fue [[Vega]], con la franqueza que la definía, quien terminó de forzar las cosas. Aprovechando un rato en que encontró a [[Valery]] sola, sentada en el mismo banco de piedra donde años atrás [[Shino]] le había preguntado a [[Noos]] qué quería llegar a ser, se sentó a su lado sin pedir permiso.
+
+—¿Vais a arreglarlo, o vais a seguir fingiendo que no pasa nada hasta que se convierta en otra cosa? —preguntó, sin rodeos.
+
+—No sé de qué hablas —respondió [[Valery]], aunque el tono con que lo dijo la delataba antes de terminar la frase.
+
+—Ya —dijo [[Vega]], sin dejarse convencer—. Mira, yo no soy la persona indicada para dar consejos sobre pensar antes de actuar. Pero sí sé algo de tener a alguien tan cerca que a veces se te olvida que también tiene derecho a estar en desacuerdo contigo. Con [[Durante]] me pasa todo el tiempo. Y lo que aprendí es que evitar la pelea no hace que la razón por la que ibais a pelear desaparezca. Solo hace que se quede ahí, esperando.
+
+[[Valery]] no respondió enseguida. Se quedó mirando un punto indefinido del patio, con la misma concentración serena que solía reservar para un combate, hasta que, finalmente, se levantó del banco con una determinación que a [[Vega]] no le costó reconocer.
+
+—Tienes razón —dijo—. Odio que tengas razón.
+
+Encontró a [[Eizen]] esa misma tarde, en el muro este, con la mirada perdida en el mismo punto lejano de siempre. Se sentó a su lado sin decir nada durante un buen rato, dejando que el silencio hiciera parte del trabajo antes de decidirse a hablar.
+
+—No voy a disculparme por haberme puesto delante de aquel golpe —dijo al fin—. Lo volvería a hacer. Pero sí voy a disculparme por no haberte preguntado antes si querías que lo hiciera.
+
+[[Eizen]] no la miró de inmediato, pero algo en su postura pareció aflojarse un poco.
+
+—No es solo por eso —admitió, después de un silencio—. Es que últimamente pareces alguien distinto. Más decidida. Más acostumbrada a que la sigan sin discutir. Y no sé si me gusta o si me da miedo, porque siempre pensé que tú eras la única persona con la que no tenía que preocuparme por eso.
+
+—Sigo siendo la misma —dijo [[Valery]], aunque incluso mientras lo decía, algo en su propia voz sonó menos seguro de lo habitual—. Solo estoy empezando a entender que hay cosas que no puedo seguir evitando solo porque me incomodan.
+
+—¿Y yo entro en esas cosas que ya no vas a evitar? —preguntó [[Eizen]], con una vulnerabilidad tan poco habitual en él que [[Valery]] tardó un segundo en reaccionar.
+
+—Tú eres la última cosa del mundo que evitaría —respondió ella, con una firmeza que no dejaba lugar a dudas—. Pero puede que tengamos que aprender de nuevo cómo hacer esto. Los dos. Al mismo tiempo.
+
+No llegaron a resolverlo del todo aquella tarde —ninguno de los dos era de los que arreglan las cosas con una sola conversación—, pero cuando se levantaron del muro para volver a la casa, caminaron uno junto al otro con la misma distancia de siempre entre sus hombros, la distancia exacta de quienes llevan toda la vida sabiendo, sin necesidad de comprobarlo constantemente, que el otro va a seguir ahí.
+
+---
+
+Mientras tanto, en el salón de música, algo distinto y más silencioso llevaba semanas tejiéndose entre [[Noos]], [[Nisba]] y [[Nycto]], sin que ninguno de los tres se hubiera detenido a ponerle nombre.
+
+Empezó, como casi todo lo importante entre ellos, sin ninguna decisión consciente de por medio. [[Nisba]] había empezado a acompañar a [[Nycto]] en sus sesiones nocturnas de piano, al principio solo para hacerle compañía tras enterarse, por boca de [[Noos]], de lo que había vivido la noche de la puerta entreabierta, y con el tiempo porque descubrió que le gustaba, simplemente, estar allí, escuchando. [[Noos]] se sumó poco después, incapaz de dormir con la misma facilidad que antes desde que sabía lo que sabía, y encontró en aquellas noches algo parecido al refugio que una vez había encontrado en sus propios sueños infantiles.
+
+Aquella noche de finales de noviembre, sin embargo, ninguno de los tres tenía ganas de música. Se sentaron los tres juntos en el suelo del salón, con las espaldas apoyadas contra el piano cerrado, envueltos en un silencio cómodo que solo el frío de la noche interrumpía de vez en cuando.
+
+—¿Alguna vez pensáis en lo que hay al otro lado del plazo que nos dio Shino? —preguntó [[Nisba]], rompiendo el silencio con la voz baja de quien no está del todo segura de querer conocer la respuesta.
+
+—Todo el tiempo —admitió [[Noos]]—. Y cada vez que lo pienso, tengo más miedo de que la respuesta cambie algo entre nosotros que de la respuesta en sí.
+
+[[Nycto]], que solía dejar pasar ese tipo de conversaciones sin intervenir, sorprendió a ambos hablando primero.
+
+—A mí me daría más miedo lo contrario —dijo, con la mirada fija en algún punto del techo—. Que la respuesta no cambiara nada. Que siguiéramos exactamente igual, fingiendo que no sabemos lo que sabemos, hasta que se nos olvide que alguna vez nos importó.
+
+—Eso no va a pasar —dijo [[Nisba]], con una convicción que no admitía discusión—. Contigo menos que con nadie. Tú eres de los que no olvida nada.
+
+—No es un cumplido —replicó [[Nycto]], aunque el asomo de sonrisa que dejó escapar contradecía sus propias palabras.
+
+—Era medio cumplido —corrigió [[Nisba]], y por primera vez en toda la conversación, los tres se permitieron reír, un sonido bajo y cansado, pero sincero.
+
+Fue [[Noos]] quien, cuando el silencio volvió a instalarse, se atrevió a decir en voz alta algo que llevaba tiempo rondándole sin encontrar la forma exacta de expresarlo.
+
+—Da igual lo que descubramos, o lo que decida cada uno cuando llegue el momento —dijo, mirando alternativamente a uno y a otro—. Quiero que sepáis que, pase lo que pase, no pienso dejar que ninguno de los dos se enfrente a ello solo. Ni vosotros a mí.
+
+[[Nisba]] apoyó la cabeza sobre su hombro, sin decir nada, en un gesto que no necesitaba palabras para significar que estaba de acuerdo. [[Nycto]], al otro lado, tardó un poco más en reaccionar, como si sopesara la promesa antes de aceptarla del todo, pero finalmente extendió una mano y la apoyó, brevemente, sobre la de [[Noos]], en el gesto más cercano a una declaración abierta de afecto que cualquiera de los dos le había visto hacer jamás.
+
+—De acuerdo —dijo, simplemente—. Los tres juntos, entonces.
+
+No hizo falta añadir nada más. Se quedaron así un buen rato, los tres apoyados contra el piano cerrado, mientras la casa entera dormía a su alrededor y la noche seguía su curso, ajena a la promesa silenciosa que acababan de sellar entre ellos, una promesa que ninguno de los tres sabría, todavía, hasta qué punto llegaría a cumplirse literalmente cuando el plazo de [[Shino]] terminara por vencerse.
+
+#### Capítulo 12 - Cuenta atrás.
+
+Diciembre llegó a [[La Casa de los Ecos]] envuelto en un frío distinto al de otros años, o quizás fue solo que, por primera vez, los nueve prestaban atención a detalles que antes habrían pasado por alto sin más: el modo en que [[Shino]] revisaba el correo cada mañana con una premura que no disimulaba del todo, las ausencias cada vez más frecuentes que justificaba con la misma frase gastada de "asuntos en el pueblo", o el hecho de que, desde la conversación en el despacho, no había vuelto a mencionar el nombre de Qilby ni una sola vez, como si evitarlo en voz alta pudiera de alguna manera retrasar lo inevitable.
+
+—Está contando los días —dijo [[Nycto]] una noche, en el salón de música, con la misma certeza silenciosa con la que solía señalar lo que otros preferían no ver—. Igual que nosotros. Solo que ella sabe hacia qué.
+
+Nadie lo contradijo. Llevaban semanas viviendo bajo esa misma sensación: la de que algo se aproximaba con la lentitud inexorable de una marea, visible solo en pequeños detalles que, por separado, no habrían significado nada, pero que juntos empezaban a dibujar un patrón imposible de ignorar. [[Shino]] había empezado a encargar provisiones de más, como si preparara la casa para recibir a alguien que fuera a quedarse una temporada. Los cuidadores más veteranos bajaban la voz cada vez que ella se acercaba, con esa clase de silencio deliberado que solo se aprende a fuerza de guardar secretos ajenos. Y más de una noche, [[Kanon]] —que dormía con la ventana entreabierta pese al frío, porque decía que el aire cerrado le daba dolor de cabeza— había visto luz encendida en el despacho de [[Shino]] a horas en las que, hasta hacía apenas un mes, la casa entera llevaba ya rato dormida.
+
+[[Valery]] fue quien, a mediados de mes, decidió que la espera pasiva ya no era suficiente.
+
+—Vamos a preguntarle directamente cuánto queda de plazo —anunció, reuniendo de nuevo al grupo en el patio trasero, ahora cubierto por una fina capa de escarcha matutina que crujía bajo sus pies—. Prometió que antes de que acabara el año sabríamos todo. El año se acaba en dos semanas.
+
+—¿Y si todavía no está lista? —preguntó [[Gisela]], no por dudar de la decisión, sino por costumbre de sopesar cada riesgo antes de asumirlo.
+
+—Entonces tendrá que estarlo —respondió [[Valery]], sin dudar—. No pienso dejar que el plazo se disuelva solo porque a ella le resulte incómodo cumplirlo.
+
+Encontraron a [[Shino]] esa misma tarde, no en su despacho, sino en el pequeño jardín trasero, con un abrigo oscuro echado sobre los hombros y la mirada perdida hacia el camino que llevaba al pueblo, como si esperara ver aparecer algo en cualquier momento. Se giró en cuanto los oyó acercarse, y algo en su expresión —una mezcla de alivio y de resignación que ninguno de ellos supo interpretar del todo— sugería que llevaba tiempo esperando aquella conversación tanto como ellos.
+
+—Ibais a venir tarde o temprano —dijo, antes de que nadie tuviera que explicar el motivo de la visita—. Me alegra que haya sido antes.
+
+—¿Cuánto queda? —preguntó [[Valery]], sin rodeos.
+
+[[Shino]] tardó un momento en responder, con la mirada todavía fija en el camino vacío.
+
+—Menos de lo que me gustaría —dijo finalmente—. Qilby llegará antes de que termine el año. Días, no semanas. Y cuando lo haga, no va a venir solo a hablar, como la última vez que estuvo aquí sin que lo supierais.
+
+—¿A qué va a venir, entonces? —preguntó [[Noos]], con un nudo en el estómago que llevaba semanas formándose sin que él supiera exactamente por qué.
+
+[[Shino]] los miró, uno por uno, con una expresión que a [[Noos]] le recordó, sin poder evitarlo, a la de alguien que se despide de algo antes de que ese algo se haya marchado siquiera.
+
+—A eso todavía no puedo responderos del todo —dijo—. Pero os prometí la verdad completa antes de que el año terminara, y pienso cumplirlo. Solo os pido unos días más. Los últimos que os voy a pedir a ciegas, os lo prometo de verdad esta vez.
+
+—Llevas prometiendo eso desde hace un mes —replicó [[Eizen]], con una frialdad que no ocultaba la inquietud de fondo.
+
+—Lo sé —admitió [[Shino]], sin defenderse—. Y sé que cada día que pasa sin que os lo cuente todo se parece más a una mentira que a una promesa. Pero hay partes de esto que no dependen solo de mí, [[Eizen]]. Y necesito que confiéis en que, cuando por fin podáis conocer la historia entera, entenderéis por qué no fue posible antes.
+
+Nadie respondió de inmediato. El frío de la tarde se les colaba ya bajo la ropa, y el silencio que siguió tuvo algo de tregua incómoda, la clase de silencio que se sostiene no porque nadie tenga nada más que decir, sino porque todos saben que decir algo más no cambiaría nada de lo que ya estaba en marcha.
+
+Fue [[Kanon]], inesperadamente, quien rompió la tensión con una pregunta que no tenía nada que ver con plazos ni con promesas.
+
+—¿Cómo es él? —preguntó, con la misma curiosidad genuina con la que solía preguntar por las mareas o por los pulpos, ajeno por completo, o quizás no tanto, a la gravedad del momento—. Qilby. Nunca lo has descrito. Solo hablas de él como si fuera... no sé. Una tormenta que se acerca.
+
+[[Shino]] pareció sorprendida por la pregunta, y por primera vez en toda la conversación, algo parecido a una sonrisa —pequeña, cansada, pero real— cruzó su rostro.
+
+—Es la persona más convencida que he conocido nunca de que el mundo puede rehacerse si uno está dispuesto a pagar el precio suficiente —dijo, después de pensarlo—. Durante mucho tiempo, yo compartí esa convicción con él. Todavía la comparto, en parte, aunque hace años que dejamos de estar de acuerdo en cuál es el precio razonable a pagar.
+
+No añadió nada más, y ninguno de los nueve se atrevió a preguntar qué precio era ese, aunque la pregunta quedó flotando entre todos ellos durante el resto de la tarde, y durante muchas de las noches que siguieron.
+
+---
+
+Dos días después, [[Nycto]] volvió a bajar al salón de música pasada la medianoche, siguiendo la costumbre que llevaba meses sin fallar, y al pasar frente al despacho de [[Shino]] encontró, de nuevo, un hilo de luz escapando por debajo de la puerta.
+
+Esta vez no se detuvo a escuchar. Aceleró el paso hacia su habitación, despertó a [[Noos]] con un gesto silencioso, y juntos, sin necesidad de palabras, fueron a buscar a [[Nisba]].
+
+Los tres se asomaron con cuidado desde el final del pasillo, lo justo para ver, a través de la rendija de la puerta entreabierta, la silueta de [[Shino]] sentada frente a su escritorio, con la cabeza entre las manos, y frente a ella, de pie, envuelto en una capa oscura que no dejaba adivinar del todo su rostro, una figura que ninguno de los tres había visto nunca antes, pero cuyo nombre, sin necesidad de que nadie lo pronunciara en voz alta, los tres reconocieron al mismo tiempo.
+
+—Ha llegado antes de lo que dijo —susurró [[Nisba]], con la voz apenas audible.
+
+[[Noos]] no respondió. Se limitó a observar aquella silueta inmóvil, envuelta en sombra y en la luz temblorosa de las velas del despacho, sintiendo que el hilo que llevaba tejiéndose, sin que él lo supiera del todo, desde la primera noche que había pasado en aquella casa, acababa de tensarse de golpe hasta un punto del que ya no habría manera de deshacerlo.
+
+#### Capítulo 13 - El Principio A.S.I.R.
+
+Nadie durmió bien esa noche, y a la mañana siguiente no hizo falta que [[Noos]], [[Nycto]] o [[Nisba]] contaran lo que habían visto: bastó una sola mirada de [[Shino]] durante el desayuno, más pesada y más sincera que ninguna de las que les había dedicado en semanas, para que los nueve entendieran que el plazo, por fin, había llegado a su fin.
+
+—Esta tarde —dijo, sin necesidad de que nadie le preguntara nada—. Reuníos todos en la sala grande después de la comida. Y por favor, esta vez, no faltéis ninguno.
+
+La sala grande, que normalmente se usaba para las funciones de teatro improvisadas de los más pequeños o para las tardes de lluvia en que ningún patio resultaba habitable, había sido dispuesta de una forma que ninguno de ellos había visto nunca: las sillas colocadas en un semicírculo cerrado, las cortinas corridas pese a que todavía era de día, y frente a ellas, de pie junto a [[Shino]], la misma figura envuelta en una capa oscura que [[Noos]], [[Nycto]] y [[Nisba]] habían entrevisto la noche anterior a través de una puerta entornada.
+
+De cerca, y sin la sombra del pasillo nocturno distorsionando sus rasgos, Qilby resultó menos temible de lo que la imaginación de varios de ellos había construido durante las últimas semanas, y precisamente por eso, más inquietante todavía: no había nada monstruoso en su aspecto, solo un hombre de mediana edad, mirada intensa y un porte tranquilo, de esos que parecen sostenerse sobre una certeza mucho más antigua que la propia conversación que están teniendo.
+
+—Gracias por venir —dijo, con una voz suave que no encajaba del todo con la tensión que se respiraba en la sala—. Sé que muchos de vosotros lleváis semanas, quizás meses, intentando entender qué es lo que está pasando en esta casa. Hoy voy a contároslo todo, sin rodeos. No os voy a pedir que os alegréis. Solo os voy a pedir que me escuchéis con la misma seriedad con la que yo llevo años pensando en cada palabra que voy a deciros.
+
+[[Gisela]], sentada con los brazos cruzados en el borde de su silla, fue la primera en hablar.
+
+—Empieza, entonces.
+
+Qilby asintió, como si aquella hostilidad apenas velada fuera exactamente la reacción que esperaba, y comenzó a hablar con la calma de quien lleva mucho tiempo ensayando, para sí mismo más que para nadie, las palabras exactas que iba a usar.
+
+—Hace años, mucho antes de que cualquiera de vosotros naciera, empecé a estudiar algo que la mayoría de la gente considera solo una debilidad de la infancia, algo que se supera con la edad, como se supera un miedo: los sueños. No los que tenemos dormidos, aunque también esos, sino los otros. Los que perseguimos despiertos. Las metas que nos definen tanto que, si nos las arrancaran, dejaríamos de ser, en cierto modo, nosotros mismos. Yo nunca he creído que eso sea debilidad. Creo que es la fuerza más grande que existe, sin usar, en la mayoría de las personas que la llevan dentro.
+
+—Descubrí que esos sueños, cuando son lo bastante fuertes, lo bastante puros, pueden convertirse en algo más que una idea —continuó—. Pueden convertirse en fuerza. Una fuerza capaz de dar forma y vida a algo nuevo. A eso lo llamé el Principio A.S.I.R.: Armadura, Sueño, Ideal, Realidad. Cuatro fuerzas que, combinadas correctamente, pueden crear una Armadura Viviente: un ser hecho enteramente del sueño de quien le da forma, capaz de una fuerza y de una permanencia que ningún cuerpo mortal podría alcanzar jamás.
+
+—¿Y qué tenemos nosotros que ver con eso? —preguntó [[Durante]], con una tensión en la voz que delataba que ya intuía, sin querer confirmarlo todavía, hacia dónde se dirigía la explicación.
+
+—Una Armadura necesita un huésped —dijo Qilby, sin suavizar la respuesta—. Alguien cuya voluntad, cuyo sueño, sea lo bastante fuerte como para convertirse en el motor de esa nueva forma. No nacen. Se trasplantan. El sueño de una persona, su convicción más profunda, se convierte en la semilla de algo que trasciende el cuerpo que lo originó.
+
+El silencio que siguió a esas palabras fue absoluto, roto solo por el crepitar de la chimenea al fondo de la sala. Fue [[Valery]] quien, finalmente, formuló la pregunta que todos temían hacer.
+
+—¿Y si el sueño no es lo bastante fuerte? —preguntó, con una calma que le costaba visiblemente sostener—. ¿Qué pasa entonces?
+
+Qilby la miró un largo instante antes de responder, sin apartar la vista, sin suavizar el tono cuando por fin habló.
+
+—Entonces el huésped desaparece —dijo—. Sin dolor, según todo lo que he podido comprobar. Pero sin posibilidad de retorno. Lo mismo ocurre si, una vez completado el proceso, la persona deja de creer en el sueño que la sostiene, o si ese sueño es llevado a su destrucción. La Armadura y quien le da forma están unidos por el mismo hilo. Si el hilo se rompe, ambos caen. No os lo voy a suavizar. Prefiero que sepáis exactamente lo que hay en juego a que descubráis después que os oculté algo por miedo a vuestra reacción.
+
+—Entonces esto no es un regalo —dijo [[Eizen]], con una voz baja que, sin embargo, se escuchó con claridad en toda la sala—. Es una apuesta con nuestras vidas.
+
+—Es exactamente eso —respondió Qilby, sin ningún intento de suavizarlo—. No voy a mentiros llamándolo de otra manera. Es la apuesta más grande que voy a pedirle a nadie que haga. Por eso ha llevado tanto tiempo prepararos. Nadie va a atar a nadie a la fuerza a esa Armadura. Pero el sueño no espera indefinidamente a quien decide no perseguirlo, y no puedo prometeros qué forma tomará esta casa, ni este propósito, para quien decida quedarse al margen. Preferiría no tener que deciros eso. Pero preferiría todavía menos mentiros para que la decisión os resultara más fácil.
+
+Todas las miradas se volvieron hacia [[Shino]], que había permanecido en silencio junto a Qilby durante toda la explicación, con una expresión que a [[Noos]] le costó descifrar del todo: no era desacuerdo abierto, pero tampoco la conformidad tranquila con la que solía sostener cualquier decisión frente a ellos.
+
+—¿Y si decimos que no? —preguntó [[Nisba]], con una voz que temblaba lo justo para que todos notaran el esfuerzo que le costaba mantenerla firme—. ¿Qué pasa entonces con nosotros?
+
+[[Shino]] tardó en responder, y ese silencio, más que cualquier palabra que pudiera haber dicho, fue lo que terminó de helar el ambiente de la sala.
+
+—Seguiréis teniendo un techo y comida caliente, eso os lo puedo garantizar yo misma —dijo, al fin—. Lo demás... me gustaría poder prometéroslo también. Pero no sería sincero por mi parte fingir que tengo esa certeza.
+
+La sala se llenó, después de eso, de un murmullo de voces superpuestas que ni [[Shino]] ni Qilby intentaron acallar. [[Gisela]] se puso de pie, con una furia contenida que amenazaba con desbordarse en cualquier momento.
+
+—¿Y esperabais que nos alegráramos de escuchar esto? —dijo, dirigiéndose directamente a Qilby—. Nos habéis criado durante años sabiendo que, en algún momento, ibais a ofrecernos la posibilidad de desaparecer sin dejar rastro.
+
+—No esperaba que os alegrarais —respondió Qilby, sin alterarse—. No he venido a buscar vuestro consuelo, ni el mío. He venido a deciros la verdad, por dura que sea, porque creo que os merecéis algo mejor que años más de silencio a medias. Podéis odiarme por lo que os acabo de contar. Preferiría eso a que nunca lo hubierais sabido.
+
+—Yo no pienso hacerlo —dijo [[Durante]], levantándose también, con una mano apoyada instintivamente sobre el hombro de [[Vega]], sentada a su lado—. Y no pienso dejar que ella lo haga tampoco, aunque tenga que discutírselo cada día durante el resto de nuestras vidas.
+
+—No decidas eso por mí, Durante —protestó [[Vega]], aunque su propia voz, por primera vez desde que [[Noos]] la conocía, sonó menos segura de lo habitual.
+
+—Nadie va a decidir nada por nadie hoy —intervino [[Valery]], con una autoridad que hizo que incluso Qilby la observara con un renovado interés—. No hace falta responder ahora. ¿Verdad?
+
+—No hace falta —confirmó [[Qilby]]—. Tenéis el tiempo que necesitéis. Pero cuando decidáis, quiero que sea de verdad vuestra decisión, y no la de nadie más. Ni la mía, ni la de vuestros hermanos, ni la del miedo que sintáis esta tarde. Un sueño impuesto no sirve para nada. Solo sirve el que de verdad os pertenece.
+
+La reunión se disolvió poco después, sin ningún tipo de conclusión formal, entre susurros nerviosos y miradas que ya no sabían bien dónde posarse. [[Noos]] fue de los últimos en salir de la sala, y antes de cruzar la puerta, se giró un instante hacia [[Eizen]], que se había quedado rezagado, observando a [[Qilby]] con una atención que no se parecía a nada que [[Noos]] le hubiera visto dedicar a nadie hasta entonces.
+
+No dijo nada. Pero algo en la forma en que [[Eizen]] sostenía esa mirada, algo entre el reconocimiento y la posibilidad, hizo que a [[Noos]] se le encogiera el estómago con una premonición que no habría sabido explicar del todo, pero que no conseguiría quitarse de encima durante el resto de aquella tarde.
+
+#### Capítulo 14 - Los que se quedan y los que corren.
+
+Los días que siguieron a la reunión en la sala grande transcurrieron para los nueve envueltos en una tensión distinta a cualquiera que hubieran conocido hasta entonces, una tensión que ya no se alimentaba de la duda, sino de la certeza incómoda de tener que decidir, y de saber que cualquier decisión que tomaran iba a costarles algo.
+
+Fue [[Valery]] quien, la noche del tercer día, reunió de nuevo al grupo, esta vez sin la presencia de [[Shino]] ni de nadie más, en el desván al que [[Nycto]] los había guiado tiempo atrás durante la noche de la tormenta, el único rincón de la casa donde podían hablar con la certeza de que nadie los oiría.
+
+—No podemos confiar en que "lo demás" que no nos garantizan signifique nada bueno —dijo, resumiendo en una sola frase lo que todos llevaban tres días masticando en silencio—. Y no pienso quedarme a esperar para averiguarlo.
+
+—¿Qué propones, entonces? —preguntó [[Nisba]], aunque el temblor en su voz sugería que ya intuía la respuesta.
+
+—Que nos vayamos —dijo [[Valery]], sin rodeos—. Esta misma semana, antes de que decidan que se nos ha acabado el tiempo de decidir. No muy lejos. Lo bastante como para no depender de esta casa, ni de lo que Qilby quiera hacer con nosotros si nos quedamos.
+
+El silencio que siguió no fue de sorpresa —todos, de una manera u otra, habían dado vueltas a la misma idea durante los últimos tres días—, sino del peso concreto que adquiere un pensamiento en cuanto alguien se atreve a decirlo en voz alta.
+
+—Yo me voy con vosotros —dijo [[Durante]], sin dudarlo, con una mano ya apoyada sobre el hombro de [[Vega]]—. Y ella también, aunque le cueste admitir que por una vez está de acuerdo conmigo sin discutir.
+
+—Por una vez —concedió [[Vega]], con una sonrisa pequeña que no llegaba a disimular del todo el miedo de fondo.
+
+[[Gisela]] asintió sin necesidad de que nadie le preguntara, y [[Kanon]], que llevaba toda la reunión más callado de lo habitual, terminó por sumarse con una frase que sonó, por primera vez desde que cualquiera de ellos lo conocía, completamente desprovista de su entusiasmo característico.
+
+—No quiero desaparecer sin dejar rastro —dijo, en voz baja—. Prefiero seguir vivo para hacer demasiadas preguntas en otro sitio.
+
+[[Noos]], [[Nisba]] y [[Nycto]] se miraron entre sí antes de que ninguno hablara, como si la decisión, para ellos tres, ya se hubiera tomado sola en algún momento de las últimas semanas, sin necesidad de palabras.
+
+—Los tres juntos —dijo [[Noos]], recordando la promesa que se habían hecho meses atrás en aquel mismo salón de música que ahora quedaba tan lejos—. Vayamos donde vayamos.
+
+Solo faltaba una respuesta.
+
+—[[Eizen]] —dijo [[Valery]], girándose hacia él, que había permanecido apoyado contra una de las vigas del desván durante toda la conversación, en un silencio que ya no era el habitual—. ¿Vienes?
+
+[[Eizen]] tardó en responder lo suficiente como para que el silencio empezara a doler. Cuando finalmente habló, lo hizo con una calma que no encajaba con la gravedad de lo que estaba a punto de decir.
+
+—No —dijo—. Voy a aceptar. Voy a someterme al proceso.
+
+La reacción no se hizo esperar. [[Kanon]] soltó una exclamación ahogada, [[Nisba]] se llevó una mano a la boca, y [[Gisela]] dio un paso hacia él con una expresión que oscilaba entre la incredulidad y algo parecido a la furia protectora que la definía.
+
+—¿Has perdido la cabeza? —preguntó, sin ninguna intención de suavizarlo—. Acabas de oír lo que puede pasar si el sueño no es lo bastante fuerte. Podrías desaparecer, Eizen. Del todo.
+
+—Lo sé —respondió él, sin alterarse—. Lo he pensado más que cualquiera de vosotros estos tres días, os lo prometo.
+
+—Entonces explícanoslo —exigió [[Valery]], con una voz que temblaba de una forma que [[Noos]] no le había oído nunca, ni siquiera durante el combate más exigente—. Porque yo no lo entiendo. Tú, precisamente tú, que llevas toda la vida evitando que nadie decida nada por ti. ¿Vas a dejar que Qilby decida esto?
+
+—Nadie va a decidir esto por mí —dijo [[Eizen]], y por primera vez desde que había empezado a hablar, algo parecido a la emoción se abrió paso en su voz, contenida pero real—. Eso es exactamente lo que estoy intentando explicaros, y ninguno lo está entendiendo. Toda mi vida he tenido miedo de que alguien más eligiera mi camino. La casa, las reglas, la gente, incluso vosotros, aunque nunca os lo haya dicho así. Y ahora, por primera vez, tengo delante una elección que es completamente mía. Nadie me está obligando. Nadie decide por mí si lo hago o no. Soy yo, y solo yo, quien decide qué hacer con lo único que siempre he querido de verdad: no que alguien más trace mi camino. Esta es la primera vez en mi vida que elijo el mío sin que nadie más lo haya trazado antes por mí. No pienso dejar pasar eso solo porque da miedo.
+
+Nadie supo qué responder de inmediato. [[Valery]], que se había acercado un paso durante el discurso de [[Eizen]], se detuvo a medio camino, con una expresión que luchaba visiblemente entre el deseo de discutir cada palabra de lo que acababa de escuchar y la comprensión, dolorosa pero innegable, de que aquello encajaba con todo lo que sabía de él desde que tenía memoria.
+
+—Puedes elegir eso y también elegir venir con nosotros —dijo, al fin, con una voz mucho más baja—. La libertad no tiene por qué significar quedarte aquí.
+
+—Para mí sí —respondió [[Eizen]], con una suavidad que contrastaba con la firmeza del resto de su discurso—. Huir también sería seguir una decisión de otra persona. La tuya. La del grupo. No la mía. Y por primera vez, necesito que la mía sea solo mía, aunque eso signifique separarme de las únicas personas que me han importado de verdad.
+
+[[Valery]] no respondió a eso. Se limitó a apartar la mirada, con los ojos brillantes de una forma que nadie en el desván se atrevió a señalar en voz alta, y el silencio que siguió tuvo la textura pesada de una despedida que ninguno de los presentes estaba todavía preparado para pronunciar del todo.
+
+---
+
+Partieron dos noches después, aprovechando una de las escasas ausencias de [[Shino]], con lo poco que pudieron reunir sin levantar sospechas: mantas, algo de comida, el dinero que [[Kanon]] había estado guardando sin que nadie supiera muy bien para qué, y la determinación silenciosa de ocho personas que llevaban toda su vida aprendiendo, cada una a su manera, a sobrevivir a lo que el mundo decidiera lanzarles encima.
+
+[[Eizen]] los acompañó hasta la verja del jardín, la misma que [[Noos]] había cruzado años atrás de la mano de [[Shino]] la primera vez que había pisado aquella casa, sin saber todavía que aquel apretón de manos sería el primer hilo de una historia que apenas empezaba a tejerse. Ahora, frente a esa misma verja, se despedía de las personas que se habían convertido, sin que él lo hubiera buscado del todo, en la excepción a su propia regla de no atarse a nada.
+
+—Cuando todo esto termine, de una forma o de otra —dijo [[Valery]], con la voz firme aunque las manos le temblaban ligeramente al sujetar la de él por última vez—, más te vale seguir siendo tú. Reconocible. No pienso perdonarte que te conviertas en otra cosa distinta a la que llevo tanto tiempo queriendo.
+
+—Lo intentaré —fue todo lo que [[Eizen]] pudo responder, con una honestidad que no admitía promesas más grandes de las que podía cumplir.
+
+[[Noos]] fue el último en soltarle la mano, y en el instante final, antes de que el resto del grupo empezara a alejarse hacia la oscuridad del camino que se abría más allá de la verja, [[Eizen]] lo retuvo un segundo más de lo necesario.
+
+—Cuida de los otros dos —dijo, en voz baja, refiriéndose sin necesidad de nombrarlos a [[Nycto]] y a [[Nisba]]—. Y cuídate tú también. Sé que es lo único que de verdad has querido siempre. Espero que lo consigas, esté yo o no para verlo.
+
+No hubo tiempo para más. El grupo se internó en la noche, ocho siluetas que se fueron desdibujando poco a poco entre los árboles del camino, y [[Eizen]] se quedó solo frente a la verja de [[La Casa de los Ecos]], observando cómo la oscuridad terminaba de tragarse a las últimas personas del mundo a las que había permitido, alguna vez, acercarse lo suficiente como para importarle de verdad.
+
+Cuando ya no pudo distinguir ni una sola sombra entre los árboles, se dio la vuelta y caminó de regreso hacia la casa, hacia la luz que todavía brillaba, tenue y solitaria, en la ventana del despacho de [[Shino]], donde Qilby lo esperaba para empezar aquello que, por primera vez en toda su vida, había elegido enteramente solo.
