@@ -960,7 +960,13 @@ La reacción no se hizo esperar. [[Kanon]] soltó una exclamación ahogada, [[Ni
 
 —Nadie va a decidir esto por mí —dijo [[Eizen]], y por primera vez desde que había empezado a hablar, algo parecido a la emoción se abrió paso en su voz, contenida pero real—. Eso es exactamente lo que estoy intentando explicaros, y ninguno lo está entendiendo. Toda mi vida he tenido miedo de que alguien más eligiera mi camino. La casa, las reglas, la gente, incluso vosotros, aunque nunca os lo haya dicho así. Y ahora, por primera vez, tengo delante una elección que es completamente mía. Nadie me está obligando. Nadie decide por mí si lo hago o no. Soy yo, y solo yo, quien decide qué hacer con lo único que siempre he querido de verdad: no que alguien más trace mi camino. Esta es la primera vez en mi vida que elijo el mío sin que nadie más lo haya trazado antes por mí. No pienso dejar pasar eso solo porque da miedo.
 
-Nadie supo qué responder de inmediato. [[Valery]], que se había acercado un paso durante el discurso de [[Eizen]], se detuvo a medio camino, con una expresión que luchaba visiblemente entre el deseo de discutir cada palabra de lo que acababa de escuchar y la comprensión, dolorosa pero innegable, de que aquello encajaba con todo lo que sabía de él desde que tenía memoria.
+Nadie supo qué responder de inmediato. Fue [[Kanon]], incapaz como siempre de sostener un silencio durante demasiado tiempo, quien rompió la pausa con una voz que intentaba sonar ligera y se le quebró a mitad de camino.
+
+—Podrías pedirle que te deje elegir el aspecto de la armadura, ya que estás —dijo, con una sonrisa torcida que no le llegaba a los ojos—. Que por lo menos te toque algo con mejor pinta que un maniquí relleno de paja.
+
+Nadie rio. Ni siquiera él consiguió sostener la sonrisa más de un instante, y el silencio que siguió, más pesado todavía por el intento fallido de aligerarlo, terminó de convencer a [[Kanon]] de que aquella vez no había forma de hacer que las palabras sirvieran para algo. Bajó la mirada, con las manos hundidas en los bolsillos, y no volvió a intentarlo.
+
+[[Valery]], que se había acercado un paso durante el discurso de [[Eizen]], se detuvo a medio camino, con una expresión que luchaba visiblemente entre el deseo de discutir cada palabra de lo que acababa de escuchar y la comprensión, dolorosa pero innegable, de que aquello encajaba con todo lo que sabía de él desde que tenía memoria.
 
 —Puedes elegir eso y también elegir venir con nosotros —dijo, al fin, con una voz mucho más baja—. La libertad no tiene por qué significar quedarte aquí.
 
