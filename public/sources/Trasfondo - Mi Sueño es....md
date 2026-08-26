@@ -1104,7 +1104,7 @@ Por un instante, algo pareció vacilar en la figura de Zéfiro. Bajó, apenas un
 
 Durante un segundo que se estiró como si el tiempo mismo dudara de qué dirección tomar, pareció que aquellas palabras podían llegar a alguna parte. Pero la vacilación, tan fugaz como había llegado, se cerró de golpe, y la voz que volvió a hablar recuperó toda la frialdad anterior, como si una puerta, en algún lugar dentro de aquella armadura, se hubiera cerrado con un chasquido definitivo.
 
-—Un intento admirable —dijo Zéfiro—. Pero no suficiente.
+—Un intento admirable —dijo Zéfiro—. Pero no suficiente. 
 
 Las mismas cadenas de sombra que habían inmovilizado a [[Kanon]] se extendieron hacia el resto del grupo con una velocidad contra la que ninguno pudo oponer verdadera resistencia. [[Noos]] fue el último en caer, sujetando con fuerza las manos de [[Nisba]] y [[Nycto]] hasta el último instante, incluso cuando la sombra ya empezaba a envolverlo también a él, arrastrándolo hacia una oscuridad pesada y sin sueños que se cerró sobre los tres al mismo tiempo, como si incluso aquello —la inconsciencia, la derrota— fuera algo que solo pudieran atravesar juntos.
 
