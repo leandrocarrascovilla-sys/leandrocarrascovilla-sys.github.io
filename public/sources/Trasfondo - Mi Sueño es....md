@@ -990,4 +990,58 @@ Partieron dos noches después, aprovechando una de las escasas ausencias de [[Sh
 
 No hubo tiempo para más. El grupo se internó en la noche, ocho siluetas que se fueron desdibujando poco a poco entre los árboles del camino, y [[Eizen]] se quedó solo frente a la verja de [[La Casa de los Ecos]], observando cómo la oscuridad terminaba de tragarse a las últimas personas del mundo a las que había permitido, alguna vez, acercarse lo suficiente como para importarle de verdad.
 
-Cuando ya no pudo distinguir ni una sola sombra entre los árboles, se dio la vuelta y caminó de regreso hacia la casa, hacia la luz que todavía brillaba, tenue y solitaria, en la ventana del despacho de [[Shino]], donde Qilby lo esperaba para empezar aquello que, por primera vez en toda su vida, había elegido enteramente solo.
+Cuando ya no pudo distinguir ni una sola sombra entre los árboles, se dio la vuelta y caminó de regreso hacia la casa, hacia la luz que todavía brillaba, tenue y solitaria, en la ventana del despacho de [[Shino]], donde [[Qilby]] lo esperaba para empezar aquello que, por primera vez en toda su vida, había elegido enteramente solo.
+
+#### Capítulo 15 - La cabaña.
+
+Los primeros dos días de huida transcurrieron con la urgencia nerviosa de quien todavía espera, en cualquier recodo del camino, ver aparecer a alguien enviado a buscarlos. Pero cuando el tercer día amaneció sin más sobresalto que el frío calando cada vez más hondo en la ropa que habían podido llevarse, el miedo inicial empezó a transformarse en algo más parecido al cansancio: el de nueve —ahora ocho— personas que llevaban demasiadas horas caminando sin saber del todo hacia dónde, sosteniéndose los unos a los otros con lo poco que les quedaba.
+
+[[Valery]] los guiaba con el mismo mapa memorizado del primer día, ahora ya sin apenas margen de improvisación, decidida a llegar a un pueblo lo bastante alejado de [[La Casa de los Ecos]] como para que nadie los relacionara con ella con solo mirarlos. [[Gisela]] seguía cerrando la marcha, cada vez con menos palabras y más atención puesta en cualquier sonido que no encajara con el bosque. [[Kanon]], que en cualquier otra circunstancia habría llenado el silencio con datos random sobre lo que fuera que tuvieran delante, se había ido apagando poco a poco, como si el hambre y el cansancio le hubieran robado, por primera vez en su vida, las ganas de hablar.
+
+—Tiene que haber algo más cerca que seguir caminando —dijo [[Durante]], al final de la tercera jornada, con [[Vega]] apoyada contra su costado, los pies llenos de ampollas que ella se negaba tercamente a mencionar en voz alta.
+
+Lo encontraron esa misma tarde: una cabaña de caza abandonada, a las afueras de un pequeño pueblo cuyo nombre ninguno se molestó en preguntar, con las contraventanas cerradas y una capa de polvo que sugería meses, quizás años, sin que nadie la hubiera usado. No era gran cosa —una sola estancia, una chimenea medio obstruida, un puñado de muebles rotos que sirvieron, al menos, para hacer fuego—, pero después de tres días a la intemperie, a los ocho les pareció el lugar más seguro del mundo.
+
+—Solo esta noche —dijo [[Valery]], mientras repartía lo poco que quedaba de comida—. Mañana seguimos hacia el pueblo. Necesitamos provisiones, y necesitamos saber dónde estamos exactamente.
+
+Nadie discutió. El calor del fuego, después de tres noches durmiendo a la intemperie, resultó suficiente para que incluso [[Nisba]], que llevaba días sosteniendo con calma forzada el ánimo del grupo, se permitiera cerrar los ojos apenas terminó de comer, con la cabeza apoyada contra el hombro de [[Noos]].
+
+[[Nycto]] fue el único que no llegó a dormirse del todo. Llevaba, desde la noche de la huida, un sueño ligero y desconfiado, la costumbre adquirida de años escuchando sonidos que los demás preferían no oír, y fue precisamente esa costumbre la que lo hizo incorporarse de golpe, mucho antes de que nadie más lo notara, cuando un ruido de pasos —demasiado firmes, demasiado regulares para tratarse de un animal— se detuvo justo frente a la puerta de la cabaña.
+
+—Despertad —susurró, sacudiendo a [[Noos]] y a [[Nisba]] con una urgencia que no dejaba lugar a dudas—. Alguien está fuera.
+
+No hubo tiempo para más advertencias. La puerta de la cabaña, atrancada con un simple pasador de madera, se abrió de par en par sin que nadie llegara a tocarla, como si el propio pasador hubiera decidido, por voluntad propia, dejar de oponer resistencia.
+
+La figura que cruzó el umbral no era, a primera vista, ninguna amenaza reconocible: un cuerpo delgado, envuelto en una armadura de líneas oscuras y afiladas que parecían absorber más luz de la que el fuego de la chimenea podía ofrecer, con un rostro que, bajo el yelmo entreabierto, conservaba algo —solo algo— de unos rasgos que los ocho reconocieron de inmediato, aunque ninguno se atrevió, durante los primeros segundos, a pronunciar el nombre en voz alta.
+
+—[[Eizen]]... —consiguió decir, al fin, [[Valery]], poniéndose de pie con las piernas todavía entumecidas por el frío—. ¿Qué te ha pasado?
+
+La figura ladeó la cabeza, con un movimiento que resultaba, de algún modo indefinible, más lento y más frío que cualquier gesto que el [[Eizen]] que conocían hubiera hecho jamás.
+
+—Ese nombre ya no me pertenece del todo —dijo, con una voz que conservaba el timbre de siempre, pero despojada de cualquier calidez—. Podéis llamarme Zéfiro, si necesitáis un nombre. Es el que se me ha dado.
+
+—No tienes por qué hacer esto —dijo [[Noos]], intentando que su propia voz sonara más firme de lo que se sentía—. Sea lo que sea que te hayan pedido. Todavía puedes elegir.
+
+Algo cruzó el rostro de la figura al escuchar aquello —una sombra fugaz, casi imperceptible, que a [[Noos]] le pareció, por un instante, reconocer como el propio [[Eizen]] luchando por abrirse paso desde algún lugar demasiado profundo—, pero se desvaneció con la misma rapidez con la que había aparecido.
+
+—Elegir es exactamente lo que estoy haciendo —respondió, con una calma que resultaba mucho más inquietante que cualquier grito—. He venido a llevaros de vuelta. Todos. Sin excepción, y sin que esto tenga que doler más de lo necesario, si no me obligáis a lo contrario.
+
+—No vamos a volver por las buenas —dijo [[Gisela]], plantándose entre él y el resto del grupo con la espada de madera en alto, un gesto tan inútil como desesperado frente a lo que tenían delante, y aun así, el único que se le ocurrió hacer.
+
+—No os lo estoy preguntando —dijo Zéfiro.
+
+Lo que siguió no llegó a parecerse a una pelea, porque una pelea habría implicado, al menos, la posibilidad de que ambos bandos tuvieran alguna oportunidad real. [[Gisela]] se lanzó hacia adelante con toda la ferocidad que la definía, y el brazo de Zéfiro, apenas un movimiento, bastó para desviar el golpe y dejarla sin aire contra la pared más cercana, sin que él mostrara ni el más mínimo esfuerzo en el proceso. [[Durante]] intentó interponerse un segundo después, y corrió una suerte parecida. [[Kanon]] ni siquiera llegó a moverse antes de que unas cadenas de sombra, brotadas de la propia armadura de Zéfiro, se enredaran alrededor de sus tobillos, inmovilizándolo sin causarle, aparentemente, ningún daño real más allá del pánico evidente en su rostro.
+
+—Esto no es propio de ti —dijo [[Nisba]], con la voz temblorosa pero sin apartarse, plantada frente a él con [[Noos]] y [[Nycto]] a ambos lados, los tres tomados de las manos en el mismo gesto que habían repetido tantas veces desde el desván de la tormenta—. Sea lo que sea lo que te están haciendo sentir ahora mismo, sé que en algún lugar sigues siendo tú.
+
+Por un instante, algo pareció vacilar en la figura de Zéfiro. Bajó, apenas un centímetro, el brazo que ya empezaba a levantar hacia ellos, y su voz, cuando volvió a hablar, sonó, durante una fracción de segundo, genuinamente humana, cargada de un dolor que no encajaba con la frialdad de todo lo anterior.
+
+—No sabéis lo que hay al otro lado de un sueño cuando deja de ser solo un sueño —dijo, casi en un susurro—. Hay una sombra pegada a cada uno de ellos, esperando su turno. La mía lleva días ganándome terreno, y no siempre puedo asegurar quién de los dos está hablando en cada momento.
+
+Nadie tuvo tiempo de preguntar qué significaba aquello. La vacilación, si es que lo había sido, se cerró tan rápido como se había abierto, y las mismas cadenas de sombra que habían inmovilizado a [[Kanon]] se extendieron hacia el resto del grupo con una velocidad contra la que ninguno pudo oponer verdadera resistencia.
+
+[[Noos]] fue el último en caer, sujetando con fuerza las manos de [[Nisba]] y [[Nycto]] hasta el último instante, incluso cuando la sombra ya empezaba a envolverlo también a él, arrastrándolo hacia una oscuridad pesada y sin sueños que se cerró sobre los tres al mismo tiempo, como si incluso aquello —la inconsciencia, la derrota— fuera algo que solo pudieran atravesar juntos.
+
+Lo último que alcanzó a ver, antes de que todo se apagara del todo, fue la figura de Zéfiro, inmóvil en el centro de la cabaña, con la cabeza ligeramente inclinada hacia el suelo, como si incluso él, en la victoria, cargara con un peso que no tenía ninguna intención de compartir con nadie.
+
+Cuando los ocho volvieran a abrir los ojos, ya no estarían en la cabaña, ni cerca del pueblo sin nombre que nunca llegaron a pisar, sino de vuelta en un lugar que todos, hasta entonces, habían creído dejar atrás para siempre.
