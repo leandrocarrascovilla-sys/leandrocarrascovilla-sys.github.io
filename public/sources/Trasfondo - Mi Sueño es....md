@@ -1068,7 +1068,7 @@ La figura ladeó la cabeza, con un movimiento que resultaba, de algún modo inde
 
 —No tienes por qué hacer esto —dijo [[Noos]], dando un paso adelante a pesar de que cada instinto le pedía retroceder, intentando que su propia voz sonara más firme de lo que se sentía—. Sea lo que sea que te hayan pedido. Todavía puedes elegir.
 
-==Algo cruzó el rostro apenas visible tras la visera al escuchar aquello== —una sombra fugaz, casi imperceptible, que a [[Noos]] le pareció, por un instante, reconocer como el propio [[Eizen]] luchando por abrirse paso desde algún lugar demasiado profundo—, pero se desvaneció con la misma rapidez con la que había aparecido, tragada de nuevo por la quietud gélida de aquellos ojos azules.
+Algo tembló en la luz azul que ardía tras la visera al escuchar aquello —un parpadeo fuera de ritmo, casi imperceptible, que a [[Noos]] le pareció, por un instante, reconocer como el propio [[Eizen]] luchando por abrirse paso desde algún lugar demasiado profundo—, pero se desvaneció con la misma rapidez con la que había aparecido, devorado de nuevo por la quietud gélida de aquellos dos puntos de luz.
 
 —Elegir es exactamente lo que estoy haciendo —respondió Zéfiro, con una calma que resultaba mucho más inquietante que cualquier grito—. He venido a llevaros de vuelta. Todos. Sin excepción, y sin que esto tenga que doler más de lo necesario, si no me obligáis a lo contrario.
 
@@ -1108,6 +1108,156 @@ Durante un segundo que se estiró como si el tiempo mismo dudara de qué direcci
 
 Las mismas cadenas de sombra que habían inmovilizado a [[Kanon]] se extendieron hacia el resto del grupo con una velocidad contra la que ninguno pudo oponer verdadera resistencia. [[Noos]] fue el último en caer, sujetando con fuerza las manos de [[Nisba]] y [[Nycto]] hasta el último instante, incluso cuando la sombra ya empezaba a envolverlo también a él, arrastrándolo hacia una oscuridad pesada y sin sueños que se cerró sobre los tres al mismo tiempo, como si incluso aquello —la inconsciencia, la derrota— fuera algo que solo pudieran atravesar juntos.
 
-Lo último que [[Noos]] alcanzó a ver, antes de que todo se apagara del todo, fue la figura de Zéfiro, inmóvil en el centro de la cabaña entre los cuerpos vencidos de sus antiguos amigos, con la cabeza ligeramente inclinada hacia el suelo y la capa roja, todavía agitada por un viento que no existía dentro de aquellas cuatro paredes, cayendo lentamente hasta quedar quieta, como si incluso él, en la victoria, cargara con un peso que no tenía ninguna intención de compartir con nadie.
+Lo último que [[Noos]] alcanzó a ver, antes de que todo se apagara del todo, fue la silueta de Zéfiro inclinándose levemente sobre él, con la capa roja rozándole el rostro. Y lo último que alcanzó a oír, ya con la oscuridad cerrándose sobre sus sentidos, fue una voz que había dejado de fingir cualquier frialdad, apenas un susurro que no parecía dirigido a nadie más que a sí mismo.
+
+—Ya no tenéis que decidir nada de esto vosotros solos —dijo Zéfiro—. Sé exactamente lo que se siente. Ojalá no lo supiera tan bien.
+
+No hubo nada más. La voz, la capa, la luz azul de aquellos ojos que ya no parpadeaban como los de un ser humano: todo se disolvió a la vez en la misma oscuridad pesada y sin sueños que había engullido ya a [[Nisba]] y a [[Nycto]], y que ahora, por fin, terminaba de cerrarse también sobre él.
 
 Cuando los ocho volvieran a abrir los ojos, ya no estarían en la cabaña, ni cerca del pueblo sin nombre que nunca llegaron a pisar, sino de vuelta en un lugar que todos, hasta entonces, habían creído dejar atrás para siempre.
+
+#### Capítulo 16 - El Séptimo.
+
+Lo primero que [[Noos]] sintió al recuperar la conciencia fue frío. No el frío húmedo del bosque, ni el de las noches a la intemperie, sino un frío distinto, seco y estable, del tipo que solo produce una habitación construida a propósito para mantenerse siempre a la misma temperatura, pasara lo que pasase fuera de sus muros.
+
+Abrió los ojos despacio, con la sensación de tener la cabeza rellena de algodón húmedo, y tardó varios segundos en que la sala a su alrededor terminara de enfocarse. No era ninguna de las habitaciones que conocía de [[La Casa de los Ecos]]. Techos altos, de piedra desnuda, recorridos por tuberías de cobre que emitían un zumbido bajo y constante. Paredes cubiertas de estanterías repletas de frascos de cristal. Y, en el centro de todo, una serie de estructuras metálicas con forma de jaula, lo bastante amplias como para contener a una persona de pie, cada una conectada a la pared por un entramado de cables y tubos que pulsaban con una luz tenue, casi orgánica.
+
+Estaba dentro de una de ellas.
+
+El recuerdo de la cabaña le golpeó de golpe, entero y sin avisar: las cadenas de sombra, la voz fría bajo el yelmo, la oscuridad cerrándose sobre los tres a la vez. [[Noos]] se incorporó de un salto, con el corazón desbocado, y empujó la puerta de la jaula con más fuerza de la que hacía falta —no estaba cerrada con ningún candado visible, solo entornada, como si nadie hubiera considerado necesario asegurarla del todo, lo cual, en vez de tranquilizarlo, le pareció todavía más inquietante.
+
+—¿Nisba? ¿Nycto? —llamó, con una urgencia que no intentó disimular.
+
+—Aquí —respondió [[Nisba]], desde una jaula idéntica a apenas dos metros de distancia, con la voz áspera de rabia contenida—. Estoy bien. Pero como vuelva a ver a Shino sonriéndonos como si no hubiera pasado nada, no respondo de lo que le diga.
+
+[[Nycto]] no respondió con palabras. El sonido metálico de una tercera puerta abriéndose de golpe, a la izquierda de [[Noos]], fue confirmación suficiente. Los tres se reunieron en el pasillo entre las jaulas, y aunque se tocaron los brazos y los hombros para comprobar que seguían enteros, ninguno de los tres se permitió el alivio de relajarse del todo.
+
+—Nos han traído a la fuerza —dijo [[Nycto]], con la voz baja y cortante—. Eizen nos ha traído a la fuerza. Que nadie intente hablarnos como si esto fuera una bienvenida.
+
+Había ocho jaulas en total, dispuestas en dos filas de cuatro. Cinco de ellas estaban vacías, con las puertas abiertas de par en par. Un pequeño montón de piedras olvidado en el suelo de una de ellas fue lo único que hizo falta para que [[Noos]] reconociera, con un nudo distinto en el estómago, dónde había dormido [[Kanon]].
+
+Fue entonces cuando una puerta al fondo de la sala se abrió con un chirrido metálico, y la figura de [[Shino]] apareció en el umbral. Se detuvo al verlos ya de pie, y cualquier intento de sonrisa que hubiera llevado preparada murió antes de llegar a formarse del todo, sustituida por una cautela mucho más honesta.
+
+—Estáis despiertos —dijo.
+
+—¿Cómo te atreves a aparecer con esa cara tan tranquila? —le espetó [[Nisba]], dando un paso hacia ella que [[Noos]] no esperaba—. Nos han secuestrado. Eizen nos ha atacado. Y tú vienes aquí como si solo llegaras tarde a una cena.
+
+—No estoy tranquila —respondió [[Shino]], sin apartar la mirada, sin defenderse tampoco—. Llevo despierta toda la noche, y ninguna parte de mí se siente en paz con lo que ha tenido que pasar para traeros de vuelta. Pero no voy a fingir delante de vosotros que lamento que estéis vivos, aunque el cómo hayáis vuelto os parezca, con toda la razón, imperdonable.
+
+—¿Dónde están los demás? —preguntó [[Noos]], con una frialdad que no sabía que era capaz de sostener frente a ella.
+
+—A salvo. Descansando —dijo [[Shino]]—. Y antes de que preguntéis: no, nadie les ha hecho nada que no hayan elegido, por muy retorcido que os resulte creer que alguien pueda elegir algo así después de lo de anoche. Venid conmigo. Es más fácil que lo veáis con vuestros propios ojos que seguir discutiéndolo aquí.
+
+Ninguno de los tres se movió de inmediato.
+
+—Si es una trampa —dijo [[Nycto]], sin apartar los ojos de ella—, al menos dilo ahora. Ya hemos tenido suficientes sorpresas por una noche.
+
+—No es una trampa —dijo [[Shino]], con una fatiga que no parecía fingida—. Es peor. Es la verdad, sin adornos, y me temo que no vais a encontrarla más fácil de digerir por eso.
+
+---
+
+La sala a la que [[Shino]] los condujo tenía el techo abovedado y una arquitectura que a [[Noos]] le recordó, sin poder evitarlo, a los dibujos de catedrales antiguas que había visto una vez en un libro de la biblioteca de la casa. Pero lo que dominaba el espacio no era ningún altar, sino algo mucho más inquietante: una hilera de armaduras completas, erguidas cada una sobre su propio pedestal de piedra, inmóviles, vacías, con los yelmos inclinados ligeramente hacia el suelo como si durmieran de pie. No había luz en ninguno de sus ojos. No había nada, de hecho, que sugiriera que aquellas carcasas hubieran estado nunca habitadas por nada parecido a una voluntad.
+
+Habían sido construidas de antemano. Eso fue lo primero que entendió [[Noos]], con un escalofrío que no tenía nada que ver con el frío de la sala. Nadie las estaba forjando esa noche, a partir de la nada, con la fuerza de un sueño recién liberado. Llevaban allí, esperando, quién sabe cuánto tiempo, huecas, a la espera de que alguien las llenara.
+
+Frente a una de ellas —blanca, de líneas rectas y autoritarias— se encontraba [[Valery]], de pie, con los puños cerrados a ambos lados del cuerpo y una expresión que no tenía nada de la calma que [[Noos]] habría esperado encontrar. Tenía la mandíbula apretada, los ojos fijos en la armadura vacía frente a ella con el mismo horror contenido con el que alguien mira el filo de un cuchillo que sabe que va a tener que sostener.
+
+[[Nisba]] dio un paso hacia ella, con la intención de decir algo, de detenerla, de preguntarle si estaba seguro. Pero [[Valery]] negó con la cabeza, apenas un movimiento, sin apartar la vista de la armadura, y aquel gesto silencioso bastó para que los tres entendieran que cualquier palabra llegaría demasiado tarde para cambiar nada. Lo único que les quedaba era mirar.
+
+[[Qilby]], que hasta entonces había permanecido apartado, revisando un cuaderno de tapas gastadas, se acercó con la misma calma medida con la que había hablado en la sala grande, la misma que sabía, mejor que nadie, cómo emplear para que una decisión ya tomada se sintiera, además, acompañada.
+
+—No voy a fingir que esto es sencillo, ni que debería serlo —dijo, dirigiéndose a [[Valery]] con una seriedad que sonaba sincera y que, precisamente por eso, resultaba más persuasiva que cualquier presión abierta—. Vamos a extraer tu voluntad de tu cuerpo tal como lo conoces y a trasplantarla en esa armadura. Vas a sentir que te arrancan de ti misma antes de sentir que te conviertes en algo más. Si en cualquier momento decides que no puedes, lo detendremos.
+
+Lo dijo con la seguridad tranquila de quien conoce de sobra la respuesta antes de ofrecer la pregunta: nadie, y mucho menos [[Valery]], iba a dar marcha atrás delante de los tres que la observaban, ni un instante después de haber dejado tan claro, minutos antes, cuánto le pesaba aquella decisión como para cederla a nadie.
+
+[[Valery]] no respondió con palabras. Cerró los ojos un instante, tomó aire, y asintió una sola vez, con la barbilla temblando lo justo para que los tres, observando desde el borde de la sala, supieran exactamente cuánto le costaba aquel gesto tan pequeño.
+
+---
+
+Lo que siguió no tuvo nada de la serenidad ceremonial que [[Noos]] había imaginado sin querer. [[Valery]] se colocó frente a la armadura vacía, y en cuanto [[Qilby]] trazó el primer símbolo en el aire, ella se llevó las manos al pecho con un grito ahogado que le arrancó lágrimas instantáneas, como si algo, en efecto, hubiera empezado a tirar de ella desde dentro. La luz que envolvió su cuerpo no fue cálida ni reconfortante, sino violenta, un resplandor blanco que la hizo doblarse sobre sí misma mientras, poco a poco, algo invisible parecía desprenderse de su forma humana y verterse, hilo a hilo, en el interior hueco de la armadura que esperaba sobre el pedestal.
+
+—Aguanta —susurró [[Shino]], con las manos apretadas contra el pecho, sin atreverse a intervenir.
+
+El cuerpo de [[Valery]] se desplomó en el mismo instante en que los ojos de la armadura, hasta entonces apagados, se encendieron con una luz blanca e intensa. Durante un segundo que a [[Noos]] le pareció insoportablemente largo, nadie en la sala respiró.
+
+Entonces la armadura se movió. Flexionó los dedos metálicos con la misma precisión con la que [[Valery]] solía sostener una espada de madera, y cuando levantó la cabeza, la mirada que se posó sobre ellos, aunque envuelta ahora en una luz que ya no era del todo humana, no dejaba ningún lugar a dudas sobre a quién había pertenecido aquella voluntad. No dijo nada. Se limitó a sostenerles la mirada un instante, con un reconocimiento silencioso que a los tres les bastó.
+
+—Imperia —murmuró [[Qilby]], anotando algo en su cuaderno con una mano que no estaba del todo firme—. Un éxito. El primero de esta noche, y el más limpio que he presenciado jamás.
+
+Ninguno de los tres que quedaban se sintió, sin embargo, aliviado por aquellas palabras. Lo que acababan de presenciar no había tenido nada de limpio a sus ojos: había sido un vaciamiento, un despojo, por muy voluntario que hubiera sido, y la idea de que algo parecido los esperaba a ellos también les pesaba en el estómago como una piedra.
+
+---
+
+—Ahora vosotros —dijo [[Qilby]], girándose hacia el trío, con el mismo cuaderno todavía entre las manos.
+
+—No —dijo [[Nisba]], sin dudarlo—. No pienso dejar que nadie me vacíe para rellenar un cascarón. Nadie en su sano juicio elegiría eso.
+
+—Yo tampoco lo elegiría, si se tratara solo de eso —dijo [[Qilby]], sin alterarse ante la negativa, con una paciencia que no pretendía convencer a la fuerza—. Pero no os estoy pidiendo lo mismo que le he pedido a [[Valery]]. Lo vuestro, si decidís intentarlo, no va a ser un solo hilo vertido en un solo cascarón.
+
+Hizo un gesto hacia la última armadura, verdosa y de líneas suaves, y por primera vez en toda la noche pareció necesitar ordenar sus propias palabras antes de continuar.
+
+—Esa armadura llevaba meses terminada, pensada, como todas las demás, para un único ocupante —dijo—. Cuando [[Shino]] me contó lo que os habíais prometido los tres en aquel salón de música, sin saber siquiera que yo llegaría a enterarme, pasé cada noche de la última semana deshaciendo y rehaciendo su estructura interna, ensanchando cada conducto por el que normalmente solo circula un único hilo de voluntad, con la esperanza de que resistiera algo para lo que nunca fue concebida. No sé si lo he conseguido. Ningún cálculo, ninguna runa, puede garantizar que un cascarón hecho para uno aguante el peso de tres. Solo puedo deciros que le he dedicado más horas de las que he dormido, por si acaso, algún día, alguien me pedía justamente esto.
+
+—¿Por qué te tomarías tantas molestias por algo que ni siquiera sabías si íbamos a pedirte? —preguntó [[Noos]], desconcertado.
+
+—Porque llevo toda mi vida convencido de que un sueño lo bastante fuerte puede doblar casi cualquier cosa que se le ponga por delante —respondió [[Qilby]], con una sinceridad que no llevaba nada de la persuasión calculada de su discurso en la sala grande—. Y pocas cosas me han parecido, en todos estos años, tan fuertes como lo que vosotros tres lleváis construyendo desde que erais niños. Debo seros sincero: no tengo ni idea de si el cascarón, por muy adaptado que esté, puede siquiera sostener a los tres a la vez. El riesgo no es solo el dolor que acabáis de presenciar. El riesgo es que los tres desaparezcáis a la vez, arrastrados por el mismo fallo, sin que quede nada de ninguno.
+
+El silencio que siguió pesó más que cualquier otro que los tres hubieran compartido hasta entonces.
+
+—Entonces la respuesta es no —dijo [[Nycto]], con una firmeza que no dejaba resquicio—. No pienso arriesgar lo que somos por un experimento que ni siquiera tú sabes si va a funcionar.
+
+—Estoy de acuerdo —dijo [[Nisba]], aunque su voz temblaba lo suficiente como para que [[Noos]] dudara de cuánto de esa firmeza era real y cuánto era el miedo hablando en su lugar.
+
+[[Noos]] no respondió enseguida. Miró la armadura vacía que quedaba —verdosa, de líneas más suaves que la de [[Valery]], con algo en su forma que sugería quietud antes que fuerza—, y después miró a sus dos amigos, buscando en sus rostros la misma certeza que él llevaba semanas cargando sin encontrar la manera de nombrarla del todo.
+
+—¿Y si el riesgo real no es intentarlo? —dijo, al fin, en voz baja—. ¿Y si el riesgo real es que, tarde o temprano, algo o alguien nos separe de todos modos, sin que nosotros hayamos tenido nunca la oportunidad de elegir cómo enfrentarlo?
+
+—No estás hablando en serio —dijo [[Nycto]], aunque el temblor de su propia voz sugería que la pregunta le había calado más hondo de lo que quería admitir.
+
+—Nunca he hablado más en serio en toda mi vida —respondió [[Noos]]—. No os estoy pidiendo que aceptéis porque yo quiera. Os estoy diciendo lo que siento, y es que preferiría desaparecer intentando seguir siendo uno solo con vosotros dos, a seguir vivo sabiendo que, en algún momento, alguien decidirá por nosotros de todos modos qué hacer con lo que nos queda.
+
+[[Nisba]] fue la primera en ceder, no con palabras, sino tomando la mano de [[Noos]] con una fuerza que temblaba de miedo genuino, no de determinación fácil. [[Nycto]] tardó más, con la mirada fija en la armadura vacía durante un largo rato antes de, finalmente, cerrar los ojos y asentir, tomando la mano libre de [[Nisba]] sin decir una palabra más.
+
+—Que quede claro —dijo, con los ojos todavía cerrados—. Esto no es rendirnos a que alguien nos use. Es elegir, nosotros, antes de que nadie más pueda hacerlo por nosotros.
+
+—Quede claro —confirmó [[Qilby]], con una gravedad que no admitía ninguna ligereza—. Nadie os está usando esta noche. Sois vosotros quienes decidís qué hacer con vosotros mismos. Eso, al menos, os lo puedo garantizar.
+
+---
+
+Subieron juntos hasta el pedestal, sin soltarse las manos en ningún momento, y se colocaron frente a la armadura vacía, formando entre los tres un pequeño triángulo cerrado. [[Qilby]] trazó en el aire una secuencia de gestos mucho más larga y cuidadosa que la que había usado con [[Valery]], murmurando palabras en una lengua antigua que ninguno de los tres reconoció.
+
+El dolor, cuando llegó, no fue menos violento que el que habían presenciado minutos antes. [[Noos]] sintió que algo tiraba de él en tres direcciones distintas a la vez, como si su propia voluntad luchara por resistirse a dejar de ser solamente suya, y a juzgar por los gritos ahogados de [[Nisba]] y [[Nycto]] a ambos lados, ellos sentían exactamente lo mismo. No hubo nada sereno ni ceremonial en aquel instante: solo tres personas aferrándose las unas a las otras con toda la fuerza que les quedaba, mientras algo, dentro de cada uno de ellos, se desprendía a la fuerza de lo que hasta entonces habían sido por separado.
+
+Fue el recuerdo de una mano —tres manos, en realidad, entrelazadas contra un piano cerrado, en una noche de noviembre que ya quedaba muy lejos— lo que le dio a [[Noos]] algo a lo que aferrarse en medio de aquel desgarro. No estaba perdiendo nada, se repitió, aunque cada fibra de su cuerpo insistiera en lo contrario. Estaba, por fin, dejando de fingir que alguna vez había querido sostener aquel sueño solo.
+
+La luz que envolvió a los tres —un entramado de dorado, azul y verde que se resistía, una y otra vez, a fundirse del todo— tembló durante un instante que a [[Shino]] y a [[Qilby]], observando desde el borde de la plataforma con el aliento contenido, les pareció insoportablemente largo. Por un momento pareció que iba a fracturarse, que los tres hilos iban a romperse cada uno por su lado, arrastrando consigo todo lo que habían sido. Y entonces, justo cuando el silencio se volvía insostenible, la luz cedió, no por la fuerza de ningún cálculo de [[Qilby]], sino por algo mucho más simple y mucho más terco: tres personas que llevaban demasiado tiempo negándose a soltarse.
+
+Cuando la luz se apagó del todo, en el pedestal ya no quedaban tres siluetas separadas, sino una sola figura, inmóvil, con la cabeza inclinada hacia el pecho y los ojos todavía apagados. No era ya [[Nisba]], ni [[Nycto]], ni [[Noos]] por separado —eso resultaba evidente con solo mirarla—, pero tampoco era, todavía, nada que pudiera reconocerse como una presencia propia. Era, en todo caso, la promesa de una, un cauce recién excavado que esperaba a que el agua terminara de encontrar su curso.
+
+—El séptimo —susurró [[Qilby]], con una voz que temblaba entre el asombro y algo mucho más difícil de nombrar, sin apartar la vista de la figura inerte—. Lo habéis conseguido. O, al menos, no habéis desaparecido. Eso, esta noche, ya es más de lo que me atrevía a esperar.
+
+La figura no se movió. [[Shino]] dio un paso hacia ella, con la respiración contenida, y pronunció un nombre —ninguno de los tres, sino alguna combinación torpe de los tres a la vez— que no obtuvo respuesta alguna. Los ojos de la armadura permanecían a oscuras, sin la más mínima chispa de la luz que habían visto encenderse en [[Valery]] apenas una hora antes.
+
+—¿Por qué no despierta? —preguntó [[Shino]], girándose hacia [[Qilby]] con una angustia que ya no intentaba disimular.
+
+—No lo sé —admitió él, acercándose despacio, examinando la figura con la misma atención meticulosa con la que había estudiado, semanas atrás, la lista de nombres y patrones que tanto había costado a los propios niños descubrir—. Con [[Valery]], una sola voluntad tuvo que encontrar su lugar dentro de un cascarón hecho a su medida. Esto es distinto. No son tres voluntades conviviendo una junto a otra, esperando turno para hablar. Es algo que tiene que fundirse en una sola conciencia antes de que pueda siquiera saber que existe, y eso, si es que llega a ocurrir, puede llevar minutos, o días, o mucho más tiempo del que cualquiera de nosotros esté preparado para esperar.
+
+—¿Y si no despierta nunca? —preguntó [[Shino]], con la voz quebrada.
+
+[[Qilby]] no respondió enseguida. Se limitó a apoyar una mano, con un cuidado casi reverente, sobre el pecho metálico e inmóvil de la figura, como quien comprueba, sin atreverse a decirlo en voz alta, si todavía queda algo de calor bajo la piel de alguien que acaba de dejar de respirar.
+
+—Entonces habremos aprendido, de la peor manera posible, que hay sueños que ni siquiera el amor más grande consigue sostener del todo —dijo, al fin—. Pero no pienso rendirme a esa posibilidad todavía. Ni ellos tres tampoco lo harían, si pudieran elegir.
+
+Ordenó que trasladaran la figura, con el mismo cuidado con que se traslada algo que todavía podría romperse, a una de las salas contiguas, donde la dejaron reposando sobre un lecho de piedra tallada, rodeada de las mismas lámparas tenues que habían iluminado su llegada a aquel lugar horas antes. [[Shino]] se quedó velándola durante largo rato, con la disculpa que había querido pronunciar —lo siento, lo siento por todo lo que ha tenido que costaros llegar hasta aquí— atragantada en la garganta, sin nadie todavía capaz de escucharla ni de decidir si podría llegar a perdonarla por ello.
+
+---
+
+Mucho después de que hubieran trasladado la figura, todavía inmóvil, hasta la sala contigua donde ahora reposaba bajo la vigilia silenciosa de [[Shino]], [[Qilby]] se quedó a solas en la sala abovedada, con el cuaderno abierto sobre el pedestal vacío y una pluma que llevaba varios minutos sin llegar a tocar el papel.
+
+Escribió, al fin, una sola línea, más para sí mismo que para ningún registro que fuera a necesitar consultar después:
+
+_No sé si esta noche ha nacido alguien en ese cascarón que tantas horas me costó adaptar, o si solo hemos conseguido detener, por ahora, que los tres desaparecieran del todo. Sé que quien sea que termine por abrir los ojos, si es que llega a hacerlo, no será exactamente Noos, ni exactamente Nisba, ni exactamente Nycto, sino algo nuevo, forjado de los tres a la vez, que el mundo no ha visto nunca antes y que yo mismo no habría sabido predecir ni con todos mis años de estudio. Llevo toda una vida convencido de que un sueño lo bastante fuerte puede convertirse en algo más grande que la persona que lo sueña. Esta noche, por primera vez, tengo miedo de haber tenido razón. Y aun así, no puedo evitar sentir, por debajo de ese miedo, algo parecido a la impaciencia de un padre la víspera de un nacimiento que todavía no ha terminado de producirse: unas ganas casi insoportables de conocer, algún día, a quien sea que termine de nacer de los sueños de esos tres niños._
+
+Cerró el cuaderno, apagó la última lámpara de la sala, y salió hacia el amanecer que ya empezaba a colarse por las rendijas de piedra, sin saber todavía —a pesar de toda su certeza, a pesar de todos sus cálculos— cuánto tiempo tendría que pasar, ni qué forma tomaría la respuesta, cuando por fin llegara.
+
+Fuera, más allá de los muros de piedra de aquella sala, la noche empezaba a ceder paso a las primeras luces de un amanecer que nadie en aquella casa, ni siquiera [[Qilby]], con toda su certeza inquebrantable, podría haber predicho del todo cómo iba a cambiarlo todo a partir de ese día.
