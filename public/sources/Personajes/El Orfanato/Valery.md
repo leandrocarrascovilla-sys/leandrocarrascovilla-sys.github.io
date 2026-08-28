@@ -3,11 +3,12 @@ tags:
   - Orfanato
 nombre: Valery Straud
 raza: Humana
-Edad: "17"
+Edad: "16"
 ASIR: "[[Imperia, la soñadora del Poder]]"
 ---
 Características: 
 - Proveniente de Asturg (Junto a [[Eizen]])
+- Edad en su aparición: 13-14 (Cap. 6)
 ### Imagen
 
 ![[Valery.jpg]]

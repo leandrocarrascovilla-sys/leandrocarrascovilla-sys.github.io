@@ -3,10 +3,12 @@ tags:
   - Orfanato
 nombre: Vega Mouirs
 raza: Humana
-Edad: "17"
+Edad: "13"
 ASIR: "[[Lyra, la soñadora de la Aventura]]"
 ---
-
+Características: 
+- Proveniente de Athington (Junto a [[Durante]])
+- Edad en su aparición: 10-11
 ### Imagen
 
 

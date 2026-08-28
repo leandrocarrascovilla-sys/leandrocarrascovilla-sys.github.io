@@ -6,7 +6,9 @@ raza: Humano
 Edad: "16"
 ASIR: "[[Dante, el soñador del Legado]]"
 ---
-
+Características: 
+- Proveniente de Athington (Junto a [[Vega]])
+- Edad en su aparición: 13-14
 ### Imagen
 
 

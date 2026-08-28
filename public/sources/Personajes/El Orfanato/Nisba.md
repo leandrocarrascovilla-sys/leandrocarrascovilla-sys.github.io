@@ -3,11 +3,12 @@ tags:
   - Orfanato
 nombre: Nisba
 raza: Genasi de Aire
-Edad: "17"
+Edad: "16"
 ASIR: "[[Noos, el soñador de la Plenitud]]"
 ---
 Características: 
 - Proveniente de Yefra
+- Edad en su aparición: 13-14
 ### Imagen
 
 ![[NIsbaBS.jpg]]

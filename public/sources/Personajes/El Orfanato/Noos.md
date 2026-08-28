@@ -3,10 +3,11 @@ tags:
   - Orfanato
 nombre: Noos
 raza:
-Edad: "17"
+Edad: "14"
 ASIR: "[[Noos, el soñador de la Plenitud]]"
 ---
-
+Características: 
+- Proveniente de ???
 ### Imagen
 
 ![[Noos.jpg]]

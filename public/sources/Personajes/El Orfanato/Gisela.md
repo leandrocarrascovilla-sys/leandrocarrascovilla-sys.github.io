@@ -6,7 +6,9 @@ raza: Aasimar
 Edad: "17"
 ASIR: "[[Isolda, la soñadora del Amor]]"
 ---
-
+Características: 
+- Proveniente de ??? 
+- Edad en su aparición: 14-15 (ya lleva 3+ años allí en Cap. 5)
 ### Imagen
 
 

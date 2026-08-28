@@ -3,9 +3,12 @@ tags:
   - Orfanato
 nombre: Kanon
 raza: Cambiante
-Edad: "15"
+Edad: "14"
 ASIR: "[[Kariel, el soñador del Conocimiento]]"
 ---
+Características: 
+- Proveniente de Asturg
+- Edad en su aparición: 11-12 (Cap. 5)
 
 ### Imagen
 

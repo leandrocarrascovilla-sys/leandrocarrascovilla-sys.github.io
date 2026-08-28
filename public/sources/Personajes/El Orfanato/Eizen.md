@@ -8,6 +8,7 @@ ASIR: "[[Zéfiro, el soñador de la Libertad]]"
 ---
 Características: 
 - Proveniente de Asturg (Junto a [[Valery]])
+- Edad en su aparición: 13-14 (Cap. 6)
 ### Imagen
 
 ![[Eizen.jpg]]

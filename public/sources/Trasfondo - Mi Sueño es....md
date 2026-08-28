@@ -42,7 +42,7 @@ Extendió una mano temblorosa y alisó uno de los planos principales, trazando c
 
 No fue una infancia de lujos, pero sí una infancia con nombre, con manos que lo peinaban antes de dormir y con una voz —la de su madre— que le cantaba canciones que él ya no recordaba del todo, solo la melodía, solo la sensación de calidez que dejaban al terminar.
 
-Todo cambió el invierno en que [[Noos]] cumplió seis años. Una fiebre recorrió el pueblo como un incendio silencioso, llevándose primero a los más ancianos, después a los más débiles, y finalmente, sin ninguna lógica que [[Noos]] pudiera comprender entonces, a su madre. Su padre, deshecho, intentó sostener lo poco que quedaba: la casa, el campo, al niño que lo miraba cada noche esperando una explicación que él tampoco tenía. Pero la pena, con el tiempo, se convirtió en otra cosa. En ausencias cada vez más largas. En un hombre que salía a "arreglar cuentas" en la taberna del pueblo y volvía tambaleándose, con los ojos vidriosos y las palabras rotas.
+Todo cambió el invierno en que [[Noos]] cumplió once años. Una fiebre recorrió el pueblo como un incendio silencioso, llevándose primero a los más ancianos, después a los más débiles, y finalmente, sin ninguna lógica que [[Noos]] pudiera comprender entonces, a su madre. Su padre, deshecho, intentó sostener lo poco que quedaba: la casa, el campo, al niño que lo miraba cada noche esperando una explicación que él tampoco tenía. Pero la pena, con el tiempo, se convirtió en otra cosa. En ausencias cada vez más largas. En un hombre que salía a "arreglar cuentas" en la taberna del pueblo y volvía tambaleándose, con los ojos vidriosos y las palabras rotas.
 
 [[Noos]] aprendió pronto a hacerse pequeño. A no preguntar por qué no había comida en la mesa. A dormir con la ropa puesta cuando el fuego se apagaba y nadie se ocupaba de encenderlo de nuevo. Aprendió, sobre todo, a esperar en silencio, sentado junto a la ventana donde antes se sentaba su madre, mirando el camino como si en cualquier momento algo —o alguien— fuera a aparecer y devolverle lo que había perdido.
 
@@ -50,7 +50,7 @@ Fue en esas noches de espera cuando comenzaron los sueños.
 
 Al principio eran fragmentos: un cielo que cambiaba de color como si respirara, una sensación de estar flotando sin miedo a caer. Con el tiempo se hicieron más nítidos, más recurrentes, hasta convertirse en el único lugar donde [[Noos]] se sentía realmente en calma. En ese lugar sin paredes, una figura —nunca clara del todo, siempre a medio formar entre la niebla— lo llamaba por un nombre que no era el suyo, pero que sentía más verdadero que "Noos". Allí no había frío. No había hambre. No había un padre que ya no lo miraba a los ojos. Solo la certeza tranquila de que, en algún lugar, alguien lo esperaba.
 
-Su padre murió dos años después, en una pelea de taberna que nadie se molestó en explicarle con detalle. Los vecinos, que ya llevaban tiempo observando con lástima al niño flaco que rondaba las calles, hicieron lo único que sabían hacer: avisaron a las autoridades. Y las autoridades, con la misma indiferencia con la que se archiva un papel, decidieron que [[Noos]], de ocho años, sería enviado a un orfanato.
+Su padre murió dos años después, en una pelea de taberna que nadie se molestó en explicarle con detalle. Los vecinos, que ya llevaban tiempo observando con lástima al niño flaco que rondaba las calles, hicieron lo único que sabían hacer: avisaron a las autoridades. Y las autoridades, con la misma indiferencia con la que se archiva un papel, decidieron que [[Noos]], de trece años, sería enviado a un orfanato.
 
 El viaje duró varios días en un carro tirado por un solo caballo, junto a un funcionario que apenas le dirigió la palabra. [[Noos]] no lloró. Llevaba tiempo sin lágrimas, como si se le hubieran agotado junto con todo lo demás. Solo miraba el paisaje pasar, preguntándose en silencio si, allá donde lo llevaban, seguiría pudiendo soñar con aquel cielo que respiraba.
 
@@ -66,7 +66,7 @@ Pasó un buen rato —no habría sabido decir cuánto— antes de que la puerta 
 
 —Tú debes de ser [[Noos]] —dijo, con una voz suave que no encajaba con el frío de la tarde—. Me llamo [[Shino]]. Este lugar es mío; yo lo dirijo, y cuido de todos los que llegan hasta aquí.
 
-El niño no respondió enseguida. Se limitó a mirarla, tratando de entender si aquello era real o solo otra variación de las promesas vacías que llevaba tiempo aprendiendo a no creer.
+El chico no respondió enseguida. Se limitó a mirarla, tratando de entender si aquello era real o solo otra variación de las promesas vacías que llevaba tiempo aprendiendo a no creer.
 
 —¿Va a quedarse conmigo? —preguntó por fin, con una voz apenas audible—. ¿Aquí?
 
@@ -74,7 +74,7 @@ El niño no respondió enseguida. Se limitó a mirarla, tratando de entender si 
 
 —Vas a quedarte conmigo, sí —respondió, tendiéndole la mano—. Sé que el camino hasta aquí ha sido duro, [[Noos]]. Pero eso se acabó. A partir de hoy vas a tener un techo, comida caliente, y gente que va a cuidar de ti. Te prometo que este va a ser un lugar mejor que cualquiera que hayas conocido.
 
-[[Noos]] miró la mano tendida durante un instante que pareció eterno. Después, muy despacio, dejó caer el hatillo a su lado en el banco y puso su mano pequeña sobre la de ella.
+[[Noos]] miró la mano tendida durante un instante que pareció eterno. Después, muy despacio, dejó caer el hatillo a su lado en el banco y puso su mano sobre la de ella.
 
 La mano de [[Shino]] era cálida, algo que a [[Noos]] le costó reconocer después de tanto tiempo rodeado de frío. Ella no tiró de él con prisa, como si tuviera todo el tiempo del mundo, como si aquel instante mereciera ser vivido despacio. Se incorporó sin soltarlo, y por primera vez desde que había subido a aquel carro, [[Noos]] sintió que alguien caminaba a su lado en lugar de simplemente llevarlo de un sitio a otro.
 
@@ -119,7 +119,7 @@ Una tarde, mientras ayudaba a [[Shino]] a ordenar unos libros en la pequeña bib
 
 —Es un buen sueño, [[Noos]] —dijo finalmente, volviendo a su tarea—. Y no es poca cosa, aunque a ti te lo parezca. Aférrate a él. Ya encontrarás, con el tiempo, hacia dónde crece.
 
-No añadió nada más. Pero esa noche, mientras cerraba la casa después de que los niños se hubieran acostado, [[Shino]] se quedó un momento junto a la ventana del despacho, mirando la oscuridad del patio, pensando en una promesa antigua que todavía no sabía si sería capaz de cumplir.
+No añadió nada más. Pero esa noche, mientras cerraba la casa después de que los chicos se hubieran acostado, [[Shino]] se quedó un momento junto a la ventana del despacho, mirando la oscuridad del patio, pensando en una promesa antigua que todavía no sabía si sería capaz de cumplir.
 
 #### Capítulo 3 - Dos hilos nuevos.
 
@@ -712,7 +712,11 @@ Llevaba semanas ayudando, casi por casualidad, a uno de los cuidadores más vete
 
 [[Vega]] lo miró un instante, con una expresión que mezclaba a partes iguales cariño y desconcierto, como quien descubre en un hermano de toda la vida una faceta que nunca antes se había molestado en preguntar.
 
-—Eso es raro —dijo, aunque sin ninguna intención de ofender—. Pero también es muy tú.
+—A mí me da igual que se acuerden de mí dentro de cincuenta años —dijo Vega—. Prefiero que se acuerden de mí _esta noche_. Que lo que hago hoy valga la pena hoy, no dentro de medio siglo.
+
+Lo observó en silencio unos segundos más.
+
+—Es raro —dijo, aunque sin ninguna intención de ofender—. Pero también es muy tú.
 
 [[Durante]] se limitó a sonreír, sin dar mayor importancia al comentario, y siguió con su costura, sin saber todavía que aquella satisfacción tranquila que sentía frente a los libros reparados era, en realidad, la primera nota audible de algo mucho más grande que llevaba dormido dentro de él desde siempre.
 
@@ -1013,6 +1017,10 @@ El segundo día trajo consigo un cambio de ánimo que ninguno esperaba: no el de
 —Nunca pensé que fueras de las que se preocupan tanto por los demás —dijo [[Vega]], con la franqueza que la caracterizaba, observando cómo [[Gisela]] repartía el agua entre todos antes de servirse ella misma—. Todo el mundo en la casa te describía como alguien que solo mira por los suyos.
 
 —Vosotros sois los míos —respondió [[Gisela]], sin mirarla, como si la respuesta fuera tan obvia que no mereciera mayor explicación—. Desde hace tiempo. Puede que no os lo dijera nunca así de claro, pero no hacía falta decirlo para que fuera cierto.
+
+—¿Entonces tu sueño es cuidar de la gente? —dijo Vega.  
+
+—Mi sueño es que nadie de los míos vuelva a sentirse tan solo como me sentí yo antes de tener a alguien —corrigió Gisela, sin mirarla, con la vista fija en el agua—. Cuidar es solo cómo lo hago.
 
 [[Vega]] no respondió enseguida. Se quedó mirando el agua correr entre sus pies, pensativa, hasta que finalmente esbozó una sonrisa pequeña, sincera.
 
