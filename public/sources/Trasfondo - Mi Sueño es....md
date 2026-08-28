@@ -87,7 +87,7 @@ Cruzaron juntos el patio cubierto de nieve. Antes de llegar a la puerta, [[Shino
 Afuera, la nieve seguía cayendo, cubriendo poco a poco las huellas del camino que [[Noos]] había recorrido hasta entonces. Dentro, mientras cruzaba por primera vez el umbral de [[La Casa de los Ecos]] de la mano de [[Shino]], sintió algo parecido a la esperanza. Y aunque todavía no lo sabía, aquel apretón de manos sería el primer hilo de una historia que apenas empezaba a tejerse.
 
 
-#### Capítulo 2 -  Dos
+#### Capítulo 2 -  ¿Cuál es el tuyo?
 
 Los primeros días en [[La Casa de los Ecos]] transcurrieron para [[Noos]] entre el desconcierto y una cautela que no terminaba de disolverse. Aprendió los horarios, el camino hasta el comedor y hasta el pequeño patio trasero donde, según le pareció entender, en verano crecían fresas silvestres junto al muro.
 
@@ -127,7 +127,7 @@ Pasaron meses antes de que [[Noos]] dejara de contar los días desde su llegada 
 
 Fue en ese verano cuando llegó [[Nycto]].
 
-No hubo tormenta aquella vez, ni nieve, solo una tarde gris de nubes bajas cuando un carro se detuvo frente a la entrada y de él bajó un niño de mirada oscura y gesto cerrado, que no soltó una sola palabra mientras [[Shino]] lo recibía con la misma calma con la que había recibido a todos los demás. [[Noos]] lo observó desde una ventana del piso de arriba, junto a otros dos o tres niños que también se habían asomado por curiosidad, y sintió algo parecido a reconocerse: el mismo hatillo apretado contra el pecho, la misma desconfianza dibujada en cada gesto.
+No hubo tormenta aquella vez, ni nieve, solo una tarde gris de nubes bajas cuando un carro se detuvo frente a la entrada y de él bajó un chico de mirada oscura y gesto cerrado, que no soltó una sola palabra mientras [[Shino]] lo recibía con la misma calma con la que había recibido a todos los demás. [[Noos]] lo observó desde una ventana del piso de arriba, junto a otros dos o tres niños que también se habían asomado por curiosidad, y sintió algo parecido a reconocerse: el mismo hatillo apretado contra el pecho, la misma desconfianza dibujada en cada gesto.
 
 Pero había también algo distinto en [[Nycto]], algo que [[Noos]] no supo nombrar hasta que lo vio de cerca, unos días después, sentado él solo en un rincón del comedor mientras el resto de los niños comía y reía a su alrededor sin atreverse a acercarse demasiado. No era solo timidez. Era un silencio denso, casi deliberado, como si [[Nycto]] hubiera decidido de antemano que hablar no iba a merecer la pena.
 
@@ -660,6 +660,16 @@ Esa noche, mientras la casa se sumía poco a poco en el silencio habitual, [[Noo
 
 [[Noos]] no dijo nada, pero mientras la veía alejarse por el pasillo con esa misma determinación tranquila que la había definido desde el primer día que la conoció, pensó que, fuera lo que fuese lo que estaba por venir, al menos ya no tendrían que enfrentarlo sin saber, cada uno de ellos, exactamente a qué lado de la balanza querían pertenecer.
 
+---
+
+Mucho después de que la casa se hubiera quedado en silencio, [[Shino]] no se fue a dormir.
+
+Se quedó en el despacho, con la carta que [[Qilby]] le había enviado esa misma semana todavía sin abrir sobre el escritorio, junto al retrato pequeño y envejecido que llevaba años sin atreverse a descolgar de la pared. Lo miró un buen rato, como hacía cada vez que algo la desbordaba, como si esperara que el hombre del cuadro fuera a responderle algo que el hombre real, en carne y hueso, nunca terminaba de decirle del todo.
+
+—Les prometí la verdad —dijo, en voz alta, a la habitación vacía—. Y no sé si la verdad es lo que necesitan, o solo lo que yo necesito dejar de cargar sola.
+
+Nadie respondió, por supuesto. Pero por primera vez en años, [[Shino]] se permitió llorar sin la calma que llevaba sosteniendo delante de nueve pares de ojos que confiaban en que ella supiera siempre, sin excepción, cuál era el camino correcto.
+
 #### Capítulo 10 - Lo que cambia sin decirse.
 
 Nada en [[La Casa de los Ecos]] cambió de forma visible tras aquella tarde en el despacho, y sin embargo, para los nueve, todo se sentía distinto, como una habitación conocida a la que de pronto le han movido los muebles apenas unos centímetros: lo bastante para no reconocerla del todo, lo bastante poco para no poder señalar exactamente qué era diferente.
@@ -796,7 +806,24 @@ Fue [[Noos]] quien, cuando el silencio volvió a instalarse, se atrevió a decir
 
 No hizo falta añadir nada más. Se quedaron así un buen rato, los tres apoyados contra el piano cerrado, mientras la casa entera dormía a su alrededor y la noche seguía su curso, ajena a la promesa silenciosa que acababan de sellar entre ellos, una promesa que ninguno de los tres sabría, todavía, hasta qué punto llegaría a cumplirse literalmente cuando el plazo de [[Shino]] terminara por vencerse.
 
+---
+
+Esa misma noche, mientras los tres seguían despiertos en el salón de música sin saberlo, [[Shino]] se encontró con el aventurero retirado en el cobertizo del patio, donde él terminaba de guardar las espadas de madera después de la última clase del año.
+
+—Todavía puedes decirles que no —le dijo él, sin mirarla, ocupado en enrollar una cuerda que no necesitaba tanto cuidado como el que le estaba poniendo—. Cancelarlo todo. Mandar a [[Qilby]] de vuelta por donde vino, y que esos nueve crezcan sin saber nunca que estuvieron a punto de dejar de ser quienes son.
+
+—Podría —admitió [[Shino]], apoyándose contra el marco de la puerta, con los brazos cruzados como si así pudiera sostenerse mejor—. Pero entonces habré pasado media vida educándolos para que se enfrenten al mundo con los ojos abiertos, y la otra mitad decidiendo yo sola qué parte de ese mundo les dejo ver. No sé cuál de las dos cosas me parece, a estas alturas, una traición mayor.
+
+El aventurero terminó de enrollar la cuerda y se giró hacia ella, con la misma mirada directa que usaba para corregir una postura de espada mal sostenida.
+
+—Nadie te va a agradecer la sinceridad si sale mal, [[Shino]]. Solo te la van a agradecer si sale bien. Y ni siquiera eso está garantizado.
+
+—Lo sé —dijo ella, con una sonrisa pequeña y sin ninguna alegría dentro—. Por eso llevo despierta más noches de las que puedo contar.
+
+No dijo nada más, y él tampoco insistió. Pero cuando ella se dio la vuelta para volver hacia la casa, él la observó alejarse con una preocupación que no era nueva, sino que llevaba, como todo lo demás en aquel invierno, acumulándose en silencio desde hacía demasiado tiempo.
+
 #### Capítulo 12 - Cuenta atrás.
+
 
 Diciembre llegó a [[La Casa de los Ecos]] envuelto en un frío distinto al de otros años, o quizás fue solo que, por primera vez, los nueve prestaban atención a detalles que antes habrían pasado por alto sin más: el modo en que [[Shino]] revisaba el correo cada mañana con una premura que no disimulaba del todo, las ausencias cada vez más frecuentes que justificaba con la misma frase gastada de "asuntos en el pueblo", o el hecho de que, desde la conversación en el despacho, no había vuelto a mencionar el nombre de Qilby ni una sola vez, como si evitarlo en voz alta pudiera de alguna manera retrasar lo inevitable.
 
@@ -1018,9 +1045,11 @@ El segundo día trajo consigo un cambio de ánimo que ninguno esperaba: no el de
 
 —Vosotros sois los míos —respondió [[Gisela]], sin mirarla, como si la respuesta fuera tan obvia que no mereciera mayor explicación—. Desde hace tiempo. Puede que no os lo dijera nunca así de claro, pero no hacía falta decirlo para que fuera cierto.
 
-—¿Entonces tu sueño es cuidar de la gente? —dijo Vega.  
+[[Vega]] se quedó mirándola un momento, con el agua fría todavía subiéndole por los tobillos, y no pudo evitar que la pregunta que llevaba días rondándole desde la sala grande —desde que [[Qilby]] había hablado de sueños como si fueran algo que se pudiera pesar, medir, convertir en otra cosa— encontrara por fin a quién hacérsela.
 
-—Mi sueño es que nadie de los míos vuelva a sentirse tan solo como me sentí yo antes de tener a alguien —corrigió Gisela, sin mirarla, con la vista fija en el agua—. Cuidar es solo cómo lo hago.
+—¿Entonces tu sueño es cuidar de la gente? —preguntó.
+
+—Mi sueño es que nadie de los míos vuelva a sentirse tan solo como me sentí yo antes de tener a alguien —corrigió [[Gisela]], sin mirarla, con la vista fija en el agua—. Cuidar es solo cómo lo hago.
 
 [[Vega]] no respondió enseguida. Se quedó mirando el agua correr entre sus pies, pensativa, hasta que finalmente esbozó una sonrisa pequeña, sincera.
 
