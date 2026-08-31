@@ -20,7 +20,7 @@
 Nos han enseñado que existe un hilo. Un propósito trazado antes de nacer, en esta vida y en las que la precedieron. Muy bien: si ese hilo existe, se puede tensar. Se puede doblar. Y si resulta que no existe... entonces no hay nada que temer al intentarlo.
 Lo único cierto, lo único que he comprobado una y otra vez, es esto: el destino que nos espera casi nunca es el que elegimos de niños. A mí eso no me parece un misterio que aceptar. Me parece un error que corregir.
 
-[Shino] cerró los ojos por un instante, dejando escapar un suspiro que parecía contener todo el cansancio de una vida entera. El repiqueteo de la lluvia arreció, aislándolos más aún del resto del mundo.
+[[Shino]] cerró los ojos por un instante, dejando escapar un suspiro que parecía contener todo el cansancio de una vida entera. El repiqueteo de la lluvia arreció, aislándolos más aún del resto del mundo.
 
 —No puedes manipular el destino como si fuera uno de estos planos —dijo [[Shino]]. Su voz había perdido el filo de la ira; ahora solo quedaba una profunda y pesada tristeza—. Si fuerzas el hilo, [[Qilby]], terminará rompiéndose. Y cuando eso ocurra, nos arrastrará a todos al abismo.
 
@@ -300,9 +300,9 @@ Desde entonces, aunque [[Vega]] jamás lo admitiría en voz alta delante de nadi
 
 Ocurrió una tarde de lluvia fina, de las que no dejan jugar fuera pero tampoco parecen justificar quedarse encerrado en la habitación. Un grupo de chicos algo mayores que [[Noos]] se había reunido en la sala común, y entre ellos estaba un chico llamado Bram, conocido en la casa por su lengua afilada y su costumbre de buscar el punto débil de cualquiera con una precisión casi quirúrgica.
 
-[[Kanon]] cometió el error —si es que podía llamarse así— de acercarse a preguntar si alguien quería jugar a un juego que acababa de aprender, algo sobre adivinar animales a partir de tres pistas. Iker lo dejó terminar de explicarlo, con una paciencia que [[Noos]], que observaba desde una esquina con un libro que ya había dejado de leer, reconoció enseguida como el preludio de algo desagradable.
+[[Kanon]] cometió el error —si es que podía llamarse así— de acercarse a preguntar si alguien quería jugar a un juego que acababa de aprender, algo sobre adivinar animales a partir de tres pistas. Bram lo dejó terminar de explicarlo, con una paciencia que [[Noos]], que observaba desde una esquina con un libro que ya había dejado de leer, reconoció enseguida como el preludio de algo desagradable.
 
-—¿Sabes qué animal me recuerdas tú? —dijo Iker, cuando [[Kanon]] terminó—. Un perico. De esos que no paran de hablar aunque nadie les haga ni caso. Toda la casa lo dice, por si no te habías enterado. "Ahí viene el perico otra vez."
+—¿Sabes qué animal me recuerdas tú? —dijo Bram, cuando [[Kanon]] terminó—. Un perico. De esos que no paran de hablar aunque nadie les haga ni caso. Toda la casa lo dice, por si no te habías enterado. "Ahí viene el perico otra vez."
 
 Las risas que siguieron no fueron generales —varios niños se removieron incómodos en sus asientos, sin reírse pero sin decir nada tampoco—, pero fueron suficientes. [[Kanon]] se quedó quieto un segundo, con la sonrisa todavía puesta a medias en la cara, como si su cuerpo no hubiera tenido tiempo de avisarle de que debía borrarla.
 
