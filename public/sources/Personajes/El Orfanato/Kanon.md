@@ -9,7 +9,7 @@ ASIR: "[[Kariel, el soñador del Conocimiento]]"
 Características: 
 - Proveniente de Asturg
 - Edad en su aparición: 11-12 (Cap. 5)
-
+- Personalidad: Curioso, hablador, resiliente
 ### Imagen
 
 ![[Kanon.jpg]]

@@ -9,6 +9,7 @@ ASIR: "[[Imperia, la soñadora del Poder]]"
 Características: 
 - Proveniente de Asturg (Junto a [[Eizen]])
 - Edad en su aparición: 13-14 (Cap. 6)
+- Personalidad: Disciplinada, reservada, autoritaria
 ### Imagen
 
 ![[Valery.jpg]]
@@ -22,4 +23,4 @@ Características:
 
 No compartimos esa intimidad tan profunda  que tengo con ellos dos, pero contar en el grupo con alguien tan capaz, sereno y leal es algo que siempre he valorado muchísimo."
 
-_Entrada del diario de Noos sobre Valery._
+ —_Entrada del diario de Noos sobre Valery._

@@ -2,11 +2,11 @@
 
 "¿Qué son los sueños en verdad?"
 
-[[Qilby]] llevaba tiempo dándole vueltas a esa pregunta, mucho antes de que la lluvia empezara a golpear el cristal aquella noche, mucho antes de que los planos terminaran cubriendo la mesa entre él y Shino. Pero fue esa noche, con la tormenta desdibujando las luces de la ciudad al otro lado de la ventana, cuando por fin encontró el valor —o la desesperación— para responderla en voz alta.
+[[Qilby]] llevaba tiempo dándole vueltas a esa pregunta, mucho antes de que la lluvia empezara a golpear el cristal aquella noche, mucho antes de que los planos terminaran cubriendo la mesa entre él y [[Shino]]. Pero fue esa noche, con la tormenta desdibujando las luces de la ciudad al otro lado de la ventana, cuando por fin encontró el valor —o la desesperación— para responderla en voz alta.
 
 [[Shino]] seguía con la vista fija en los planos, incapaz de entender cómo habían llegado hasta allí.
 
-—No entiendo por qué lo arriesgas todo por esto —dijo al fin, con la voz cargada de frustración—. Sabes que las probabilidades están en nuestra contra. Has dejado atrás tu seguridad, tu vida... ¿Por qué persigues un fantasma?
+—No entiendo por qué lo arriesgas todo por esto —dijo al fin, con la voz cargada de frustración—Sabes que las probabilidades están en nuestra contra. Has dejado atrás tu seguridad, tu vida... ¿Por qué persigues un fantasma?
 
 [[Qilby]] apartó la mirada de la ventana y clavó sus ojos en ella. No había arrepentimiento en su rostro, solo una calma casi perturbadora.
 

@@ -10,6 +10,7 @@ ASIR: "[[Noos, el soñador de la Plenitud]]"
 Características: 
 - Proveniente de Bonetsi
 - Edad en su aparición: 12-13 (llega Cap. 3)
+- Personalidad: Reservado, observador, leal
 ### Imagen
 
 

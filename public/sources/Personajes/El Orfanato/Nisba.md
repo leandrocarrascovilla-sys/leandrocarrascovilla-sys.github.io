@@ -9,6 +9,7 @@ ASIR: "[[Noos, el soñador de la Plenitud]]"
 Características: 
 - Proveniente de Yefra
 - Edad en su aparición: 13-14
+- Personalidad: Cálida, sociable, decidida
 ### Imagen
 
 ![[NIsbaBS.jpg]]
@@ -23,4 +24,4 @@ Sin embargo, la dinámica entre nosotros cambió sin que me diera cuenta. Ella y
 
 Lo peor de todo es que los quiero a los dos, y jamás me perdonaría arruinar esta hermosa amistad que hemos construido. No quiero romper lo que tenemos, pero este conflicto me está carcomiendo. Mi mente no aguanta más. Solo quiero que esta angustia termine. Basta ya. Por favor, para. Detente de una maldita vez."
 
-_Entrada del diario de Noos sobre Nisba._
+ —_Entrada del diario de Noos sobre Nisba._

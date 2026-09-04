@@ -8,6 +8,7 @@ ASIR: "[[Noos, el soñador de la Plenitud]]"
 ---
 Características: 
 - Proveniente de ???
+- Personalidad: Empático, perseverante, unificador
 ### Imagen
 
 ![[Noos.jpg]]
