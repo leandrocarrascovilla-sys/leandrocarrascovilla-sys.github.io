@@ -174,7 +174,7 @@ El verano terminó sin que [[Noos]] llegara a cruzar más de un par de frases co
 
 El momento adecuado, como suelen serlo las cosas importantes, no llegó por ningún plan cuidadosamente trazado. Llegó una noche de octubre, con una tormenta que se anunció desde media tarde, cargando el cielo de un gris pesado que no auguraba nada bueno.
 
-Empezó como cualquier otra: truenos distantes durante la cena, la lluvia arreciando contra los cristales mientras [[Shino]] insistía en que todos subieran temprano a sus habitaciones. Pero hacia la medianoche, un rayo cayó lo bastante cerca como para que toda la casa retumbara, y un instante después las luces se apagaron de golpe, sumiendo el edificio entero en una oscuridad espesa, cortada solo por los relámpagos que iluminaban las ventanas cada pocos segundos.
+Empezó como cualquier otra: truenos distantes durante la cena, la lluvia arreciando contra los cristales mientras [[Shino]] insistía en que todos subieran temprano a sus habitaciones. Pero hacia la medianoche, un rayo cayó lo bastante cerca como para que toda la casa retumbara, y un instante después una ráfaga de viento se coló por alguna rendija mal cerrada y apagó de golpe las velas y lámparas de aceite que quedaban encendidas —o al menos eso quisieron creer todos después, porque ninguna corriente de aire debería haber alcanzado, en el mismo parpadeo, hasta el último rincón de la casa—, sumiendo el edificio entero en una oscuridad espesa, cortada solo por los relámpagos que iluminaban las ventanas cada pocos segundos.
 
 [[Noos]] se incorporó en la cama de un salto, con el corazón latiéndole con fuerza, y tardó un momento en recordar dónde estaba. A su alrededor, en la oscuridad, empezaron a oírse voces asustadas: alguien lloraba dos puertas más allá, alguien más llamaba a gritos a un profesor, a un adulto, a quien fuera que pudiera devolver algo de orden a la casa.
 
@@ -226,7 +226,7 @@ La trampilla, en efecto, estaba entreabierta. La empujaron y salieron a un desv�
 
 —Puedo intentarlo.
 
-—Vas a intentarlo apoyada en alguien —cortó [[Nisba]], en un tono que no admitía discusión—. Nycto, ¿puedes ayudar a bajar con la luz? Nosotros la sujetamos.
+—Vas a intentarlo apoyada en alguien —cortó [[Nisba]], en un tono que no admitía discusión—. [[Nycto]], ¿puedes ayudar a bajar con la luz? Nosotros la sujetamos.
 
 [[Nycto]] asintió y empezó a moverse hacia la trampilla, pero antes de bajar se detuvo un instante junto a la claraboya, mirando hacia el cielo encendido de relámpagos con una expresión que [[Noos]] no supo del todo interpretar. Fue apenas un segundo. Después, sin decir nada, encabezó el descenso con el candil en alto, iluminando cada escalón para que [[Vega]], apoyada entre [[Nisba]] y su hermano, pudiera bajar sin tropezar.
 
@@ -296,7 +296,7 @@ Desde entonces, aunque [[Vega]] jamás lo admitiría en voz alta delante de nadi
 
 ---
 
-[[Noos]] no llegó a presenciar aquella historia —solo la conocería meses después, contada por [[Vega]] con una mezcla de reticencia y cariño que dejaba claro cuánto pesaba todavía—, pero sí presenció, esa misma semana en que [[Kanon]] llegó a la casa, algo que le hizo entender de golpe por qué nadie se atrevía a llevarle la contraria a [[Gisela]].
+[[Noos]] no llegó a presenciar aquella historia —solo la conocería tiempo después, contada por [[Vega]] con una mezcla de reticencia y cariño que dejaba claro cuánto pesaba todavía—, pero sí presenció, esa misma semana en que [[Kanon]] llegó a la casa, algo que le hizo entender de golpe por qué nadie se atrevía a llevarle la contraria a [[Gisela]].
 
 Ocurrió una tarde de lluvia fina, de las que no dejan jugar fuera pero tampoco parecen justificar quedarse encerrado en la habitación. Un grupo de chicos algo mayores que [[Noos]] se había reunido en la sala común, y entre ellos estaba un chico llamado Bram, conocido en la casa por su lengua afilada y su costumbre de buscar el punto débil de cualquiera con una precisión casi quirúrgica.
 
@@ -332,11 +332,11 @@ Esa noche, cuando [[Nisba]] le preguntó qué tal el día, [[Noos]] tardó un mo
 
 —Creo que hoy he visto a alguien defender a otra persona sin que se lo pidieran —dijo finalmente—. Y creo que quiero acordarme de cómo se hace eso.
 
-[[Nisba]] sonrió, sin necesitar más explicación, y por primera vez desde que [[Kanon]] había llegado a la casa, [[Noos]] pensó que tal vez, con el tiempo, alguien más aprendería a escucharlo hasta el final.
+[[Nisba]] sonrió, sin necesitar más explicación. Y esa noche, [[Noos]] pensó en [[Kanon]], alejándose con la bandeja sin que nadie le dejara terminar de hablar, y se prometió que la próxima vez sería él quien lo escuchara hasta el final.
 
 #### Capítulo 6 - La que no elige el aplauso y el que no elige atarse.
 
-La primavera trajo, aquel año, una novedad que cambió las tardes de [[La Casa de los Ecos]] casi tanto como había cambiado sus mañanas la llegada de [[Kanon]]: un aventurero retirado, de esos que llevan más cicatrices que años de servicio y una forma de mirar el mundo como si en cualquier momento fuera a atacar por la espalda, empezó a presentarse dos veces por semana en el patio trasero para enseñar los rudimentos del combate cuerpo a cuerpo con espada de madera. [[Shino]] lo había contratado tras meses de insistencia por parte de los niños más mayores, muchos de los cuales soñaban, como soñaba media infancia de un mundo donde hacerse aventurero era una salida tan común como aprender un oficio, con ganarse la vida algún día explorando ruinas olvidadas o cazando criaturas por encargo. Nadie preguntó demasiado más allá de eso, y [[Shino]] tampoco se molestó en dar muchas explicaciones adicionales, salvo una frase que repitió más de una vez, siempre con la misma calma inalterable: "Nunca está de más saber defenderse. Ahí fuera, lo que hay no siempre tiene la decencia de anunciarse antes de atacar."
+La primavera trajo, aquel año, una novedad que cambió las tardes de [[La Casa de los Ecos]] casi tanto como había cambiado sus mañanas la llegada de un aventurero retirado, de esos que llevan más cicatrices que años de servicio y una forma de mirar el mundo como si en cualquier momento fuera a atacar por la espalda, empezó a presentarse dos veces por semana en el patio trasero para enseñar los rudimentos del combate cuerpo a cuerpo con espada de madera. [[Shino]] lo había contratado tras meses de insistencia por parte de los niños más mayores, muchos de los cuales soñaban, como soñaba media infancia de un mundo donde hacerse aventurero era una salida tan común como aprender un oficio, con ganarse la vida algún día explorando ruinas olvidadas o cazando criaturas por encargo. Nadie preguntó demasiado más allá de eso, y [[Shino]] tampoco se molestó en dar muchas explicaciones adicionales, salvo una frase que repitió más de una vez, siempre con la misma calma inalterable: "Nunca está de más saber defenderse. Ahí fuera, lo que hay no siempre tiene la decencia de anunciarse antes de atacar."
 
 [[Noos]] descubrió pronto que tenía más entusiasmo que talento, lo cual no le impidió presentarse religiosamente a cada clase, espada de madera en mano, dispuesto a que le devolvieran al suelo una y otra vez si hacía falta. [[Nisba]] se apuntó por curiosidad y se quedó por diversión, más interesada en la coreografía de los movimientos que en ganar nada. [[Nycto]] fue una vez, decidió que las clases interrumpían su horario de piano, y no volvió a aparecer.
 
