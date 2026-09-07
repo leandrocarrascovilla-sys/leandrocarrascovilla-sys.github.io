@@ -500,7 +500,7 @@ No hacía falta decir nada más. Aquella noche, después de que la casa se hubie
 
 —Vale —dijo, cuando [[Noos]] terminó, con una calma que a él le pareció casi excesiva para lo que acababa de escuchar—. Entonces hay que averiguar qué es lo que Shino no nos está contando.
 
-—No sé si es buena idea —empezó [[Noos]], aunque incluso mientras lo decía sabía que ya era tarde para dar marcha atrás—. Es Shino. Si hay algo que no nos cuenta, será por algo.
+—No sé si es buena idea —empezó [[Noos]], aunque incluso mientras lo decía sabía que ya era tarde para dar marcha atrás—. Es [[Shino]]. Si hay algo que no nos cuenta, será por algo.
 
 —Puede ser —concedió [[Nisba]], sin perder un ápice de su determinación—. O puede que lleve tiempo cargando sola con algo que no debería cargar sola. De cualquiera de las dos formas, prefiero saberlo a seguir imaginándome cosas peores.
 
@@ -510,7 +510,7 @@ No fue difícil convencer a [[Nycto]], que llevaba casi dos semanas sin poder sa
 
 Nadie discutió la lógica de aquello, y menos aún cuando [[Valery]], que había escuchado todo el plan con los brazos cruzados y el ceño fruncido de quien evalúa un riesgo táctico antes que una travesura, terminó de sentenciar el asunto.
 
-—Si vamos a hacer esto, lo hacemos bien —dijo—. Nada de improvisar sobre la marcha. Necesitamos saber cuándo Shino no está en el despacho, cuánto tiempo tenemos, y una forma de salir corriendo si algo sale mal.
+—Si vamos a hacer esto, lo hacemos bien —dijo—. Nada de improvisar sobre la marcha. Necesitamos saber cuándo [[Shino]] no está en el despacho, cuánto tiempo tenemos, y una forma de salir corriendo si algo sale mal.
 
 [[Durante]] fue el único que dudó de verdad, y no por falta de curiosidad, sino por la sombra de una tormenta de hacía años que todavía pesaba sobre él cada vez que alguien mencionaba una idea que sonara remotamente a "colarse en algún sitio a escondidas."
 
@@ -518,7 +518,7 @@ Nadie discutió la lógica de aquello, y menos aún cuando [[Valery]], que habí
 
 —No va a pasar nada, Durante —cortó [[Vega]], con los ojos ya brillantes de la misma emoción que la había llevado, tiempo atrás, hasta la claraboya del desván en mitad de una tormenta—. Y si pasa, mejor que pase estando todos juntos que yo sola otra vez.
 
-Aquel argumento, más que cualquier otro, terminó de convencerlo. Nueve niños, nueve maneras distintas de sentir miedo o entusiasmo ante lo mismo, decidieron aquella tarde que averiguarían juntos lo que fuera que [[Shino]] llevaba guardando.
+Aquel argumento, más que cualquier otro, terminó de convencerlo. Nueve chicos, nueve maneras distintas de sentir miedo o entusiasmo ante lo mismo, decidieron aquella tarde que averiguarían juntos lo que fuera que [[Shino]] llevaba guardando.
 
 ---
 
