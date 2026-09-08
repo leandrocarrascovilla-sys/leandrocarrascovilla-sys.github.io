@@ -534,9 +534,9 @@ Fue [[Vega]], inevitablemente la primera en encontrar algo, quien rompió el sil
 
 —Aquí hay una carpeta cerrada con llave.
 
-No hizo falta mucho esfuerzo para abrirla: la llave, como comprobó [[Kanon]] con una satisfacción que intentó no dejar traslucir demasiado, encajaba también en el pequeño candado de latón que la mantenía cerrada. Dentro, extendidos con el mismo cuidado con que se guardan las cosas que importan de verdad, había planos.
+No hizo falta mucho esfuerzo para abrir el cajón, pero la carpeta que había dentro seguía cerrada con un pequeño candado de latón. Fue [[Gisela]] quien encontró la solución, más simple de lo que esperaban: una horquilla del pelo, torcida con paciencia, bastó para que el mecanismo cediera con un chasquido seco. Dentro, extendidos con el mismo cuidado con que se guardan las cosas que importan de verdad, había planos.
 
-No los planos de un edificio, ni de ninguna estructura que [[Noos]] pudiera reconocer. Eran líneas que se entrelazaban entre sí como si trazaran algo mucho menos concreto que una casa o un puente: círculos concéntricos, anotaciones en los márgenes con una letra apretada y nerviosa, y, repetida varias veces a lo largo del documento, una palabra que ninguno de los ocho había visto escrita antes, aunque dos de ellos ya la habían oído pronunciar en voz baja: Qilby.
+No los planos de un edificio, ni de ninguna estructura que [[Noos]] pudiera reconocer. Eran líneas que se entrelazaban entre sí como si trazaran algo mucho menos concreto que una casa o un puente: círculos concéntricos, anotaciones en los márgenes con una letra apretada y nerviosa, y, repetida varias veces a lo largo del documento, una palabra que ninguno de los ocho había visto escrita antes, aunque dos de ellos ya la habían oído pronunciar en voz baja: [[Qilby]].
 
 Debajo de los planos había cartas, algunas con la tinta ya desvaída por el tiempo, otras tan recientes que la tinta apenas parecía seca. [[Nisba]], que fue quien se atrevió a desdoblar la primera, leyó en un susurro apenas audible una de las frases que encabezaban la hoja: "El tiempo se agota. Si no encontramos pronto suficientes con el perfil adecuado, todo lo que hemos construido no habrá servido de nada."
 
@@ -550,11 +550,11 @@ Los nueve se apiñaron, con el candil de [[Nisba]] temblando un poco entre tanta
 
 Sus propios nombres estaban allí. Los nueve.
 
-No llegaron a leerla entera. El papel temblaba demasiado en las manos que se lo pasaban unos a otros, y antes de que pudieran recorrerla con calma, [[Noos]] reconoció su propio nombre a mitad de la lista, junto a una letra diminuta que decía: "Fuerte capacidad de vínculo. Todavía no manifiesta la calma esperada; posible fase previa, seguir observando."
+No llegaron a leerla entera. El papel temblaba demasiado en las manos que se lo pasaban unos a otros, y antes de que pudieran recorrerla con calma, [[Noos]] reconoció su propio nombre a mitad de la lista, junto a una letra diminuta que decía: "Sujeto muestra indicios de calma poco habitual pese al entorno. No manifiesta ambición dominante hacia ningún otro perfil conocido; posible candidato al séptimo patrón, aún sin confirmar."
 
-—Aquí está el mío —dijo [[Valery]], con una voz que por primera vez esa noche sonó más tensa que serena, señalando unas líneas más abajo—. "Capacidad de mando evidente, activamente rechazada por la propia sujeto. Requiere un catalizador externo."
+—Aquí está el mío —dijo [[Valery]], con una voz que por primera vez esa noche sonó más tensa que serena, señalando unas líneas más abajo—. "Capacidad de mando evidente. Rechazo activo del rol de liderazgo por parte de la propia sujeto; probable necesidad de un catalizador externo que lo desbloquee."
 
-[[Eizen]], detrás de ella, encontró el suyo casi al mismo tiempo, y lo leyó en voz baja, casi para sí mismo, sin que nadie se lo pidiera: "Resistencia a cualquier atadura, muy marcada. Posible obstáculo o posible clave, aún por determinar."
+[[Eizen]], detrás de ella, encontró el suyo casi al mismo tiempo, y lo leyó en voz baja, casi para sí mismo, sin que nadie se lo pidiera: "Resistencia a cualquier atadura, marcada de forma inusual. Sin determinar aún si supondrá un obstáculo para el proceso o, por el contrario, la clave para completarlo."
 
 Nadie se atrevió a seguir buscando el resto de los nombres. No hacía falta. Con esas tres notas bastaba para entender que aquello no era una simple lista, sino algo que sonaba menos a la descripción de un niño que a la de un experimento cuyo resultado todavía estaba por verse.
 
@@ -566,7 +566,7 @@ Fue el sonido de la puerta principal de la casa, abriéndose y cerrándose dos p
 
 Lo que siguió fue una sucesión de movimientos apresurados y silenciosos: la carpeta devuelta a su sitio con manos temblorosas, el candado vuelto a cerrar, la llave devuelta a su escondite, cada uno de ellos desapareciendo por el pasillo en direcciones distintas siguiendo el camino silencioso que [[Nycto]] les había enseñado apenas media hora antes. [[Noos]] fue de los últimos en salir, y al girarse un instante antes de cerrar la puerta del despacho, alcanzó a fijarse en un detalle que no había reparado antes: sobre el escritorio de [[Shino]], apoyado contra la pared, había un cuadro pequeño, tan discreto que resultaba fácil pasarlo por alto entre tantos libros y papeles. Un retrato, envejecido ya por los años, de un hombre de mirada intensa y sonrisa melancólica que [[Noos]] no reconoció, pero que algo en él, sin saber explicar el porqué, sintió que debería.
 
-Cerró la puerta sin detenerse a pensarlo más y corrió, con el corazón latiéndole con la misma fuerza que la noche de la tormenta, de vuelta hacia su habitación, sabiendo, con una certeza incómoda que no lo abandonaría en toda la noche, que a partir de esa noche nada en [[La Casa de los Ecos]] volvería a parecerle exactamente igual que antes
+Cerró la puerta sin detenerse a pensarlo más y corrió, con el corazón latiéndole con la misma fuerza que la noche de la tormenta, de vuelta hacia su habitación, sabiendo, con una certeza incómoda que no lo abandonaría en toda la noche, que a partir de esa noche nada en la casa volvería a parecerle exactamente igual que antes
 
 #### Capítulo 9 - La grieta.
 
