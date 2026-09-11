@@ -121,7 +121,7 @@ Una tarde, mientras ayudaba a [[Shino]] a ordenar unos libros en la pequeña bib
 
 No añadió nada más. Pero esa noche, mientras cerraba la casa después de que los chicos se hubieran acostado, [[Shino]] se quedó un momento junto a la ventana del despacho, mirando la oscuridad del patio, pensando en una promesa antigua que todavía no sabía si sería capaz de cumplir.
 
-#### Capítulo 3 - Dos hilos nuevos.
+#### Capítulo 3 - Un sitio en la mesa.
 
 Pasaron meses antes de que [[Noos]] dejara de contar los días desde su llegada a [[La Casa de los Ecos]]. La primavera dio paso a un verano de tardes largas y fresas robadas del muro del patio, y con él llegó una costumbre nueva: la de sentirse, la mayor parte del tiempo, en un lugar al que pertenecía. No del todo, no siempre, pero sí lo suficiente como para que la vieja pregunta de [[Shino]] —¿qué quieres llegar a ser?— hubiera dejado de pesarle como una losa y empezara a parecerse, aunque fuera un poco, a una promesa.
 
@@ -246,7 +246,7 @@ Se preguntó, sin poder evitarlo, qué se sentiría al tener eso: alguien con qu
 
 Por primera vez desde la muerte de su madre, [[Noos]] se durmió sin necesidad de esperar nada. Ya tenía, esa noche, algo que sostener entre las manos.
 
-#### Capítulo 5 - El que nadie escucha y la que nadie olvida.
+#### Capítulo 5 - El que nadie escucha y la que no perdona.
 
 El invierno volvió a [[La Casa de los Ecos]] con la misma puntualidad de siempre, aunque aquel año trajo consigo dos caras nuevas que el resto de los niños tardaría en aprender a mirar sin recelo.
 
@@ -947,7 +947,7 @@ La reunión se disolvió poco después, sin ningún tipo de conclusión formal, 
 
 No dijo nada. Pero algo en la forma en que [[Eizen]] sostenía esa mirada, algo entre el reconocimiento y la posibilidad, hizo que a [[Noos]] se le encogiera el estómago con una premonición que no habría sabido explicar del todo, pero que no conseguiría quitarse de encima durante el resto de aquella tarde.
 
-#### Capítulo 14 - Los que se quedan y los que corren.
+#### Capítulo 14 - La verja.
 
 Los días que siguieron a la reunión en la sala grande transcurrieron para los nueve envueltos en una tensión distinta a cualquiera que hubieran conocido hasta entonces, una tensión que ya no se alimentaba de la duda, sino de la certeza incómoda de tener que decidir, y de saber que cualquier decisión que tomaran iba a costarles algo.
 
@@ -1023,7 +1023,7 @@ No hubo tiempo para más. El grupo se internó en la noche, ocho siluetas que se
 
 Cuando ya no pudo distinguir ni una sola sombra entre los árboles, se dio la vuelta y caminó de regreso hacia la casa, hacia la luz que todavía brillaba, tenue y solitaria, en la ventana del despacho de [[Shino]], donde [[Qilby]] lo esperaba para empezar aquello que, por primera vez en toda su vida, había elegido enteramente solo.
 
-#### Capítulo 15 - La cabaña.
+#### Capítulo 15 - Un techo prestado.
 
 El primer día de huida transcurrió envuelto en una urgencia que no dejaba espacio para el cansancio. Caminaron deprisa, casi sin hablar, sobresaltándose con cada crujido de rama que el bosque producía a su paso, convencidos de que en cualquier momento verían aparecer entre los árboles a alguien enviado a buscarlos. [[Valery]] marcaba un ritmo que ninguno se atrevió a cuestionar, ni siquiera cuando el sol empezó a caer y las piernas de los más pequeños del grupo —[[Kanon]], sobre todo, que llevaba arrastrando los pies desde hacía un buen rato— dejaron claro que aquel paso no podría sostenerse indefinidamente.
 
