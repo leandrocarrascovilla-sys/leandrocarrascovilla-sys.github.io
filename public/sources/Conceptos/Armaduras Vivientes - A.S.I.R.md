@@ -1,4 +1,7 @@
 
+///En proceso///
+
+
 ### El Principio A.S.I.R.
 
 - **A**rmadura: La protección emocional y mental que forjada para proteger el propósito. Es la resiliencia que necesitas ponerte cada día para resistir las dudas, las críticas y los miedos antes de actuar.
@@ -13,4 +16,5 @@
 El concepto de estos seres es la siguiente:
 1. No han nacido, en si han sido trasplantados a un recipiente donde la voluntad/sueños de su yo anterior son el motor para esta nueva forma. Algunas entidades muestran tener recuerdos de su pasado o simplemente ser tan manejables como una marioneta.
 2. Cada tipo de armadura va en relación con el futuro del huésped. Si no llegan a congeniar, este desaparecerá sin dejar rastro. Lo mismo pasará a aquellos que dejen de creer en su sueño o sean llevados a su destrucción.
-3. 
+
+

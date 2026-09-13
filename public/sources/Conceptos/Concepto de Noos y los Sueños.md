@@ -5,7 +5,7 @@ Aquí tienes las formas clave de conectar ambos conceptos:
 
 **El Filtro Despiadado de la Realidad**
 
-Los sueños de un ser suelen nacer de las emociones, las pasiones y el ego (la _psique_). El **Noos**, al ser intelecto puro y vacío, actúa como una fuerza fría que procesa esos deseos. No juzga si un objetivo es bueno o malo; simplemente calcula la verdad matemática para alcanzarlo, despojando al sueño de todo su romanticismo y calidez humana. [[1](https://www.huffingtonpost.es/entry/como-interpretar-el-significado-de-los-suenos_es_5d653d08e4b0641b2553adcf.html)]
+Los sueños de un ser suelen nacer de las emociones, las pasiones y el ego (la _psique_). El **Noos**, al ser intelecto puro y vacío, actúa como una fuerza fría que procesa esos deseos. No juzga si un objetivo es bueno o malo; simplemente calcula la verdad matemática para alcanzarlo, despojando al sueño de todo su romanticismo y calidez humana. 
 
 **El Archivo de los Deseos Olvidados**
 

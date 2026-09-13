@@ -4,7 +4,7 @@ tags:
 nombre: Valery Straud
 raza: Humana
 Edad: "16"
-ASIR: "[[Imperia, la soñadora del Poder]]"
+ASIR: "[[Imperia, la soñadora del Poder-]]"
 ---
 Características: 
 - Proveniente de Asturg (Junto a [[Eizen]])

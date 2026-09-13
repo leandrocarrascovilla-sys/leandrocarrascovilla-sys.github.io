@@ -11,7 +11,7 @@ Más allá del romance, este sueño abarca la necesidad humana de no atravesar l
 _En la práctica:_ Formar una familia unida, encontrar un compañero de vida, o construir una comunidad donde la lealtad y la comprensión sean absolutas. 
 Su sombra: perder la propia identidad por miedo al abandono, o confundir posesión con amor.
 
-2. El sueño de la Influencia y el Poder - [[Imperia, la soñadora del Poder]] // [[Valery]]
+2. El sueño de la Influencia y el Poder - [[Imperia, la soñadora del Poder-]] // [[Valery]]
 
 El deseo de tener agencia real sobre el entorno: no solo sobrevivir a las circunstancias, sino moldearlas. Rara vez nace del deseo de dominar por dominar; casi siempre es la convicción de que uno vería el mundo mejor si tuviera la capacidad de decidir sobre él.
 

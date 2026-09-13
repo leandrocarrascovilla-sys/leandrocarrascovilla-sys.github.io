@@ -2,7 +2,7 @@
 tags:
   - Orfanato
 nombre: Nycto
-raza:
+raza: Humano
 Edad: "15"
 ASIR: "[[Noos, el soñador de la Plenitud]]"
 ---

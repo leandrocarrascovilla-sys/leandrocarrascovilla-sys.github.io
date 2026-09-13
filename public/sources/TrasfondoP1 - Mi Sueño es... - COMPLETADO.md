@@ -1218,7 +1218,7 @@ El cuerpo de [[Valery]] se desplomó en el mismo instante en que los ojos de la 
 
 Entonces la armadura se movió. Flexionó los dedos metálicos con la misma precisión con la que [[Valery]] solía sostener una espada de madera, y cuando levantó la cabeza, la mirada que se posó sobre ellos, aunque envuelta ahora en una luz que ya no era del todo humana, no dejaba ningún lugar a dudas sobre a quién había pertenecido aquella voluntad. No dijo nada. Se limitó a sostenerles la mirada un instante, con un reconocimiento silencioso que a los tres les bastó.
 
-—"[[Imperia, la soñadora del Poder]]"—murmuró [[Qilby]], anotando algo en su cuaderno con una mano que no estaba del todo firme—. Un éxito. El primero de esta noche, y el más limpio que he presenciado jamás.
+—"[[Imperia, la soñadora del Poder-]]"—murmuró [[Qilby]], anotando algo en su cuaderno con una mano que no estaba del todo firme—. Un éxito. El primero de esta noche, y el más limpio que he presenciado jamás.
 
 Ninguno de los tres que quedaban se sintió, sin embargo, aliviado por aquellas palabras. Lo que acababan de presenciar no había tenido nada de limpio a sus ojos: había sido un vaciamiento, un despojo, por muy voluntario que hubiera sido, y la idea de que algo parecido los esperaba a ellos también les pesaba en el estómago como una piedra.
 

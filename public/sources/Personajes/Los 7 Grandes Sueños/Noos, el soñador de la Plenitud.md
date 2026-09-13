@@ -4,7 +4,7 @@ Para su creación se utilizaron los sueños de 3 niños, cada uno incapaz de lle
 
 Para el sueño de la Plenitud, se junto a los siguientes sujetos:
 
-- [[Nycto]], con un sueño de
+- [[Nycto]]
 - [[Nisba]]
 - [[Noos]]
 
