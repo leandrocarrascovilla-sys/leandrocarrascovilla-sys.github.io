@@ -119,3 +119,57 @@ Y sin embargo, algo tiró de él hacia allí. No un recuerdo, no una certeza. So
 Echó a andar.
 
 Detrás de él, las ruinas se quedaron solas otra vez, aferradas a un silencio que llevaba ya demasiado tiempo sin que nadie lo interrumpiera. Fuera lo que fuese lo que aquel lugar había sido, ya solo él lo llevaba consigo, sin saberlo, en cada paso que daba lejos de allí.
+
+#### Capítulo 2 - El mundo le enseña.
+
+El bosque que se extendía más allá de las ruinas no tenía prisa por revelarle nada, y él, sin ningún motivo concreto para tenerla tampoco, se dejó llevar por ese mismo ritmo.
+
+Los primeros días —si es que "días" seguía siendo la palabra correcta para medir algo, cuando no sentía cansancio que le exigiera dormir ni hambre que le exigiera detenerse— transcurrieron entre descubrimientos tan pequeños que a cualquier otra criatura le habrían pasado inadvertidos, y que a él, sin embargo, le parecían revelaciones enteras. Descubrió que el agua de un arroyo, al tocarla, no lo hacía sentir frío del modo en que había esperado sentirlo, sino una especie de eco distante de lo que el frío debería ser, como si su cuerpo recordara la idea de la sensación sin llegar a experimentarla del todo. Descubrió que el viento, al atravesar las juntas de su armadura, producía un sonido bajo, casi musical, que en algún momento se sorprendió escuchando con una atención que no sabía de dónde salía.
+
+Aprendió, sobre todo, los límites de su propio cuerpo, a base de ponerlo a prueba sin ninguna razón más allá de la curiosidad. Descubrió que podía correr durante mucho más tiempo del que cualquier persona debería ser capaz de correr, sin que el pecho le pidiera tregua. Descubrió que podía trepar por una roca casi vertical con una facilidad que le resultó, la primera vez, tan inquietante como fascinante. Y descubrió, la tarde en que se detuvo junto a un remanso de agua tranquila para practicar de nuevo las posturas del manual, que su reflejo en la superficie del agua se movía con una gracia que él mismo no sabía que poseía, como si el cuerpo llevara dentro una memoria propia, independiente de la suya, que solo se manifestaba cuando dejaba de pensar y se limitaba a moverse.
+
+—¿Eras bueno en esto? —le preguntó a su propio reflejo, una tarde, mientras el agua todavía temblaba por el movimiento del último tajo—. ¿O es que ahora lo soy yo?
+
+El agua, como siempre, no respondió. Pero por primera vez, la pregunta no le pesó como un vacío, sino como una posibilidad abierta, algo que todavía estaba por decidirse.
+
+---
+
+Aprendió también, con el paso de lo que debieron de ser varias semanas, una soledad distinta a la de las ruinas: no la soledad de un lugar abandonado por otros, sino la soledad de un mundo entero que simplemente no sabía que él existía. Cruzó claros donde ciervos lo observaban un instante antes de continuar pastando, indiferentes a su presencia una vez comprobado que no suponía una amenaza inmediata. Durmió —o lo que fuera que hacía en las horas en que el resto del mundo dormía, una especie de quietud consciente en la que el tiempo pasaba sin que él lo notara del todo— bajo la copa de árboles que no sabía nombrar, en noches tan silenciosas que llegó a preguntarse si el silencio, más que la soledad, era la condición natural de lo que fuera que era ahora.
+
+No todo el bosque, sin embargo, se mostró indiferente. Una noche, una criatura de ojos brillantes y forma que no llegó a identificar del todo lo siguió durante un buen trecho entre los árboles, manteniendo siempre la misma distancia prudente, hasta que él se detuvo, se giró hacia la oscuridad de donde venían los ojos, y simplemente esperó. La criatura, después de un largo momento de duda mutua, terminó por marcharse sin acercarse más, y él se descubrió pensando, mientras la veía desaparecer entre la maleza, que aquel breve intercambio de miradas —ninguno atacando, ninguno huyendo, los dos simplemente reconociéndose como algo que el otro no entendía del todo— había sido, a su manera, la primera conversación completa que había mantenido con otro ser vivo desde que había despertado.
+
+Encontró, en uno de esos días sin nombre, un río más ancho que cualquier arroyo anterior, y se quedó en su orilla el tiempo suficiente para ver su propio reflejo devuelto por una superficie mucho más amplia que la de cualquier espejo agrietado: una figura serena, de líneas metálicas suavizadas por la luz del atardecer, mirando de vuelta con la misma calma silenciosa que ya empezaba a reconocer como suya, sin necesidad de que nadie más se la confirmara.
+
+—Sigo sin saber quién eras —le dijo a aquel reflejo, con una familiaridad que no tenía dos semanas antes—. Pero empiezo a tener una idea de quién soy ahora. Con eso, de momento, me basta.
+
+---
+
+Fue muchos días después, con el bosque empezando a abrirse en campos cultivados que anunciaban la cercanía de algún asentamiento humano, cuando el grito lo devolvió de golpe a la idea de que el mundo no consistía únicamente en árboles, agua y silencio.
+
+Venía de más allá de la siguiente loma, agudo y desesperado, la clase de grito que no necesitaba traducción para entender lo que significaba. Echó a correr sin pensarlo dos veces, sorprendido de la naturalidad con la que su cuerpo respondió a la urgencia, como si todas aquellas semanas poniéndose a prueba sin ningún propósito concreto hubieran sido, en realidad, una preparación para aquel instante exacto.
+
+Lo que encontró, al coronar la loma, fue una escena de caos: dos figuras —una mujer mayor y un niño pequeño— corriendo hacia una casa de labranza mientras algo grande y oscuro, de demasiadas patas para tratarse de cualquier animal común, avanzaba tras ellos con una velocidad que amenazaba con alcanzarlos antes de que llegaran a la puerta.
+
+No dudó. Descendió la loma sin más plan que interponerse, y descubrió, en el mismo instante en que la criatura se giraba hacia él alertada por el ruido, que su cuerpo ya sabía qué hacer: la guardia baja, el peso repartido entre ambos pies, la misma postura exacta que había repetido tantas veces junto al agua sin saber, hasta ese momento, para qué la estaba aprendiendo de verdad.
+
+No tenía espada. No pareció importarle a su cuerpo, que esquivó el primer embiste con la misma economía de movimiento que había visto reflejada en el río, y respondió con un golpe seco del antebrazo que hizo retroceder a la criatura, aturdida, el tiempo justo para que la mujer y el niño alcanzaran la puerta. Cuando la criatura volvió a la carga, la sujetó por lo que parecía el cuello con una fuerza que ni él mismo sabía que poseía, y la mantuvo así, forcejeando, hasta que dejó de moverse del todo.
+
+El silencio que siguió se sintió distinto a cualquiera de los que había atravesado en el bosque, quizás porque, por primera vez desde que había despertado, no estaba solo para presenciarlo.
+
+---
+
+—¿Quién... qué eres? —preguntó la mujer, todavía con el niño escondido tras su falda, la voz temblorosa pero sin el terror con el que había gritado minutos antes.
+
+—No estoy del todo seguro —admitió él, con una sinceridad que las semanas de soledad parecían haberle enseñado a sostener sin incomodidad—. Pero puedes llamarme Qilby, si necesitas un nombre para contar lo que ha pasado aquí.
+
+El niño, más valiente o más curioso que su madre, se asomó desde detrás de su falda para mirarlo con los ojos muy abiertos.
+
+—Gracias por salvarnos —dijo, con una seriedad solemne que no encajaba del todo con su tamaño—. ¿Vienes del bosque?
+
+—Vengo de bastante más lejos que el bosque, creo —respondió, y descubrió, al decirlo, que era la primera vez que lograba resumir tantas semanas de camino en una sola frase sin que le pesara del todo—. Aunque no sabría decirte con exactitud de dónde.
+
+Le ofrecieron, antes de dejarlo marchar, la dirección exacta del pueblo más cercano, y algo mucho más valioso, aunque ninguno de los dos pareciera consciente de su verdadero peso: la sugerencia de que allí encontraría gente que sabía de esas cosas, de armaduras que caminaban solas, de magia vieja que no debería seguir despierta después de tanto tiempo.
+
+—Gracias —dijo él, y lo dijo en serio, sorprendido de cuánto pesaba una simple palabra de agradecimiento cuando ya no tenía semanas enteras de silencio con las que compararla.
+
+Emprendió el camino hacia el pueblo con el bosque quedando atrás, poco a poco, convertido ya en el primer hogar temporal —silencioso, indiferente, pero suyo— que había conocido desde que había abierto los ojos. Y por primera vez desde entonces, caminó sabiendo que se dirigía hacia algún sitio en concreto, y no simplemente lejos de otro.
