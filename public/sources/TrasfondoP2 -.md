@@ -173,3 +173,39 @@ Le ofrecieron, antes de dejarlo marchar, la dirección exacta del pueblo más ce
 —Gracias —dijo él, y lo dijo en serio, sorprendido de cuánto pesaba una simple palabra de agradecimiento cuando ya no tenía semanas enteras de silencio con las que compararla.
 
 Emprendió el camino hacia el pueblo con el bosque quedando atrás, poco a poco, convertido ya en el primer hogar temporal —silencioso, indiferente, pero suyo— que había conocido desde que había abierto los ojos. Y por primera vez desde entonces, caminó sabiendo que se dirigía hacia algún sitio en concreto, y no simplemente lejos de otro.
+
+#### Capítulo 3 - El camino hacia el país de la magia.
+
+Había aprendido, con el paso de los meses, que los recuerdos nuevos tenían una textura distinta a la de las sensaciones sin nombre con las que había despertado. Estos sí tenían rostro, voz, un principio y un final que podía recorrer cuando quisiera, como quien hojea un libro ya leído.
+
+El pueblo del jabalí en el cartel había sido el primero de esos recuerdos enteros, y seguía siendo, casi un año después, uno de los más claros. Recordaba la desconfianza del herrero, que con el tiempo había terminado por convertirse en algo parecido a un respeto áspero, nunca declarado en voz alta pero tampoco necesitado de palabras. Recordaba a la niña tendiéndole aquella primera capa oscura, con una practicidad que escondía más cuidado del que ella misma habría admitido. Recordaba el molino, las luces que no deberían haber estado encendidas, y lo que había encontrado allí dentro: no un monstruo, como medio pueblo había temido, sino un grupo de fugitivos escondidos, aterrados, que habían confundido cualquier visita nocturna con la llegada de quienes los perseguían. Recordaba haber encontrado con vida a la prima..
+
+Después del molino habían venido otros encargos, en otros pueblos, con otros nombres que ya se mezclaban un poco entre sí en su memoria: ganado protegido, caminos despejados de amenazas menores, un par de disputas resueltas más con paciencia que con fuerza. Cada uno le había dejado algo —una palabra nueva para nombrar el mundo, una pista más sobre sí mismo, la confirmación repetida de que la capa oscura seguía siendo, la mayoría de las veces, más útil que su propia honestidad a la hora de cruzar una puerta nueva—, pero ninguno había respondido la pregunta que lo había hecho ponerse en marcha aquella primera mañana entre las ruinas: quién había sido antes de ser esto.
+
+Fue en una posada de postas, en algún pueblo cuyo nombre ya no recordaba con precisión, donde escuchó por primera vez hablar de Zeshor.
+
+—Si de verdad buscas respuestas sobre magia vieja, sobre sueños que se convierten en otra cosa, no las vas a encontrar aquí en Athington —le había dicho un comerciante, con la lengua suelta por el vino y la codicia de quien espera cobrar la información de algún modo—. Zeshor es quien escribe los libros que el resto de nosotros apenas llegamos a hojear. Si existe alguien en este mundo capaz de explicarte qué eres, está allí, no aquí.
+
+No había necesitado más que esa frase para decidir su siguiente destino.
+
+---
+
+Los últimos pueblos de Athington quedaron atrás varios días antes de que el paisaje empezara a cambiar de verdad. Los campos de cultivo ordenados dieron paso a una tierra más agreste, salpicada de afloramientos de roca oscura que no recordaba haber visto en ningún otro punto del camino, y el aire mismo pareció cargarse de una electricidad sutil, casi imperceptible, que le erizaba algo en el interior del pecho cada vez que el viento soplaba desde el oeste.
+
+El puesto fronterizo apareció al cuarto día: una estructura de piedra gris flanqueada por dos torres bajas, con un estandarte que no reconocía ondeando perezosamente sobre la puerta, y una fila de carromatos y viajeros esperando turno para cruzar, vigilados por guardias cuyo uniforme no se parecía a nada que hubiera visto en Athington.
+
+Se detuvo a cierta distancia, observando el movimiento de la fila con la misma cautela calculada que había aprendido a aplicar a cada situación nueva. La capucha, echada hacia delante, ocultaba lo suficiente de su rostro —si es que podía llamarse rostro a la ausencia pulida que tenía bajo el yelmo— como para pasar, a primera vista, por un viajero más entre tantos, envuelto en ropajes gruesos contra el frío de una tierra que ya no era la suya.
+
+Un guardia, al verlo acercarse, le hizo un gesto brusco para que se uniera a la fila sin mediar más palabras, con la misma indiferencia práctica con la que trataba a cualquier otro viajero cansado del camino. No hubo gritos, ni espadas desenvainadas, ni el miedo instintivo que todavía recordaba de su primera tarde en el pueblo del jabalí. Solo la rutina aburrida de una frontera que había visto pasar, sin duda, cosas mucho más extrañas que un viajero encapuchado y silencioso.
+
+—¿Motivo de la visita? —preguntó el guardia, cuando por fin le tocó el turno, sin levantar apenas la vista del registro que llevaba entre las manos.
+
+Había aprendido, mucho antes de llegar a aquella frontera, que la verdad completa rara vez era la respuesta que un desconocido con autoridad para negarle el paso necesitaba escuchar.
+
+—Trabajo de escolta —dijo, con la misma naturalidad práctica con la que había aprendido a mentir a medias, dejando que la capa y el silencio hicieran el resto—. Un encargo me ha traído hasta aquí. Nada que requiera más explicación que esa, espero.
+
+El guardia asintió, sin mostrar ningún interés especial más allá del trámite, y estampó un sello sobre un papel que le tendió sin más ceremonia.
+
+—La mitad de los que cruzan dicen lo mismo —comentó, con el tono aburrido de quien ha repetido el mismo gesto demasiadas veces ese mismo día—. Bienvenido a Zeshor. Procura que tu encargo no te traiga problemas con el Consejo, o vas a desear haberte quedado donde fuera que empezaste..
+
+Cruzó la frontera con el papel sellado todavía en la mano, y el mismo viento cargado de electricidad sutil que llevaba días sintiendo pareció, por un instante, intensificarse a su alrededor, como si la propia tierra de Zeshor hubiera notado, de algún modo, que algo nuevo acababa de cruzar su umbral.

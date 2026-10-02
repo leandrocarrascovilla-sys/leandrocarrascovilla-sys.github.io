@@ -4,11 +4,11 @@ tags:
 nombre: Nycto
 raza: Humano
 Edad: "15"
-ASIR: "[[Noos, el soñador de la Plenitud]]"
+ASIR: "[[Neosis, el soñador de la Plenitud]]"
 ---
 
 Características: 
-- Proveniente de Bonetsi
+- Proveniente de Mancuk
 - Edad en su aparición: 12-13 (llega Cap. 3)
 - Personalidad: Reservado, observador, leal
 ### Imagen

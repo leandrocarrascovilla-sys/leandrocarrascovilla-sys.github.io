@@ -4,4 +4,3 @@
 
 ### Imagen
 
-![[Isolda.jpg]]
