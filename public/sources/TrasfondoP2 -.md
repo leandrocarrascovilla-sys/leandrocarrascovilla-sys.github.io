@@ -184,7 +184,7 @@ Después del molino habían venido otros encargos, en otros pueblos, con otros n
 
 Fue en una posada de postas, en algún pueblo cuyo nombre ya no recordaba con precisión, donde escuchó por primera vez hablar de Zeshor.
 
-—Si de verdad buscas respuestas sobre magia vieja, sobre sueños que se convierten en otra cosa, no las vas a encontrar aquí en Athington —le había dicho un comerciante, con la lengua suelta por el vino y la codicia de quien espera cobrar la información de algún modo—. Zeshor es quien escribe los libros que el resto de nosotros apenas llegamos a hojear. Si existe alguien en este mundo capaz de explicarte qué eres, está allí, no aquí.
+—Si de verdad buscas respuestas sobre magia vieja, sobre sueños que se convierten en otra cosa, no las vas a encontrar en Athington —le había dicho un comerciante, con la lengua suelta por el vino y la codicia de quien espera cobrar la información de algún modo—. En Zeshor es donde se estudian al gran mayoría de artes magicas. Si existe alguien en este mundo capaz de dar respuesta a tu pregunta, es allí.
 
 No había necesitado más que esa frase para decidir su siguiente destino.
 
@@ -196,7 +196,7 @@ El puesto fronterizo apareció al cuarto día: una estructura de piedra gris fla
 
 Se detuvo a cierta distancia, observando el movimiento de la fila con la misma cautela calculada que había aprendido a aplicar a cada situación nueva. La capucha, echada hacia delante, ocultaba lo suficiente de su rostro —si es que podía llamarse rostro a la ausencia pulida que tenía bajo el yelmo— como para pasar, a primera vista, por un viajero más entre tantos, envuelto en ropajes gruesos contra el frío de una tierra que ya no era la suya.
 
-Un guardia, al verlo acercarse, le hizo un gesto brusco para que se uniera a la fila sin mediar más palabras, con la misma indiferencia práctica con la que trataba a cualquier otro viajero cansado del camino. No hubo gritos, ni espadas desenvainadas, ni el miedo instintivo que todavía recordaba de su primera tarde en el pueblo del jabalí. Solo la rutina aburrida de una frontera que había visto pasar, sin duda, cosas mucho más extrañas que un viajero encapuchado y silencioso.
+Un guardia, al verlo acercarse, le hizo un gesto brusco para que se uniera a la fila sin mediar más palabras. No hubo gritos, ni espadas desenvainadas, solo la rutina aburrida de una frontera que había visto pasar, sin duda, cosas mucho más extrañas que un viajero encapuchado y silencioso.
 
 —¿Motivo de la visita? —preguntó el guardia, cuando por fin le tocó el turno, sin levantar apenas la vista del registro que llevaba entre las manos.
 

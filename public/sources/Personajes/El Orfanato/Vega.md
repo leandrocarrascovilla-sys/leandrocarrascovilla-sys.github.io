@@ -13,7 +13,7 @@ Características:
 ### Imagen
 
 
-![[VegaNew.jpg]]
+![[Vega.jpg]]
 
 ---
 
