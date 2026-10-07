@@ -4,7 +4,7 @@ tags:
 nombre: Durante
 raza: Humano
 Edad: "16"
-ASIR: "[[Dante, el soñador del Legado]]"
+ASIR: "[[Valtheon, el soñador del Legado]]"
 ---
 Características: 
 - Proveniente de Athington (Junto a [[Vega]])

@@ -32,7 +32,7 @@ El motor es la curiosidad que nunca se satisface del todo: entender cómo funcio
 _En la práctica:_ Dedicarse a la magia, la investigación o la ciencia; convertirse en referente de un campo específico. Es la búsqueda de la verdad por encima de la comodidad. 
 Su sombra: el conocimiento sin aplicación puede volverse una torre de marfil, alejando a quien lo persigue del mundo que quería entender.
 
-5. El sueño del Legado y la Creación - [[Dante, el soñador del Legado]] // [[Durante]]
+5. El sueño del Legado y la Creación - [[Valtheon, el soñador del Legado]] // [[Durante]]
 
 El deseo de trascender la propia mortalidad dejando algo que continúe hablando por uno mismo cuando ya no esté. No es vanidad, sino la necesidad de que la propia existencia haya significado algo más allá de su duración.
 
