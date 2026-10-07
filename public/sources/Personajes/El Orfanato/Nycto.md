@@ -4,7 +4,7 @@ tags:
 nombre: Nycto
 raza: Humano
 Edad: "15"
-ASIR: "[[Neosis, el soñador de la Plenitud]]"
+ASIR: "[[Noesis, el soñador de la Plenitud]]"
 ---
 
 Características: 

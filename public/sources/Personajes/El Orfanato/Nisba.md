@@ -4,7 +4,7 @@ tags:
 nombre: Nisba
 raza: Genasi de Aire
 Edad: "16"
-ASIR: "[[Neosis, el soñador de la Plenitud]]"
+ASIR: "[[Noesis, el soñador de la Plenitud]]"
 ---
 Características: 
 - Proveniente de Yefra

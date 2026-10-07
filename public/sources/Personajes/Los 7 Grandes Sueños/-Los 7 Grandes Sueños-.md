@@ -46,7 +46,7 @@ El anhelo de experimentar todo lo que la vida y el mundo pueden ofrecer, resisti
 _En la práctica:_ Viajar por el mundo, escalar montañas, sumergirse en culturas desconocidas o llevar el cuerpo a sus límites físicos. 
 Su sombra: la búsqueda constante de lo nuevo puede volverse una huida de la quietud y de uno mismo.
 
-7. El sueño de la Paz Interior y la Plenitud - [[Neosis, el soñador de la Plenitud]] // [[Noos]], [[Nisba]] y  [[Nycto]]
+7. El sueño de la Paz Interior y la Plenitud - [[Noesis, el soñador de la Plenitud]] // [[Noos]], [[Nisba]] y  [[Nycto]]
 
 A menudo este sueño emerge después de haber perseguido —o incluso alcanzado— alguno de los otros seis. Es el descubrimiento de que ninguna conquista externa sustituye el equilibrio interno, y el deseo de vivir libre de ansiedad, conflicto o sufrimiento innecesario.
 

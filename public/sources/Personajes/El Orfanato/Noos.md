@@ -4,7 +4,7 @@ tags:
 nombre: Noos
 raza:
 Edad: "14"
-ASIR: "[[Neosis, el soñador de la Plenitud]]"
+ASIR: "[[Noesis, el soñador de la Plenitud]]"
 ---
 Características: 
 - Proveniente de ???

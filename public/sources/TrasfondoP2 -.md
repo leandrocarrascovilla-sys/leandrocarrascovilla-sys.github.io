@@ -209,3 +209,87 @@ El guardia asintió, sin mostrar ningún interés especial más allá del trámi
 —La mitad de los que cruzan dicen lo mismo —comentó, con el tono aburrido de quien ha repetido el mismo gesto demasiadas veces ese mismo día—. Bienvenido a Zeshor. Procura que tu encargo no te traiga problemas con el Consejo, o vas a desear haberte quedado donde fuera que empezaste..
 
 Cruzó la frontera con el papel sellado todavía en la mano, y el mismo viento cargado de electricidad sutil que llevaba días sintiendo pareció, por un instante, intensificarse a su alrededor, como si la propia tierra de Zeshor hubiera notado, de algún modo, que algo nuevo acababa de cruzar su umbral.
+
+#### Capítulo 4 - Preguntas que nadie quiere responder
+
+La capital de Zeshor se anunció mucho antes de que pudiera verla con claridad: un resplandor difuso en el horizonte, como si alguien hubiera volcado un cuenco de luz líquida sobre la tierra y la hubiera dejado extenderse sin control. Cuando por fin coronó la última colina del camino y la ciudad se desplegó entera ante él, se cubrió un poco más con la capucha y se dejó tragar por las calles.
+
+Pasó los primeros días —si es que seguía teniendo sentido medir el tiempo así— aprendiendo a moverse entre la multitud sin llamar la atención, lo cual resultaba más difícil de lo que había sido anteriormete: aquí la gente miraba dos veces a cualquiera, evaluando con un vistazo rápido qué clase de magia podía llevar encima, qué amenaza o qué oportunidad representaba. Su capa y su silencio, que tan bien le habían servido hasta entonces, aquí apenas levantaban una ceja distraída. En Zeshor, descubrió pronto, lo extraño era la norma.
+
+Eso, al menos, jugaba a su favor.
+
+Empezó por los mercados, donde las lenguas se soltaban con más facilidad si uno sabía cuándo comprar algo y cuándo simplemente escuchar. Preguntó por "magia vieja", por "sueños que se convierten en otra cosa", por cualquier palabra que pudiera acercarlo a una respuesta, con el mismo cuidado con que un pescador prueba distintos cebos sin saber todavía qué especie habita el agua.
+
+—¿Armaduras vivientes? —repitió un vendedor de hierbas, con una risa seca que no tenía nada de amable—. Eso son solo cuentos de taberna, forastero. O algo que no deberías andar preguntando en voz tan alta, según a quién le preguntes.
+
+En una taberna cerca de las torres de magia, un hombre mayor, con más vino encima del que era capaz de sostener con dignidad, le dijo que sí había oído hablar de "los Siete", aunque nunca había visto a ninguno con sus propios ojos.
+
+—Dicen que algunos siguen caminando por ahí —murmuró, bajando la voz como si el propio nombre pudiera invocar algo—. Y dicen también que otros ya no son de fiar. Que perdieron lo que los hacía personas, en algún punto del camino.
+
+Él se quedó con esa frase más tiempo del que habría querido, sopesando si merecía la pena arriesgar la poca confianza que había conseguido ganarse en los últimos minutos.
+
+—¿Y el nombre Qilby? —preguntó, al fin, probando el anzuelo que llevaba grabado en su propio cuello—. ¿Te suena de algo?
+
+El hombre se quedó callado un instante de más, el vaso a medio camino entre la mesa y la boca, como si la pregunta hubiera tardado en terminar de llegarle. Después lo dejó sobre la madera, despacio, y entornó los ojos, de pronto mucho menos borracho de lo que había parecido un segundo antes.
+
+—¿De dónde has sacado tú ese nombre? —preguntó, en voz baja, casi como si temiera que alguien más en la taberna pudiera oírlo—. Esa no es pregunta de borrachos, forastero. Ni de nadie con dos dedos de frente.
+
+No volvió a mirarlo el resto de la noche.
+
+No fue la única reacción de ese tipo. A lo largo de los días siguientes, el nombre funcionó exactamente como había esperado que funcionara: la mayoría se encogía de hombros, sin reconocerlo de nada, pero un puñado —pocos, pero suficientes— cambiaban de expresión en cuanto lo pronunciaba, como si hubiera tocado algo que preferían no tocar. Ninguno llegó a darle una respuesta completa. Todos, sin excepción, encontraron una excusa para terminar la conversación poco después.
+
+Fue esa pauta, más que cualquier respuesta directa, lo que le confirmó que iba por el buen camino.
+
+---
+
+La encontró —o, más exactamente, ella lo encontró a él— en una plazoleta estrecha cerca del distrito de los artesanos, al atardecer del séptimo día, cuando ya empezaba a plantearse que quizás necesitaría un nombre distinto, uno menos capaz de cerrar bocas de golpe.
+
+No la vio llegar. Un segundo estaba cruzando la plaza, calculando mentalmente a qué taberna probar suerte a continuación, y al siguiente una presencia se había plantado directamente en su camino, blanca como el hueso pulido, con una quietud que no tenía nada de casual.
+
+—Así que es cierto —dijo ella, con una voz que sonaba a mando, a alguien acostumbrada a que la escucharan sin necesidad de alzarla—. Llevaba tiempo sin creer los rumores de que ya habías despertado.
+
+Ella lo observó un instante más de lo que parecía necesario, con una atención que no encajaba del todo con la frialdad del resto de su postura, como quien examina algo que no termina de entender por qué le resulta tan interesante.
+
+—No sé de qué hablas —respondió él, aunque algo en su propio pecho —ese eco sin nombre que todavía no sabía interpretar del todo— ya le decía que sí lo sabía, de alguna manera que su mente todavía no alcanzaba.
+
+—[[Noesis, el soñador de la Plenitud]] —dijo, al fin, probando el nombre casi como si quisiera comprobar su propia reacción al pronunciarlo—. Ha pasado tanto tiempo desde que el resto aceptamos lo que éramos. Algunos tardaron un día. Otros, ni eso. Tú llevas despierto el tiempo suficiente para haber cruzado medio continente, y todavía me miras como si no supieras ni tu propio nombre.
+
+—¿Al resto? —repitió él, sin poder evitarlo.
+
+—A los que llegaron tras de mí —respondió ella, ladeando ligeramente la cabeza, como si la pregunta le resultara casi divertida—. Yo fui la primera, si te interesa saberlo. Soy [[Imperia, la soñadora del Poder]]. Y somos siete, contándote a ti. Los seis restantes llevan más tiempo que tú sabiendo exactamente qué son y a quién responden — tú eres el único que todavía está empezando a entenderlo.
+
+—¿O preferís que os llame...?
+
+Se detuvo a media frase. Por un instante, algo cruzó la línea estrecha de luz tras su yelmo, algo que no llegó a convertirse del todo en palabra, y él habría jurado —sin poder demostrarlo, sin poder explicar por qué estaba tan seguro— que había estado a punto de decir otro nombre. Varios nombres, quizás. Pronunciados en plural.
+
+—Da igual —dijo ella, recomponiéndose con una frialdad que pareció costarle más de lo que mostraba—. Vienes conmigo. Órdenes son órdenes, y esta vez no pienso discutirlas.
+
+—No voy a ir a ningún sitio solo porque alguien me suelte un nombre y una orden en la misma frase —respondió él, dando un paso atrás, calculando ya las salidas de la plazoleta con la misma frialdad táctica que su cuerpo parecía llevar incorporada de serie.
+
+Ella no se molestó en responder con palabras. Atacó.
+
+---
+
+No hubo tiempo de pensar, solo de reaccionar. Esquivó el primer golpe por puro instinto, el mismo instinto que lo había salvado meses atrás frente a la criatura de demasiadas patas, pero esta vez el adversario no era una bestia torpe guiada por el hambre: era precisión pura, cada movimiento calculado con una economía que no dejaba ningún hueco libre para el error.
+
+Resistió más de lo que ella parecía esperar —lo notó en la forma en que, tras los primeros intercambios, algo en su postura se tensó con un deje de sorpresa genuina—, pero no fue suficiente. Un giro de muñeca que no vio venir hasta que ya era demasiado tarde conectó de lleno contra su costado, y el impacto se sintió distinto a cualquier dolor que recordara haber sentido antes: no solo el golpe en sí, sino algo más profundo, un chirrido metálico seco que supo, sin necesidad de mirar, que no auguraba nada bueno. Trastabilló contra la pared de un edificio cercano, con una grieta abriéndose en el costado de su propia armadura, justo bajo las costillas, dejando entrever, por primera vez, su oscuro interior.
+
+—Todavía puedo hacer esto sin que te duela más de lo necesario —dijo ella, acercándose con la calma de quien ya ha ganado el combate y solo espera que el otro termine de aceptarlo—. No tienes ni idea de en qué te has convertido, ni de lo que te espera si sigues solo. Ven conmigo. Es lo único razonable.
+
+El dolor en el costado le dio, paradójicamente, la claridad que necesitaba. No para pensar en una estrategia elaborada —no había tiempo para eso—, sino para hacer la única cosa que se le ocurrió con la poca ventaja que le quedaba: con un movimiento brusco, desesperado, tiró de un andamio de madera apoyado contra la pared más cercana, haciéndolo caer entre los dos con un estruendo que resonó por toda la plazoleta.
+
+Ella reaccionó —apenas un instante, lo justo para apartarse de los maderos que se desplomaban—, pero ese instante fue todo lo que él necesitó. Echó a correr, ignorando el dolor que le atravesaba el costado con cada zancada, metiéndose por el primer callejón que encontró sin plan alguno más allá de poner distancia.
+
+El estruendo del andamio no había pasado desapercibido. Voces empezaron a alzarse en la plaza a su espalda —gritos de sorpresa, alguien pidiendo la guardia a voces—, y por el rabillo del ojo, antes de perder la plaza de vista del todo, alcanzó a ver a la figura deteniéndose, calculando, decidiendo en una fracción de segundo que un enfrentamiento abierto frente a la guardia de Zeshor no era un riesgo que le compensara asumir.
+
+No lo siguió. O, si lo hizo, él corrió lo suficientemente rápido, lo suficientemente errático entre callejones que no reconocía, como para que la distancia terminara por tragarse cualquier rastro que pudiera seguir.
+
+---
+
+Se dejó caer, por fin, en un rincón estrecho entre dos edificios tan próximos entre sí que apenas dejaban pasar un hilo de la última luz del atardecer, con el costado palpitando de un dolor sordo que no terminaba de remitir. Se llevó una mano a la grieta de la armadura, sintiendo bajo los dedos los bordes irregulares del metal partido, y por primera vez desde que había despertado entre las ruinas, sintió algo que se parecía mucho, mucho, al miedo real: no el miedo abstracto de no saber quién era, sino el miedo concreto y físico de que aquel cuerpo, lo único que tenía, pudiera fallarle de verdad.
+
+No tenía a quién acudir. No conocía sanadores, no conocía herreros capaces de entender un material como el suyo, no conocía a nadie en toda aquella ciudad de luces azuladas que no acabara de intentar matarlo o capturarlo en la última hora.
+
+Fue entonces, con la respiración —si es que seguía siendo respiración lo que hacía— todavía entrecortada por el esfuerzo, cuando escuchó unos pasos pequeños y decididos deteniéndose en la entrada del callejón.
+
+—Vaya, vaya —dijo una voz aguda, con una curiosidad que no tenía ni rastro de miedo, examinándolo de arriba abajo con el mismo interés con el que alguien evaluaría una pieza de maquinaria estropeada caída del cielo—. Eso que tienes ahí en el costado no tiene buena pinta. Pero que nada de buena pinta, la verdad.
