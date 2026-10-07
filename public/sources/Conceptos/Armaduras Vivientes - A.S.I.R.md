@@ -1,7 +1,4 @@
 
-///En proceso///
-
-
 ## El Principio A.S.I.R.
 
 El Principio A.S.I.R. es el fundamento de los **7 Grandes Sueños**: cada Armadura Viviente nace de uno de los siete tipos de Sueño reconocidos —Poder, Libertad, Conocimiento, Legado, Aventura, Amor y Plenitud—, y las cuatro fuerzas que lo sostienen son:
