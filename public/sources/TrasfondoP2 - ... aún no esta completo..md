@@ -120,7 +120,7 @@ Echó a andar.
 
 Detrás de él, las ruinas se quedaron solas otra vez, aferradas a un silencio que llevaba ya demasiado tiempo sin que nadie lo interrumpiera. Fuera lo que fuese lo que aquel lugar había sido, ya solo él lo llevaba consigo, sin saberlo, en cada paso que daba lejos de allí.
 
-#### Capítulo 2 - El mundo le enseña.
+#### Capítulo 2 - Un nuevo mundo que descubrir.
 
 El bosque que se extendía más allá de las ruinas no tenía prisa por revelarle nada, y él, sin ningún motivo concreto para tenerla tampoco, se dejó llevar por ese mismo ritmo.
 

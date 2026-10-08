@@ -1,3 +1,11 @@
+---
+tags:
+  - Los7GrandesSueños
+nombre: Cordheia
+Edad: ???
+raza: A.S.I.R
+Niño: "[[Gisela]]"
+---
 
 
 

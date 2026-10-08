@@ -1,3 +1,11 @@
+---
+tags:
+  - Los7GrandesSueños
+nombre: Lyra
+Edad: ???
+raza: A.S.I.R
+Niño: "[[Vega]]"
+---
 
 
 ### Imagen

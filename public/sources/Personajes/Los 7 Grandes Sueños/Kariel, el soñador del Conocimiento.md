@@ -1,4 +1,11 @@
-
+---
+tags:
+  - Los7GrandesSueños
+nombre: Kariel
+Edad: ???
+raza: A.S.I.R
+Niño: "[[Kanon]]"
+---
 
 ### Imagen
 

@@ -1,3 +1,11 @@
+---
+tags:
+  - Los7GrandesSueños
+nombre: Valtheon
+Edad: " ???"
+raza: A.S.I.R
+Niño: "[[Durante]]"
+---
 
 ### Imagen
 

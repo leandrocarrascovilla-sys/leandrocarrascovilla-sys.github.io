@@ -1,6 +1,11 @@
-
-
-
+---
+tags:
+  - Los7GrandesSueños
+nombre: Zéfiro
+Edad: " ???"
+raza: A.S.I.R
+Niño: "[[Eizen]]"
+---
 
 
 ### Imagen

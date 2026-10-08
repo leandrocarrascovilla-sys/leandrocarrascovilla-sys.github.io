@@ -1,10 +1,11 @@
-
-
-
-
-
-
-
+---
+tags:
+  - Los7GrandesSueños
+nombre: Vexilia
+Edad: " ???"
+raza: A.S.I.R
+Niño: "[[Valery]]"
+---
 
 ### Imagen
 
