@@ -1,7 +1,0 @@
-
-
-
-
-### Imagen
-
-![[Isolda.jpg]]

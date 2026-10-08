@@ -4,7 +4,7 @@ tags:
 nombre: Gisela
 raza: Aasimar
 Edad: "17"
-ASIR: "[[Isolda, la soñadora del Amor]]"
+ASIR: "[[Cordheia, la soñadora del Amor]]"
 ---
 Características: 
 - Proveniente de ??? 

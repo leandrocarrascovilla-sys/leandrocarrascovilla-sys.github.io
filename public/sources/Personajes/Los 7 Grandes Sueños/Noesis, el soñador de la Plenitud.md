@@ -11,8 +11,10 @@ Para el sueño de la Plenitud, se junto a los siguientes sujetos:
 
 
 
-==> Tras ser liberado, se le dejo vagar por el mundo para que descubriera por el mismo que es ser el mismo.
-
 ### Imagen
 
 ![[Neosis.png]]
+
+### Origen del Nombre
+
+* *Tener en cuenta la información en [[N.N.N]] y [[Su Nombre]].

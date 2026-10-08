@@ -4,7 +4,7 @@ Cada Asir esta dirigido a un tipo de idea o concepto. Por ejemplo, a un individu
 
 //*Soñadores:*
 
-1. El sueño del Amor y la Conexión Profunda - [[Isolda, la soñadora del Amor]] // [[Gisela]]
+1. El sueño del Amor y la Conexión Profunda - [[Cordheia, la soñadora del Amor]] // [[Gisela]]
 
 Más allá del romance, este sueño abarca la necesidad humana de no atravesar la existencia en soledad. Es el deseo de ser visto, comprendido y aceptado tal como se es, y de ofrecer esa misma aceptación a otros sin condiciones.
 
