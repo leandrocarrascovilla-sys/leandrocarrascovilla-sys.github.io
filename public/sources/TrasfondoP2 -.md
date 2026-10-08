@@ -256,7 +256,7 @@ Ella lo observó un instante más de lo que parecía necesario, con una atenció
 
 —¿Al resto? —repitió él, sin poder evitarlo.
 
-—A los que llegaron tras de mí —respondió ella, ladeando ligeramente la cabeza, como si la pregunta le resultara casi divertida—. Yo fui la primera, si te interesa saberlo. Soy [[Imperia, la soñadora del Poder]]. Y somos siete, contándote a ti. Los seis restantes llevan más tiempo que tú sabiendo exactamente qué son y a quién responden — tú eres el único que todavía está empezando a entenderlo.
+—A los que llegaron tras de mí —respondió ella, ladeando ligeramente la cabeza, como si la pregunta le resultara casi divertida—. Yo fui la primera, si te interesa saberlo. Soy [[Vexilia, la soñadora del Poder]]. Y somos siete, contándote a ti. Los seis restantes llevan más tiempo que tú sabiendo exactamente qué son y a quién responden — tú eres el único que todavía está empezando a entenderlo.
 
 —¿O preferís que os llame...?
 
