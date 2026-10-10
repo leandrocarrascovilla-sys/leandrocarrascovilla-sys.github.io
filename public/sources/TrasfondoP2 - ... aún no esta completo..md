@@ -1,7 +1,7 @@
 
 #### Capítulo 0 - Tres voces en la misma oscuridad.
 
-No había ningún lugar. Eso fue lo primero que entendieron los tres, cada uno a su manera, en cuanto la luz que los había envuelto en el pedestal terminó de apagarse: que ya no había un "dónde" al que volver. Solo oscuridad, y dentro de ella, tres voces que reconocían perfectamente, aunque ya no tuvieran cuerpos con los que pronunciarlas.
+No había ningún lugar. Eso fue lo primero que entendieron los tres, cada uno a su manera, en cuanto la luz que los había envuelto en el pedestal terminó de apagarse: que ya no había un "dónde" al que volver. Solo oscuridad, y dentro de ella, tres voces que se reconocían perfectamente, aunque ya no tuvieran cuerpos con los que pronunciarlas.
 
 —¿Seguimos vivos? —preguntó [[Nisba]], primero, en un susurro que no necesitaba pulmones para existir—. Porque esto no se parece a nada de lo que había imaginado.
 
@@ -23,7 +23,7 @@ Nadie respondió enseguida. La pregunta se quedó flotando entre los tres, tan r
 
 —¿Resistirnos a qué? —preguntó [[Nisba]].
 
-—A dejar de ser tres —respondió él, con la misma calma con la que años atrás había señalado la ubicación exacta de una trampilla en la oscuridad—. Creo que, si queremos llegar a ser algo del otro lado de esto, no podemos seguir siendo Nycto, y Nisba, y Noos, hablando cada uno por su lado. Tenemos que convertirnos en otra cosa. Del todo.
+—A dejar de ser tres —respondió él, con la misma calma que le caracterizaba—. Creo que, si queremos llegar a ser algo del otro lado de esto, no podemos seguir siendo Nycto,  Nisba, y Noos, hablando cada uno por su lado. Tenemos que convertirnos en otra cosa. Del todo.
 
 ---
 
@@ -162,13 +162,13 @@ El silencio que siguió se sintió distinto a cualquiera de los que había atrav
 
 —No estoy del todo seguro —admitió él, con una sinceridad que las semanas de soledad parecían haberle enseñado a sostener sin incomodidad—. Pero puedes llamarme Qilby, si necesitas un nombre para contar lo que ha pasado aquí.
 
-El niño, más valiente o más curioso que su madre, se asomó desde detrás de su falda para mirarlo con los ojos muy abiertos.
+El niño, más valiente o más curioso que ella, se asomó desde detrás de su falda para mirarlo con los ojos muy abiertos.
 
 —Gracias por salvarnos —dijo, con una seriedad solemne que no encajaba del todo con su tamaño—. ¿Vienes del bosque?
 
 —Vengo de bastante más lejos que el bosque, creo —respondió, y descubrió, al decirlo, que era la primera vez que lograba resumir tantas semanas de camino en una sola frase sin que le pesara del todo—. Aunque no sabría decirte con exactitud de dónde.
 
-Le ofrecieron, antes de dejarlo marchar, la dirección exacta del pueblo más cercano, y algo mucho más valioso, aunque ninguno de los dos pareciera consciente de su verdadero peso: la sugerencia de que allí encontraría gente que sabía de esas cosas, de armaduras que caminaban solas, de magia vieja que no debería seguir despierta después de tanto tiempo.
+Le ofrecieron, antes de dejarlo marchar, la dirección exacta del pueblo más cercano, y algo mucho más valioso, aunque ninguno de los dos pareciera consciente de su verdadero peso: la sugerencia de que allí encontraría gente que sabía de esas cosas extrañas, y la posibilidad de conseguir un arma.
 
 —Gracias —dijo él, y lo dijo en serio, sorprendido de cuánto pesaba una simple palabra de agradecimiento cuando ya no tenía semanas enteras de silencio con las que compararla.
 
@@ -178,13 +178,13 @@ Emprendió el camino hacia el pueblo con el bosque quedando atrás, poco a poco,
 
 Había aprendido, con el paso de los meses, que los recuerdos nuevos tenían una textura distinta a la de las sensaciones sin nombre con las que había despertado. Estos sí tenían rostro, voz, un principio y un final que podía recorrer cuando quisiera, como quien hojea un libro ya leído.
 
-El pueblo del jabalí en el cartel había sido el primero de esos recuerdos enteros, y seguía siendo, casi un año después, uno de los más claros. Recordaba la desconfianza del herrero, que con el tiempo había terminado por convertirse en algo parecido a un respeto áspero, nunca declarado en voz alta pero tampoco necesitado de palabras. Recordaba a la niña tendiéndole aquella primera capa oscura, con una practicidad que escondía más cuidado del que ella misma habría admitido. Recordaba el molino, las luces que no deberían haber estado encendidas, y lo que había encontrado allí dentro: no un monstruo, como medio pueblo había temido, sino un grupo de fugitivos escondidos, aterrados, que habían confundido cualquier visita nocturna con la llegada de quienes los perseguían. Recordaba haber encontrado con vida a la prima..
+El pueblo del dragón en el cartel había sido el primero de esos recuerdos enteros, y seguía siendo, casi un año después, uno de los más claros. Recordaba la desconfianza del herrero, que con el tiempo había terminado por convertirse en algo parecido a un respeto áspero, nunca declarado en voz alta pero tampoco necesitado de palabras. Recordaba a la niña tendiéndole aquella primera capa oscura, con una practicidad que escondía más cuidado del que ella misma habría admitido. Recordaba el molino, las luces que no deberían haber estado encendidas, y lo que había encontrado allí dentro: no un monstruo, como medio pueblo había temido, sino un grupo de fugitivos escondidos, aterrados, que habían confundido cualquier visita nocturna con la llegada de quienes los perseguían. Recordaba haber conseguido el objetivo del encargo.
 
 Después del molino habían venido otros encargos, en otros pueblos, con otros nombres que ya se mezclaban un poco entre sí en su memoria: ganado protegido, caminos despejados de amenazas menores, un par de disputas resueltas más con paciencia que con fuerza. Cada uno le había dejado algo —una palabra nueva para nombrar el mundo, una pista más sobre sí mismo, la confirmación repetida de que la capa oscura seguía siendo, la mayoría de las veces, más útil que su propia honestidad a la hora de cruzar una puerta nueva—, pero ninguno había respondido la pregunta que lo había hecho ponerse en marcha aquella primera mañana entre las ruinas: quién había sido antes de ser esto.
 
 Fue en una posada de postas, en algún pueblo cuyo nombre ya no recordaba con precisión, donde escuchó por primera vez hablar de Zeshor.
 
-—Si de verdad buscas respuestas sobre magia vieja, sobre sueños que se convierten en otra cosa, no las vas a encontrar en Athington —le había dicho un comerciante, con la lengua suelta por el vino y la codicia de quien espera cobrar la información de algún modo—. En Zeshor es donde se estudian al gran mayoría de artes magicas. Si existe alguien en este mundo capaz de dar respuesta a tu pregunta, es allí.
+—Si de verdad buscas respuestas sobre magia antigua, no las vas a encontrar en Athington —le había dicho un comerciante, con la lengua suelta por el vino y la codicia de quien espera cobrar la información de algún modo—. En Zeshor es donde se estudian al gran mayoría de artes magicas. Si existe alguien en este mundo capaz de dar respuesta a tu pregunta, es allí.
 
 No había necesitado más que esa frase para decidir su siguiente destino.
 
@@ -194,7 +194,7 @@ Los últimos pueblos de Athington quedaron atrás varios días antes de que el p
 
 El puesto fronterizo apareció al cuarto día: una estructura de piedra gris flanqueada por dos torres bajas, con un estandarte que no reconocía ondeando perezosamente sobre la puerta, y una fila de carromatos y viajeros esperando turno para cruzar, vigilados por guardias cuyo uniforme no se parecía a nada que hubiera visto en Athington.
 
-Se detuvo a cierta distancia, observando el movimiento de la fila con la misma cautela calculada que había aprendido a aplicar a cada situación nueva. La capucha, echada hacia delante, ocultaba lo suficiente de su rostro —si es que podía llamarse rostro a la ausencia pulida que tenía bajo el yelmo— como para pasar, a primera vista, por un viajero más entre tantos, envuelto en ropajes gruesos contra el frío de una tierra que ya no era la suya.
+Se detuvo a cierta distancia, observando el movimiento de la fila con la misma cautela calculada que había aprendido a aplicar a cada situación nueva. La capucha, echada hacia delante, ocultaba lo suficiente de su rostro —si es que podía llamarse rostro a la ausencia pulida que tenía bajo el yelmo— como para pasar, a primera vista, por un viajero más entre tantos, envuelto en ropajes gruesos contra el frío de una tierra que ya no era la de antes.
 
 Un guardia, al verlo acercarse, le hizo un gesto brusco para que se uniera a la fila sin mediar más palabras. No hubo gritos, ni espadas desenvainadas, solo la rutina aburrida de una frontera que había visto pasar, sin duda, cosas mucho más extrañas que un viajero encapuchado y silencioso.
 
@@ -206,7 +206,7 @@ Había aprendido, mucho antes de llegar a aquella frontera, que la verdad comple
 
 El guardia asintió, sin mostrar ningún interés especial más allá del trámite, y estampó un sello sobre un papel que le tendió sin más ceremonia.
 
-—La mitad de los que cruzan dicen lo mismo —comentó, con el tono aburrido de quien ha repetido el mismo gesto demasiadas veces ese mismo día—. Bienvenido a Zeshor. Procura que tu encargo no te traiga problemas con el Consejo, o vas a desear haberte quedado donde fuera que empezaste..
+—La mitad de los que cruzan dicen lo mismo —comentó, con el tono aburrido de quien ha repetido el mismo gesto demasiadas veces ese mismo día—. Bienvenido a Zeshor. Procura que tu encargo no te traiga problemas con el Consejo, o vas a desear haberte quedado donde fuera que empezaste.
 
 Cruzó la frontera con el papel sellado todavía en la mano, y el mismo viento cargado de electricidad sutil que llevaba días sintiendo pareció, por un instante, intensificarse a su alrededor, como si la propia tierra de Zeshor hubiera notado, de algún modo, que algo nuevo acababa de cruzar su umbral.
 
@@ -218,7 +218,7 @@ Pasó los primeros días —si es que seguía teniendo sentido medir el tiempo a
 
 Eso, al menos, jugaba a su favor.
 
-Empezó por los mercados, donde las lenguas se soltaban con más facilidad si uno sabía cuándo comprar algo y cuándo simplemente escuchar. Preguntó por "magia vieja", por "sueños que se convierten en otra cosa", por cualquier palabra que pudiera acercarlo a una respuesta, con el mismo cuidado con que un pescador prueba distintos cebos sin saber todavía qué especie habita el agua.
+Empezó por los mercados, donde las lenguas se soltaban con más facilidad si uno sabía cuándo comprar algo y cuándo simplemente escuchar. Preguntó por "magia antigua", por "armaduras vivientes", por cualquier palabra que pudiera acercarlo a una respuesta, con el mismo cuidado con que un pescador prueba distintos cebos sin saber todavía qué especie habita el agua.
 
 —¿Armaduras vivientes? —repitió un vendedor de hierbas, con una risa seca que no tenía nada de amable—. Eso son solo cuentos de taberna, forastero. O algo que no deberías andar preguntando en voz tan alta, según a quién le preguntes.
 
@@ -244,7 +244,7 @@ Fue esa pauta, más que cualquier respuesta directa, lo que le confirmó que iba
 
 La encontró —o, más exactamente, ella lo encontró a él— en una plazoleta estrecha cerca del distrito de los artesanos, al atardecer del séptimo día, cuando ya empezaba a plantearse que quizás necesitaría un nombre distinto, uno menos capaz de cerrar bocas de golpe.
 
-No la vio llegar. Un segundo estaba cruzando la plaza, calculando mentalmente a qué taberna probar suerte a continuación, y al siguiente una presencia se había plantado directamente en su camino, blanca como el hueso pulido, con una quietud que no tenía nada de casual.
+No la vio llegar. Un segundo estaba cruzando la plaza, calculando mentalmente a qué taberna probar suerte a continuación, y al siguiente una presencia se había plantado directamente en su camino, negra como la obsidiana pulida, con una quietud que no tenía nada de casual.
 
 —Así que es cierto —dijo ella, con una voz que sonaba a mando, a alguien acostumbrada a que la escucharan sin necesidad de alzarla—. Llevaba tiempo sin creer los rumores de que ya habías despertado.
 
@@ -256,7 +256,7 @@ Ella lo observó un instante más de lo que parecía necesario, con una atenció
 
 —¿Al resto? —repitió él, sin poder evitarlo.
 
-—A los que llegaron tras de mí —respondió ella, ladeando ligeramente la cabeza, como si la pregunta le resultara casi divertida—. Yo fui la primera, si te interesa saberlo. Soy [[Vexilia, la soñadora del Poder]]. Y somos siete, contándote a ti. Los seis restantes llevan más tiempo que tú sabiendo exactamente qué son y a quién responden — tú eres el único que todavía está empezando a entenderlo.
+—A los que llegaron tras de mí —respondió ella, ladeando ligeramente la cabeza, como si la pregunta le resultara casi divertida—. Yo fui la segunda, si te interesa saberlo. Soy [[Vexilia, la soñadora del Poder]]. Y somos siete, contándote a ti. Los seis restantes llevan más tiempo que tú sabiendo exactamente qué son y a quién responden — tú eres el único que todavía está empezando a entenderlo.
 
 —¿O preferís que os llame...?
 
@@ -270,7 +270,7 @@ Ella no se molestó en responder con palabras. Atacó.
 
 ---
 
-No hubo tiempo de pensar, solo de reaccionar. Esquivó el primer golpe por puro instinto, el mismo instinto que lo había salvado meses atrás frente a la criatura de demasiadas patas, pero esta vez el adversario no era una bestia torpe guiada por el hambre: era precisión pura, cada movimiento calculado con una economía que no dejaba ningún hueco libre para el error.
+No hubo tiempo de pensar, solo de reaccionar. Esquivó el primer golpe por puro instinto, el mismo instinto que lo había salvado meses atrás, pero esta vez el adversario no era una bestia torpe guiada por el hambre: era precisión pura, cada movimiento calculado con una economía que no dejaba ningún hueco libre para el error.
 
 Resistió más de lo que ella parecía esperar —lo notó en la forma en que, tras los primeros intercambios, algo en su postura se tensó con un deje de sorpresa genuina—, pero no fue suficiente. Un giro de muñeca que no vio venir hasta que ya era demasiado tarde conectó de lleno contra su costado, y el impacto se sintió distinto a cualquier dolor que recordara haber sentido antes: no solo el golpe en sí, sino algo más profundo, un chirrido metálico seco que supo, sin necesidad de mirar, que no auguraba nada bueno. Trastabilló contra la pared de un edificio cercano, con una grieta abriéndose en el costado de su propia armadura, justo bajo las costillas, dejando entrever, por primera vez, su oscuro interior.
 
@@ -292,4 +292,58 @@ No tenía a quién acudir. No conocía sanadores, no conocía herreros capaces d
 
 Fue entonces, con la respiración —si es que seguía siendo respiración lo que hacía— todavía entrecortada por el esfuerzo, cuando escuchó unos pasos pequeños y decididos deteniéndose en la entrada del callejón.
 
-—Vaya, vaya —dijo una voz aguda, con una curiosidad que no tenía ni rastro de miedo, examinándolo de arriba abajo con el mismo interés con el que alguien evaluaría una pieza de maquinaria estropeada caída del cielo—. Eso que tienes ahí en el costado no tiene buena pinta. Pero que nada de buena pinta, la verdad.
+—¡Oh! ¡Oh, oh, no te muevas! ¡Que no te muevas, he dicho!
+
+La voz era aguda, entusiasmada, completamente fuera de lugar en un rincón donde, hasta hacía un instante, lo único que sonaba era su propio metal quejándose. Alzó la cabeza y vio, recortada contra la luz mortecina de la calle, una figura que le llegaba, como mucho, a la altura de la cintura: un gnomo de aspecto muy joven,con unas gafas de cristales enormes subidas a la frente y una bolsa de herramientas casi más grande que su dueño.
+
+No parecía asustado. Ni un poco. Parecía, más bien, alguien a quien le acabaran de regalar el mejor día de su vida.
+
+—Es que no me lo puedo creer —siguió, acercándose a pasitos rápidos y deteniéndose a un palmo de la grieta de su costado, con las manos pegadas al pecho como quien se contiene para no tocar algo valioso—. Una armadura mágica. ¡Ahí, a la vista! Con el pulso irregular, además, y ese flujo de magia que se te escapa por la rotura... Eso no se ve nunca. Ni en los libros más... Perdona. Perdona, es que me emociono. Hola. ¿Te duele? Seguro que te duele. A mí me dolería. Bueno, a mí me dolería si fuera tú, que no sé si lo eres, pero...
+
+—Aléjate —logró decir él, y la palabra salió más débil de lo que pretendía—. No sé quién eres.
+
+—¡Willot! —respondió el gnomo, sin ofenderse lo más mínimo, y se llevó una mano al pecho con una solemnidad algo desmentida por las manchas de aceite que le cubrían los dedos—. Willot Saltamusgos. Artificiero. Bueno, más o menos, pero mi abuelo dicen que eso es cuestión de tiempo y de que deje de desmontar cosas que no debo. Mi familia tiene un sitio en el Consejo, por si te preocupa que sea un cualquiera. Y un torre que no te creerías. ¿Y tú?
+
+Dudó. Durante siete días, su nombre había cerrado bocas, endurecido rostros, apagado conversaciones a medias. Y esa misma tarde había comprobado lo que podía ocurrirle a quien lo llevaba grabado en el cuello.
+
+—Prefiero no decírtelo todavía —dijo, al fin.
+
+Esperaba una insistencia, una sospecha, algún gesto de retirada. Willot parpadeó tras sus gafas y, en lugar de eso, su sonrisa se ensanchó todavía más.
+
+—¡Perfecto! Un misterio. Me encantan los misterios. Entonces serás "el paciente" hasta que decidas fiarte de mí, y no hay prisa, que los nombres, como los buenos datos, se dan cuando uno quiere. —Se interrumpió un segundo, ladeando la cabeza hacia el fondo de la calle, de donde llegaban cada vez más cerca silbatos y el golpeteo rítmico de botas sobre piedra—. Aunque, pensándolo bien, sí hay un poco de prisa. Eso es la guardia, ¿verdad? Por el estruendo del andamio. Vienen para acá.
+
+—Entonces vete —dijo él—. No quiero que te vean conmigo.
+
+—Ni hablar. —Willot ya estaba hurgando en su bolsa, de la que sacó un pequeño artefacto de latón con patas plegables que se desplegó con un chasquido y se colocó solo bajo el brazo de él, como un diminuto soporte con voluntad propia—. Mira, te lo voy a explicar todo, porque creo que es lo justo cuando alguien está tan abierto como tú: ahora mismo no tengo ni idea de qué eres. No hay nada igual en los libros, y eso que me los he leído casi todos, los que me han dejado. Pero sé lo que ven mis ojos: una estructura rota, un contenedor que sigue latiendo y un montón de piezas que quieren volver a su sitio. Y eso sí sé arreglarlo. O intentarlo, que ya es más de lo que va a hacer nadie más en esta ciudad por ti. Mi taller está a tres calles, con un atajo por el que la guardia no pasa. Voy a llevarte allí, voy a ponerme a trabajar y, si en algún momento me dices que pare, paro. Palabra de SaltaMusgos. Que no es poco, créeme.
+
+Había algo, en la forma de decirlo, que rozó una parte que no sabía que tenía: un rechazo instintivo, antiguo, a que alguien más decidiera por él aunque fuera para salvarlo. Abrió la boca para protestar, y no encontró de dónde venía la protesta.
+
+Willot pareció notarlo, o notar algo. Se detuvo con una herramienta a medio sacar y, por primera vez desde que había aparecido, habló sin prisa.
+
+—¿Prefieres que te pregunte antes de cada cosa? —dijo—. Puedo. Me costará, porque hablo mucho, pero puedo.
+
+—Sí —respondió él, y la palabra le salió más firme que ninguna de las anteriores—. Quiero saber qué haces antes de que lo hagas.
+
+—¡Hecho! —El gnomo asintió con tanta energía que se le resbalaron las gafas hasta la nariz—. Primera pregunta, entonces, y es muy sencilla: ¿puedes ponerte de pie si te ayudo, o llamo a mi grúa?
+
+—¿Tu grúa?
+
+—Es pequeña, pero tiene carácter.
+
+Se apoyó con una mano en el artefacto de latón, que crujió bajo su peso pero aguantó, y se incorporó, con el costado ardiendo y la pierna protestando a cada paso. Los silbatos ya sonaban en la esquina de la calle cuando Willot, con una agilidad sorprendente para alguien con una bolsa de ese tamaño, levantó una tapa de hierro medio oculta tras unos barriles, una trampilla estrecha que olía a aceite y a metal caliente, y se la señaló con un gesto grandioso.
+
+—Después de ti. O, bueno, de mí, que sé dónde pisar. Tú sígueme y procura no hacer ruido, aunque dudo que se pueda, con eso que traes puesto.
+
+Bajó tras él, peldaño a peldaño, dejando atrás la calle, la plaza, la figura oscura que lo había derrotado y todas las preguntas sin respuesta que lo habían llevado hasta allí. La trampilla se cerró sobre ellos, y el ruido de la guardia quedó reducido a un rumor lejano.
+
+El túnel era estrecho y olía a aceite. Durante un buen trecho, la voz de Willot lo llenó todo: datos sobre aleaciones, una anécdota sobre un miembro del consejo que había perdido una ceja, una advertencia sobre un escalón roto. El caminaba detrás, apoyado en la grúa de latón, escuchando sin responder, hasta que una pregunta que llevaba rato dándole vueltas terminó por salirle sola.
+
+—¿Por qué haces esto? Ni siquiera me conoces.
+
+Willot dejó de hablar. Fue tan repentino que tardó un momento en darse cuenta de que el silencio también era una respuesta. Las gafas del gnomo, bajadas ahora sobre los ojos, reflejaron la luz de una lámpara colgada del techo, y por primera vez desde que lo había visto, su sonrisa no estaba del todo en su sitio.
+
+—Porque me fijo en ti por una razón —dijo, sin volverse—. Mi padre intentó hacer algo parecido a ti.
+
+No añadió nada más. No dijo si lo consiguió, ni qué fue de ello, ni por qué lo dijo en pasado. Aceleró un poco el paso, y su voz, cuando volvió a sonar, había recuperado casi toda su alegría, aunque no del todo, y no hasta que doblaron la esquina y el túnel se abrió a una escalera de caracol que subía, entre luces cálidas y el tintineo de mil piezas pequeñas, hacia un taller.
+
+Qilby lo siguió. Comprendió, con cierta sorpresa, que llevaba varios minutos sin sentir miedo. Y comprendió también, sin poder explicar por qué, que quizás aquel gnomo cargaba con algo más pesado de lo que dejaba ver.
