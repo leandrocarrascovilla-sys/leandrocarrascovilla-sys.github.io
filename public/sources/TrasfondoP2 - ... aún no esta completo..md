@@ -172,7 +172,7 @@ Le ofrecieron, antes de dejarlo marchar, la dirección exacta del pueblo más ce
 
 —Gracias —dijo él, y lo dijo en serio, sorprendido de cuánto pesaba una simple palabra de agradecimiento cuando ya no tenía semanas enteras de silencio con las que compararla.
 
-Emprendió el camino hacia el pueblo con el bosque quedando atrás, poco a poco, convertido ya en el primer hogar temporal —silencioso, indiferente, pero suyo— que había conocido desde que había abierto los ojos. Y por primera vez desde entonces, caminó sabiendo que se dirigía hacia algún sitio en concreto, y no simplemente lejos de otro.
+Emprendió el camino hacia el pueblo con el bosque quedando atrás, poco a poco, convertido ya en el primer hogar temporal —silencioso, indiferente, pero suyo— que había conocido desde que había despertado. Y por primera vez desde entonces, caminó sabiendo que se dirigía hacia algún sitio en concreto, y no simplemente lejos de otro.
 
 #### Capítulo 3 - El camino hacia el país de la magia.
 
@@ -184,7 +184,7 @@ Después del molino habían venido otros encargos, en otros pueblos, con otros n
 
 Fue en una posada de postas, en algún pueblo cuyo nombre ya no recordaba con precisión, donde escuchó por primera vez hablar de Zeshor.
 
-—Si de verdad buscas respuestas sobre magia antigua, no las vas a encontrar en Athington —le había dicho un comerciante, con la lengua suelta por el vino y la codicia de quien espera cobrar la información de algún modo—. En Zeshor es donde se estudian al gran mayoría de artes magicas. Si existe alguien en este mundo capaz de dar respuesta a tu pregunta, es allí.
+—Si de verdad buscas respuestas sobre magia antigua, no las vas a encontrar en Athington —le había dicho un comerciante, con la lengua suelta por el vino y la codicia de quien espera cobrar la información de algún modo—. En Zeshor es donde se estudia la gran mayoría de las artes mágicas. Si existe alguien en este mundo capaz de dar respuesta a tu pregunta, es allí.
 
 No había necesitado más que esa frase para decidir su siguiente destino.
 
@@ -214,7 +214,7 @@ Cruzó la frontera con el papel sellado todavía en la mano, y el mismo viento c
 
 La capital de Zeshor se anunció mucho antes de que pudiera verla con claridad: un resplandor difuso en el horizonte, como si alguien hubiera volcado un cuenco de luz líquida sobre la tierra y la hubiera dejado extenderse sin control. Cuando por fin coronó la última colina del camino y la ciudad se desplegó entera ante él, se cubrió un poco más con la capucha y se dejó tragar por las calles.
 
-Pasó los primeros días —si es que seguía teniendo sentido medir el tiempo así— aprendiendo a moverse entre la multitud sin llamar la atención, lo cual resultaba más difícil de lo que había sido anteriormete: aquí la gente miraba dos veces a cualquiera, evaluando con un vistazo rápido qué clase de magia podía llevar encima, qué amenaza o qué oportunidad representaba. Su capa y su silencio, que tan bien le habían servido hasta entonces, aquí apenas levantaban una ceja distraída. En Zeshor, descubrió pronto, lo extraño era la norma.
+Pasó los primeros días —si es que seguía teniendo sentido medir el tiempo así— aprendiendo a moverse entre la multitud sin llamar la atención, lo cual resultaba más difícil de lo que había sido anteriormente: aquí la gente miraba dos veces a cualquiera, evaluando con un vistazo rápido qué clase de magia podía llevar encima, qué amenaza o qué oportunidad representaba. Su capa y su silencio, que tan bien le habían servido hasta entonces, aquí apenas levantaban una ceja distraída. En Zeshor, descubrió pronto, lo extraño era la norma.
 
 Eso, al menos, jugaba a su favor.
 
@@ -280,7 +280,7 @@ El dolor en el costado le dio, paradójicamente, la claridad que necesitaba. No 
 
 Ella reaccionó —apenas un instante, lo justo para apartarse de los maderos que se desplomaban—, pero ese instante fue todo lo que él necesitó. Echó a correr, ignorando el dolor que le atravesaba el costado con cada zancada, metiéndose por el primer callejón que encontró sin plan alguno más allá de poner distancia.
 
-El estruendo del andamio no había pasado desapercibido. Voces empezaron a alzarse en la plaza a su espalda —gritos de sorpresa, alguien pidiendo la guardia a voces—, y por el rabillo del ojo, antes de perder la plaza de vista del todo, alcanzó a ver a la figura deteniéndose, calculando, decidiendo en una fracción de segundo que un enfrentamiento abierto frente a la guardia de Zeshor no era un riesgo que le compensara asumir.
+El estruendo del andamio no había pasado desapercibido. Voces empezaron a alzarse en la plaza a su espalda —gritos de sorpresa, alguien pidiendo la guardia a voces—, y al volver la cabeza, antes de perder la plaza de vista del todo, alcanzó a ver a la figura deteniéndose, calculando, decidiendo en una fracción de segundo que un enfrentamiento abierto frente a la guardia de Zeshor no era un riesgo que le compensara asumir.
 
 No lo siguió. O, si lo hizo, él corrió lo suficientemente rápido, lo suficientemente errático entre callejones que no reconocía, como para que la distancia terminara por tragarse cualquier rastro que pudiera seguir.
 
@@ -294,7 +294,7 @@ Fue entonces, con la respiración —si es que seguía siendo respiración lo qu
 
 —¡Oh! ¡Oh, oh, no te muevas! ¡Que no te muevas, he dicho!
 
-La voz era aguda, entusiasmada, completamente fuera de lugar en un rincón donde, hasta hacía un instante, lo único que sonaba era su propio metal quejándose. Alzó la cabeza y vio, recortada contra la luz mortecina de la calle, una figura que le llegaba, como mucho, a la altura de la cintura: un gnomo de aspecto muy joven,con unas gafas de cristales enormes subidas a la frente y una bolsa de herramientas casi más grande que su dueño.
+La voz era aguda, entusiasmada, completamente fuera de lugar en un rincón donde, hasta hacía un instante, lo único que sonaba era su propio metal quejándose. Alzó la cabeza y vio, recortada contra la luz mortecina de la calle, una figura que le llegaba, como mucho, a la altura de la cintura: un gnomo de aspecto muy joven, con unas gafas de cristales enormes subidas a la frente y una bolsa de herramientas casi más grande que su dueño.
 
 No parecía asustado. Ni un poco. Parecía, más bien, alguien a quien le acabaran de regalar el mejor día de su vida.
 
@@ -302,23 +302,23 @@ No parecía asustado. Ni un poco. Parecía, más bien, alguien a quien le acabar
 
 —Aléjate —logró decir él, y la palabra salió más débil de lo que pretendía—. No sé quién eres.
 
-—¡Willot! —respondió el gnomo, sin ofenderse lo más mínimo, y se llevó una mano al pecho con una solemnidad algo desmentida por las manchas de aceite que le cubrían los dedos—. Willot Saltamusgos. Artificiero. Bueno, más o menos, pero mi abuelo dicen que eso es cuestión de tiempo y de que deje de desmontar cosas que no debo. Mi familia tiene un sitio en el Consejo, por si te preocupa que sea un cualquiera. Y un torre que no te creerías. ¿Y tú?
+—¡Williot! —respondió el gnomo, sin ofenderse lo más mínimo, y se llevó una mano al pecho con una solemnidad algo desmentida por las manchas de aceite que le cubrían los dedos—. Williot Saltamusgos. Artificiero. Bueno, más o menos, pero mi abuelo dice que eso es cuestión de tiempo y de que deje de desmontar cosas que no debo. Mi familia tiene un sitio en el Consejo, por si te preocupa que sea un cualquiera. Y una torre que no te creerías. ¿Y tú?
 
 Dudó. Durante siete días, su nombre había cerrado bocas, endurecido rostros, apagado conversaciones a medias. Y esa misma tarde había comprobado lo que podía ocurrirle a quien lo llevaba grabado en el cuello.
 
 —Prefiero no decírtelo todavía —dijo, al fin.
 
-Esperaba una insistencia, una sospecha, algún gesto de retirada. Willot parpadeó tras sus gafas y, en lugar de eso, su sonrisa se ensanchó todavía más.
+Esperaba una insistencia, una sospecha, algún gesto de retirada. Williot parpadeó tras sus gafas y, en lugar de eso, su sonrisa se ensanchó todavía más.
 
 —¡Perfecto! Un misterio. Me encantan los misterios. Entonces serás "el paciente" hasta que decidas fiarte de mí, y no hay prisa, que los nombres, como los buenos datos, se dan cuando uno quiere. —Se interrumpió un segundo, ladeando la cabeza hacia el fondo de la calle, de donde llegaban cada vez más cerca silbatos y el golpeteo rítmico de botas sobre piedra—. Aunque, pensándolo bien, sí hay un poco de prisa. Eso es la guardia, ¿verdad? Por el estruendo del andamio. Vienen para acá.
 
 —Entonces vete —dijo él—. No quiero que te vean conmigo.
 
-—Ni hablar. —Willot ya estaba hurgando en su bolsa, de la que sacó un pequeño artefacto de latón con patas plegables que se desplegó con un chasquido y se colocó solo bajo el brazo de él, como un diminuto soporte con voluntad propia—. Mira, te lo voy a explicar todo, porque creo que es lo justo cuando alguien está tan abierto como tú: ahora mismo no tengo ni idea de qué eres. No hay nada igual en los libros, y eso que me los he leído casi todos, los que me han dejado. Pero sé lo que ven mis ojos: una estructura rota, un contenedor que sigue latiendo y un montón de piezas que quieren volver a su sitio. Y eso sí sé arreglarlo. O intentarlo, que ya es más de lo que va a hacer nadie más en esta ciudad por ti. Mi taller está a tres calles, con un atajo por el que la guardia no pasa. Voy a llevarte allí, voy a ponerme a trabajar y, si en algún momento me dices que pare, paro. Palabra de SaltaMusgos. Que no es poco, créeme.
+—Ni hablar. —Williot ya estaba hurgando en su bolsa, de la que sacó un pequeño artefacto de latón con patas plegables que se desplegó con un chasquido y se colocó solo bajo el brazo de él, como un diminuto soporte con voluntad propia—. Mira, te lo voy a explicar todo, porque creo que es lo justo cuando alguien está tan abierto como tú: ahora mismo no tengo ni idea de qué eres. No hay nada igual en los libros, y eso que me los he leído casi todos, los que me han dejado. Pero sé lo que ven mis ojos: una estructura rota, un contenedor que sigue latiendo y un montón de piezas que quieren volver a su sitio. Y eso sí sé arreglarlo. O intentarlo, que ya es más de lo que va a hacer nadie más en esta ciudad por ti. Mi taller está a tres calles, con un atajo por el que la guardia no pasa. Voy a llevarte allí, voy a ponerme a trabajar y, si en algún momento me dices que pare, paro. Palabra de SaltaMusgos. Que no es poco, créeme.
 
 Había algo, en la forma de decirlo, que rozó una parte que no sabía que tenía: un rechazo instintivo, antiguo, a que alguien más decidiera por él aunque fuera para salvarlo. Abrió la boca para protestar, y no encontró de dónde venía la protesta.
 
-Willot pareció notarlo, o notar algo. Se detuvo con una herramienta a medio sacar y, por primera vez desde que había aparecido, habló sin prisa.
+Williot pareció notarlo, o notar algo. Se detuvo con una herramienta a medio sacar y, por primera vez desde que había aparecido, habló sin prisa.
 
 —¿Prefieres que te pregunte antes de cada cosa? —dijo—. Puedo. Me costará, porque hablo mucho, pero puedo.
 
@@ -330,20 +330,170 @@ Willot pareció notarlo, o notar algo. Se detuvo con una herramienta a medio sac
 
 —Es pequeña, pero tiene carácter.
 
-Se apoyó con una mano en el artefacto de latón, que crujió bajo su peso pero aguantó, y se incorporó, con el costado ardiendo y la pierna protestando a cada paso. Los silbatos ya sonaban en la esquina de la calle cuando Willot, con una agilidad sorprendente para alguien con una bolsa de ese tamaño, levantó una tapa de hierro medio oculta tras unos barriles, una trampilla estrecha que olía a aceite y a metal caliente, y se la señaló con un gesto grandioso.
+Se apoyó con una mano en el artefacto de latón, que crujió bajo su peso pero aguantó, y se incorporó, con el costado ardiendo y la pierna protestando a cada paso. Los silbatos ya sonaban en la esquina de la calle cuando Williot, con una agilidad sorprendente para alguien con una bolsa de ese tamaño, levantó una tapa de hierro medio oculta tras unos barriles, una trampilla estrecha que olía a aceite y a metal caliente, y se la señaló con un gesto grandioso.
 
 —Después de ti. O, bueno, de mí, que sé dónde pisar. Tú sígueme y procura no hacer ruido, aunque dudo que se pueda, con eso que traes puesto.
 
 Bajó tras él, peldaño a peldaño, dejando atrás la calle, la plaza, la figura oscura que lo había derrotado y todas las preguntas sin respuesta que lo habían llevado hasta allí. La trampilla se cerró sobre ellos, y el ruido de la guardia quedó reducido a un rumor lejano.
 
-El túnel era estrecho y olía a aceite. Durante un buen trecho, la voz de Willot lo llenó todo: datos sobre aleaciones, una anécdota sobre un miembro del consejo que había perdido una ceja, una advertencia sobre un escalón roto. El caminaba detrás, apoyado en la grúa de latón, escuchando sin responder, hasta que una pregunta que llevaba rato dándole vueltas terminó por salirle sola.
+El túnel era estrecho y olía a aceite. Durante un buen trecho, la voz de Williot lo llenó todo: datos sobre aleaciones, una anécdota sobre un miembro del Consejo que había perdido una ceja, una advertencia sobre un escalón roto. Él caminaba detrás, apoyado en la grúa de latón, escuchando sin responder, hasta que una pregunta que llevaba rato dándole vueltas terminó por salirle sola.
 
 —¿Por qué haces esto? Ni siquiera me conoces.
 
-Willot dejó de hablar. Fue tan repentino que tardó un momento en darse cuenta de que el silencio también era una respuesta. Las gafas del gnomo, bajadas ahora sobre los ojos, reflejaron la luz de una lámpara colgada del techo, y por primera vez desde que lo había visto, su sonrisa no estaba del todo en su sitio.
+Williot dejó de hablar. Fue tan repentino que tardó un momento en darse cuenta de que el silencio también era una respuesta. Las gafas del gnomo, bajadas ahora sobre los ojos, reflejaron la luz de una lámpara colgada del techo, y por primera vez desde que lo había visto, su sonrisa no estaba del todo en su sitio.
 
 —Porque me fijo en ti por una razón —dijo, sin volverse—. Mi padre intentó hacer algo parecido a ti.
 
 No añadió nada más. No dijo si lo consiguió, ni qué fue de ello, ni por qué lo dijo en pasado. Aceleró un poco el paso, y su voz, cuando volvió a sonar, había recuperado casi toda su alegría, aunque no del todo, y no hasta que doblaron la esquina y el túnel se abrió a una escalera de caracol que subía, entre luces cálidas y el tintineo de mil piezas pequeñas, hacia un taller.
 
 Qilby lo siguió. Comprendió, con cierta sorpresa, que llevaba varios minutos sin sentir miedo. Y comprendió también, sin poder explicar por qué, que quizás aquel gnomo cargaba con algo más pesado de lo que dejaba ver.
+
+#### Capítulo 5 - Una piedra rota y una promesa.
+
+Williot cumplió su palabra con una puntualidad que a Qilby le costó, al principio, creerse.
+
+Cada herramienta que sacaba de la bolsa venía precedida de una explicación, a veces tan larga que la reparación avanzaba menos que la charla. "Voy a aflojar esta placa para llegar al pulso, ¿te parece bien?" "Esto de aquí es un estabilizador, lo he hecho yo, y si no te gusta cómo suena lo cambio." "Ahora voy a tocar el borde de la grieta, que va a sentirse raro, y si no quieres, paro." Nunca tocó nada sin avisar. Y las pocas veces que Qilby dijo que no, Williot se detuvo en seco, con la mano a medio camino, y buscó otra manera de llegar al mismo sitio.
+
+Tardó semanas. La grieta del costado se cerró con una aleación que el joven artificiero tuvo que inventar sobre la marcha, entre tres noches sin dormir y un par de explosiones pequeñas que atribuyó, sin mucha convicción, a "efectos secundarios del proceso". Pero el pulso de la armadura recuperó su ritmo, la pierna volvió a doblarse sin quejarse y, un día cualquiera, Qilby se descubrió caminando por el taller sin pensar en cada paso, y comprendió que había dejado de contar los días desde la herida.
+
+Hubo otra cosa que nadie había previsto. En su cinturón colgaba, desde que había despertado, una especie de reloj de esfera sin números, que él había dado por un adorno más de la armadura, porque nunca se había movido. Una mañana, mientras Williot revisaba el pulso de la armadura, el mecanismo emitió un chasquido, y las agujas, que llevaban quién sabía cuánto tiempo detenidas, empezaron a girar con una naturalidad tranquila, como si siempre hubieran estado esperando solo a que el resto de él volviera a latir bien.
+
+Williot se quedó mirándolo con la boca abierta y la herramienta olvidada en el aire.
+
+—Eso —dijo, con la voz de quien acaba de abrir un regalo que no sabía que existía— no estaba en mis cálculos. ¿Sabes qué mide?
+
+Qilby no lo sabía. Williot, por primera vez desde que lo conocía, se quedó sin hablar durante casi un minuto, y después anotó la hora exacta en una libreta, y la fecha, y una frase subrayada dos veces.
+
+El taller ocupaba la planta baja de una torre torcida, de las que en la capital se inclinaban hacia el lado que les daba la gana, y compartía techo con el resto de una familia que, por lo que Qilby fue entendiendo, era grande, ruidosa y con la costumbre de aparecer a cualquier hora para opinar sobre lo que Williot estuviera desmontando. El abuelo, Wilbur, era el más amable de todos, aunque Qilby tardó semanas en atreverse a comprobarlo. Lo evitó por pura timidez, y se lo cruzó, naturalmente, el día menos pensado: sin la capa, en el balcón de la torre, sosteniendo una taza de té que Williot le había dado una tarde, a medias en broma, y que él llevaba un buen rato mirando sin saber qué hacer con ella. El anciano se sorprendió. Lo miró un rato largo, y en lugar de asustarse sonrió con toda la cara.
+
+—Vaya —dijo—. Así que tú eres el famoso paciente. Mi nieto lleva semanas sin dormir por tu culpa, y ahora entiendo por qué. Qué cosa más hermosa.
+
+Se acercó y, con mucho cuidado, le cambió la taza fría por otra humeante que traía en las manos, “por si algún día te apetece”, aunque los dos sabían que Qilby no podía bebérsela. Después se fue silbando. Desde entonces, sin que nadie lo hubiera pedido, el viejo fue el único de la torre que apoyó sin condiciones lo que Williot hacía con Qilby. Cuando alguien de la familia empezaba a hacer preguntas sobre el huésped del taller, Wilbur contestaba con suavidad que era asunto suyo y que no había más que hablar, y la conversación se acababa ahí.
+
+Había otras cosas que Qilby fue aprendiendo sin que nadie se las explicara, simplemente por vivir junto a ellas. Que Williot hablaba solo cuando estaba nervioso y callaba cuando le importaba algo de verdad. Que guardaba, en un estante alto del taller, bajo una campana de cristal, una piedra del tamaño de un puño cerrado: una gema opaca, grisácea, cruzada de grietas finas como las de un huevo a punto de romperse. Nunca la tocaba delante de nadie. Pero a veces, cuando creía que Qilby no miraba, se quedaba un rato frente a ella, con las gafas subidas a la frente y los hombros un poco más bajos de lo normal.
+
+—¿Qué es? —preguntó Qilby, una tarde, sin saber si hacía bien.
+
+—Una piedra del alma —respondió Williot, tras un silencio que duró más de lo que debería—. O lo que queda de una. Está rota. No sirve para nada. —Y sonrió, con esa sonrisa que no terminaba de ocupar toda la cara—. Es una de esas cosas que se guardan por si acaso.
+
+No dijo por si acaso qué, y Qilby, que ya sabía lo que era un hilo que no se debe tirar, no preguntó más.
+
+---
+
+Le dijo su nombre a los tres meses, y en realidad fueron dos.
+
+No fue un momento solemne. Estaban en el taller, a medianoche, con Williot de rodillas ajustando algo en su tobillo y hablando de cómo funcionan las resonancias en un metal que ya no es solo metal, y Qilby, sin pensarlo demasiado, dijo:
+
+—Me llamo Qilby.
+
+Williot se detuvo. Alzó la cabeza, con el destornillador todavía en la mano, y lo miró durante un segundo con los ojos muy abiertos tras las gafas.
+
+—Y es un nombre que cierra bocas —añadió Qilby, porque le pareció justo avisar—. Lo he comprobado. Me lo encontré grabado en el cuello y no sé si es mío o de quien me hizo. —Dudó—. Y hay otro. Me lo dijo la figura de la plazoleta, justo antes de atacarme y dejarme como me encontraste. Me llamó Noesis.
+
+Dijo la palabra despacio, como quien posa algo que quema. Llevaba tres meses callándosela, y no por desconfianza, sino porque eran dos nombres y ninguno lo sentía suyo. Prefería dárselos juntos, con todas sus dudas, a elegir uno por Williot.
+
+Williot no preguntó por qué cerraba bocas el primero ni a quién pertenecía. Se quedó un momento callado, saboreando las dos palabras como datos valiosos.
+
+—Noesis —repitió—. Qilby. Me gustan los dos. Los guardo. Y cuando decidas cuál es el tuyo, o si son los dos, o ninguno, me lo dices, y no hay prisa.
+
+—O de nadie —dijo Qilby.
+
+—O de nadie, todavía. —Williot asintió despacio—. Qilby. Noesis. Me gustan los dos. Los guardo. Y cuando decidas cuál es el tuyo, o si son los dos, o ninguno, me lo dices, y no hay prisa.
+
+Y volvió a su tobillo, y no volvió a hablar del tema, y Qilby entendió que a veces la mejor respuesta a una confianza era simplemente no hacer ruido con ella.
+
+---
+
+Pasaron los meses. Fuera de la torre, la ciudad siguió con sus luces y sus puentes sin sostener; dentro, Qilby aprendió a salir con la capa bien calada y a volver antes de que oscureciera, a leer los rótulos de las tiendas en un idioma que ya empezaba a pesarle menos, a distinguir los mercados donde se podía preguntar de los que convenía evitar. De la figura oscura de la plazoleta no volvió a saberse nada, y eso, en lugar de tranquilizarlos, se les fue quedando a los dos como una espina pequeña, de las que no duelen hasta que uno se apoya en ellas.
+
+Y poco a poco, sin decidirlo, la palabra "taller" empezó a significar otra cosa.
+
+---
+
+Fue Williot quien sacó el tema, una noche de finales de invierno, con la voz de alguien que lleva semanas ensayando una frase.
+
+—He estado pensando en tus recuerdos.
+
+Qilby levantó la cabeza del libro de posturas, que ya conocía de memoria pero seguía hojeando por costumbre.
+
+—No tengo recuerdos.
+
+—Exacto. Pero no es que no existan. Es que no sabes llegar a ellos. —Williot se acercó a la campana de cristal sin atreverse a levantarla—. Hay algo guardado dentro de ti. Lo noto cada vez que te reviso: hay capas que no responden a nada de lo que le hago, como puertas cerradas desde dentro. Y esto —la piedra, tras el cristal, parecía más gris que nunca— es una piedra del alma. Están hechas para hablar con lo que hay debajo. La mía está rota, pero creo que, contigo como base, puede aguantar una vez. Una sola.
+
+—¿Una vez para qué?
+
+—Para abrir una de esas puertas.
+
+Hubo un silencio largo. Qilby pensó en el reflejo del río, en la sensación de haber querido a alguien sin poder ponerle cara, en casi dos años de respuestas que siempre eran otras preguntas.
+
+—¿Qué puede salir mal?
+
+Williot no contestó de inmediato, y esa duda fue la respuesta más honesta que podía darle.
+
+—Probablemente nada. Posiblemente algo. La piedra podría romperse del todo, tu cuerpo podría rechazarla, o podría no pasar nada de nada. No lo haría si no creyera que merece la pena. Y no lo haría si tú no quisieras.
+
+—Quiero saber qué haces antes de que lo hagas —dijo Qilby, y lo dijo casi como una broma, la que ya compartían.
+
+—Hecho —dijo Williot, y no sonrió.
+
+---
+
+Preparó la mesa de trabajo con una lentitud que no era propia de él. Apagó las lámparas menos necesarias, dibujó un círculo de gis alrededor de Qilby, colocó la piedra en un soporte de latón sobre el pecho, justo donde latía el pulso, y fue explicando cada paso en voz baja, como quien reza. En el cinturón de Qilby, el reloj empezó a marcar más rápido que nunca, y ninguno de los dos supo decir si era buena señal.
+
+—Voy a empezar —dijo Williot—. Dime si paro.
+
+—No pares.
+
+Al principio no pasó nada. Después sintió un zumbido, profundo, como el de un cuerpo vibrando dentro de otro. Algo, al otro lado de una puerta que no sabía que existía, se movió. No llegó a abrirse. Algo golpeó desde dentro, una sola vez, con fuerza, como si lo que había detrás hubiera estado esperando ese golpe desde hacía mucho tiempo y no supiera cómo darlo de otra manera.
+
+La piedra gritó. No fue un sonido, fue una luz: una grieta nueva recorrió la gema de lado a lado, y de ella salió un resplandor blanco que llenó el taller entero antes de que nadie pudiera reaccionar. Williot soltó el soporte, tropezó hacia atrás y cayó sobre el banco, y la luz, en lugar de apagarse, buscó otro sitio al que ir.
+
+Lo encontró en la mesa. En el martillo de trabajo de Williot, el que siempre llevaba al cinto y que había dejado, sin pensar, a un palmo de la piedra. La gema se elevó del soporte, giró un instante en el aire como si dudara, y se clavó en la cabeza del martillo con un chasquido seco, hundiéndose en el metal hasta quedar encajada como una joya en su engarce. El acero se abrió a su alrededor y se cerró sobre ella con un reborde que antes no existía. Las grietas de la piedra, todavía visibles, empezaron a brillar desde dentro con un pulso sordo, regular, de algo que acabara de despertar.
+
+Y la torre empezó a gritar.
+
+Eran campanas, o algo parecido: un chillido agudo y magnético que bajó por todas las paredes a la vez, señal de que algo había sacudido las protecciones del edificio con una fuerza que no estaba permitida. Arriba, alguien gritó. Pasos, voces, una puerta.
+
+Qilby se incorporó con el pecho todavía vibrando. No había recuperado ni un solo recuerdo. La puerta seguía cerrada. Pero Williot, con el martillo temblando en la mano y la luz subiéndole por los brazos, lo miraba con una expresión que no sabía leer.
+
+—Lo siento —dijo—. Lo siento muchísimo, yo...
+
+—Williot, mi niño.
+
+Wilbur estaba en la puerta del taller, en bata, con una lámpara en la mano y el pelo revuelto. Miró el martillo con la gema encajada, todavía latiendo, y la cara de su nieto. No gritó. Soltó un suspiro largo, de los que llevan años guardados.
+
+—Era una piedra del alma —dijo—. Las protecciones de esta torre llevan décadas esperando que una despierte. No va a bajar la guardia, Williot. Va a bajar el Consejo entero, y no va a preguntar de quién fue la idea.
+
+—Abuelo, ha sido culpa mía...
+
+—Ya hablaremos de eso. —Cruzó el taller hasta una estantería, tiró de un libro que no era libro, y el mueble giró despacio revelando un hueco oscuro que olía a piedra vieja—. Y no basta con salir de la torre. Antes del amanecer habrán cerrado las puertas de la ciudad, y poco después las del país. A tu padre lo buscaron durante años por menos que esto.
+
+Williot palideció. Qilby, que no entendía del todo lo que acababa de oír, comprendió lo suficiente.
+
+—Este túnel lo usó mi padre, y el padre de mi padre. Sale al otro lado del canal, y desde allí hay un camino de contrabandistas hasta la frontera. —Sacó de su bata una bolsa pesada y se la puso en las manos a Williot—. Esto es para pagar el paso.
+
+—No puedo dejarte aquí —dijo Williot, y la voz se le rompió a mitad de frase.
+
+—Yo les diré que fue un accidente de un viejo con las manos torpes. Me creerán, si me ven llorar, y llorar se me da muy bien. —Le revolvió el pelo a su nieto con una ternura torpe, y después se volvió hacia Qilby, y lo miró con aquella sonrisa—. Cuídalo. Y deja que te cuide.
+
+Qilby buscó algo que decir y no lo encontró. Finalmente asintió una sola vez, con una gravedad que le salió del fondo.
+
+Abajo, las campanas de la torre se perdieron en cuanto la estantería se cerró a sus espaldas.
+
+---
+
+El túnel los escupió junto al canal cuando todavía era de noche. Corrieron por los muelles con la capa de Qilby calada y el martillo de Williot envuelto en un trapo, porque brillaba demasiado. A su espalda, la ciudad empezaba a despertar a golpes de campana: una, y luego otra, y luego todas a la vez.
+
+El contrabandista era un hombre sin nombre que cobró por adelantado, no hizo preguntas y los llevó por una vereda que bordeaba el puesto fronterizo sin tocarlo. En lo alto de una colina, el hombre se detuvo.
+
+—Hasta aquí llego yo —dijo—. Lo que hay más allá ya no es de Zeshor. Y no volváis.
+
+Amanecía cuando cruzaron. Williot se detuvo en la cima y se giró una sola vez. Allá abajo, la ciudad se extendía bajo un resplandor difuso, como un cuenco de luz líquida volcado sobre la tierra. Desde allí no parecía un lugar al que se pudiera volver.
+
+—Lo siento —dijo, sin mirarlo—. Por todo esto.
+
+—Querías saber qué había detrás de la puerta —respondió Qilby—. Y yo también quería saberlo.
+
+En el cinturón, el reloj seguía andando.
+
+Seguía sin recuerdos. Pero caminaba junto a alguien que sabía su nombre, y eso, pensó, era una promesa que acababa de empezar.
