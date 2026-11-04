@@ -1,7 +1,7 @@
 ---
 tags:
   - Los7GrandesSueños
-nombre: Vexilia
+nombre: Nymiera
 Edad: " ???"
 raza: A.S.I.R
 Niño: "[[Valery]]"
@@ -13,6 +13,8 @@ Niño: "[[Valery]]"
 
 
 ### Origen del Nombre
+
+***Desactualizado
 
 **Vexilia** viene del latín _vexillum_: el estandarte o bandera que identificaba a una unidad del ejército romano. Su significado es más rico de lo que parece.
 
