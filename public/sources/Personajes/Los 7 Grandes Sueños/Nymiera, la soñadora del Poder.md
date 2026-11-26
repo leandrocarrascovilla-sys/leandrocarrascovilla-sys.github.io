@@ -14,11 +14,16 @@ Niño: "[[Valery]]"
 
 ### Origen del Nombre
 
-***Desactualizado
+**Nymiera** es un nombre construido, así que no tiene una etimología documentada. Su peso no viene de las raíces, sino de la figura a la que el nombre remite: una guardiana antigua, de las que despiertan cuando el mundo cambia de ciclo para que la transición no lo rompa todo.
 
-**Vexilia** viene del latín _vexillum_: el estandarte o bandera que identificaba a una unidad del ejército romano. Su significado es más rico de lo que parece.
+#### La figura detrás del nombre
 
-- **Un punto de referencia**: en el campo de batalla el vexillum marcaba dónde estaba la unidad y a quién seguir. Quien lo llevaba (el _vexillarius_) no mandaba por fuerza, sino porque los demás se orientaban por él. Eso encaja con Valery, que lidera sin buscar el aplauso.
-- **Un destacamento enviado en misión**: una _vexillatio_ era una fuerza separada del grueso del ejército y enviada con un encargo concreto. Es casi literalmente lo que hace Imperia en el Cap. 4: la mandan a recuperar a Noesis.
-- **Un eco histórico**: _Vexilla Regis_ ("los estandartes del rey avanzan") es un himno latino muy antiguo. Le da al nombre un aire solemne sin que sea un nombre de uso común.
-- **La coleta roja del yelmo** funciona visualmente como un pequeño estandarte, así que el nombre y el diseño se refuerzan.
+- **Una portadora, no una dueña**: Nymiera es la anfitriona de una fuerza mucho mayor que ella, la esencia de la Vida misma. Su poder no es suyo del todo: lo custodia. Es casi literalmente el Principio A.S.I.R.: un recipiente que hereda el impulso de algo más grande que quien lo lleva.
+- **El poder como responsabilidad**: su función no es dominar, sino sostener la estabilidad cuando todo se reinicia. Encaja con la lectura del Sueño de la Influencia y el Poder en [[-Los 7 Grandes Sueños-]]: la convicción de que uno vería el mundo mejor si pudiera decidir sobre él.
+- **La vida frente a la destrucción**: su contrapartida representa la muerte, y el equilibrio entre ambas es lo que mantiene el mundo en pie. Es una buena imagen de la sombra del Sueño: confundir influencia con control, y perder de vista a las personas en el camino hacia la visión.
+
+#### Cómo encaja con Valery
+
+- **Liderar por deber**: Valery es la única del grupo que lidera sin quererlo. Nymiera también carga con un rol que no pidió.
+- **Disciplina y contención**: la guardiana que mantiene el orden, no la que lo impone por gusto, coincide con una personalidad disciplinada, reservada y autoritaria.
+- **Un nombre que le viene dado**: como Zéfiro, es un nombre que le da [[Qilby]], no que ella elija.
