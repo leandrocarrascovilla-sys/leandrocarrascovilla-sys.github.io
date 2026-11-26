@@ -9,7 +9,6 @@ Niño: "[[Gisela]]"
 
 
 
-
 ### Imagen
 
 ![[Isolda.jpg]]

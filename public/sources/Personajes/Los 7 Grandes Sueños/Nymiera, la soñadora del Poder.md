@@ -9,7 +9,7 @@ Niño: "[[Valery]]"
 
 ### Imagen
 
-![[Vexilia.jpg]]
+![[Nymiera.jpg]]
 
 
 ### Origen del Nombre
